@@ -1,0 +1,3868 @@
+{
+  "format_version": "1.0",
+  "game_type": "word_search",
+  "total_levels": 50,
+  "coordinate_system": "0-based [row, column]",
+  "directions": [
+    "up_left",
+    "up",
+    "up_right",
+    "left",
+    "right",
+    "down_left",
+    "down",
+    "down_right"
+  ],
+  "levels": [
+    {
+      "level": 1,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "UBNOSE",
+        "PIBNNK",
+        "DAORYY",
+        "RENCOS",
+        "QUSZLU",
+        "ICWKAO"
+      ],
+      "words": [
+        {
+          "word": "NOSE",
+          "start": [
+            0,
+            2
+          ],
+          "end": [
+            0,
+            5
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "DESK",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            5,
+            3
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "ROAD",
+          "start": [
+            2,
+            3
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "FDCMFC",
+        "VNGGVX",
+        "HOMELA",
+        "RINIGI",
+        "RLVILX",
+        "SALRZK"
+      ],
+      "words": [
+        {
+          "word": "MILK",
+          "start": [
+            2,
+            2
+          ],
+          "end": [
+            5,
+            5
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "HOME",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            2,
+            3
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "LION",
+          "start": [
+            4,
+            1
+          ],
+          "end": [
+            1,
+            1
+          ],
+          "direction": "up"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "LMUEVJ",
+        "FGCRFC",
+        "DLOGOR",
+        "FMBLRN",
+        "RDDAKK",
+        "KYUXSV"
+      ],
+      "words": [
+        {
+          "word": "FORK",
+          "start": [
+            1,
+            4
+          ],
+          "end": [
+            4,
+            4
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "COLD",
+          "start": [
+            1,
+            5
+          ],
+          "end": [
+            4,
+            2
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "GOLD",
+          "start": [
+            2,
+            3
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "YUHBAP",
+        "DQUYQP",
+        "FOAJLV",
+        "FLOWGQ",
+        "OQAXIJ",
+        "FROGZL"
+      ],
+      "words": [
+        {
+          "word": "WOLF",
+          "start": [
+            3,
+            3
+          ],
+          "end": [
+            3,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "FLAG",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            5,
+            3
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "FROG",
+          "start": [
+            5,
+            0
+          ],
+          "end": [
+            5,
+            3
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "IWOIDH",
+        "XXKFAB",
+        "OVENPR",
+        "LEDAAX",
+        "DCXFRZ",
+        "EUGFKH"
+      ],
+      "words": [
+        {
+          "word": "OVEN",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            2,
+            3
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "HAND",
+          "start": [
+            0,
+            5
+          ],
+          "end": [
+            3,
+            2
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "PARK",
+          "start": [
+            2,
+            4
+          ],
+          "end": [
+            5,
+            4
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "LIANVR",
+        "LBCNAA",
+        "SUKEPF",
+        "OJPNSW",
+        "NCAGNZ",
+        "GHUUHS"
+      ],
+      "words": [
+        {
+          "word": "NAIL",
+          "start": [
+            0,
+            3
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "PEAR",
+          "start": [
+            3,
+            2
+          ],
+          "end": [
+            0,
+            5
+          ],
+          "direction": "up_right"
+        },
+        {
+          "word": "SONG",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            5,
+            0
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "UNQXUI",
+        "HSYEJT",
+        "CKLODF",
+        "ECROSE",
+        "RUSAWS",
+        "WDHDDF"
+      ],
+      "words": [
+        {
+          "word": "DUCK",
+          "start": [
+            5,
+            1
+          ],
+          "end": [
+            2,
+            1
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "DARK",
+          "start": [
+            5,
+            4
+          ],
+          "end": [
+            2,
+            1
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "ROSE",
+          "start": [
+            3,
+            2
+          ],
+          "end": [
+            3,
+            5
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "FEUSIO",
+        "XOAMWP",
+        "KCORII",
+        "EBETKU",
+        "GMCRKP",
+        "ZEWKIP"
+      ],
+      "words": [
+        {
+          "word": "KIWI",
+          "start": [
+            3,
+            4
+          ],
+          "end": [
+            0,
+            4
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "FOOT",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            3,
+            3
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "ROCK",
+          "start": [
+            2,
+            3
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "GRVPRO",
+        "ZOPNPL",
+        "DMLGSK",
+        "WSEFIC",
+        "LMADCO",
+        "FXFPUS"
+      ],
+      "words": [
+        {
+          "word": "GOLF",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            3,
+            3
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "LEAF",
+          "start": [
+            2,
+            2
+          ],
+          "end": [
+            5,
+            2
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "SOCK",
+          "start": [
+            5,
+            5
+          ],
+          "end": [
+            2,
+            5
+          ],
+          "direction": "up"
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "size": 6,
+      "difficulty": "easy",
+      "board": [
+        "EXCZBM",
+        "DMDNAL",
+        "UAEZUC",
+        "VAEKFT",
+        "DAGPAO",
+        "OGOATL"
+      ],
+      "words": [
+        {
+          "word": "GOAT",
+          "start": [
+            5,
+            1
+          ],
+          "end": [
+            5,
+            4
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "MAZE",
+          "start": [
+            0,
+            5
+          ],
+          "end": [
+            3,
+            2
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "LAKE",
+          "start": [
+            5,
+            5
+          ],
+          "end": [
+            2,
+            2
+          ],
+          "direction": "up_left"
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "YBRUSHH",
+        "RCWEJAP",
+        "AITGRLS",
+        "BDAGGAK",
+        "GZNHTOG",
+        "MOJACKH",
+        "JUUYPPJ"
+      ],
+      "words": [
+        {
+          "word": "BRUSH",
+          "start": [
+            0,
+            1
+          ],
+          "end": [
+            0,
+            5
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "CHAIR",
+          "start": [
+            5,
+            4
+          ],
+          "end": [
+            1,
+            0
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "PANDA",
+          "start": [
+            6,
+            4
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "KOALA",
+          "start": [
+            5,
+            5
+          ],
+          "end": [
+            1,
+            5
+          ],
+          "direction": "up"
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "VAKQRZB",
+        "HTDBHYP",
+        "BISTONE",
+        "HGKCHAE",
+        "LILACSL",
+        "ONRRVXS",
+        "TYSIADB"
+      ],
+      "words": [
+        {
+          "word": "STONE",
+          "start": [
+            2,
+            2
+          ],
+          "end": [
+            2,
+            6
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "LILAC",
+          "start": [
+            4,
+            0
+          ],
+          "end": [
+            4,
+            4
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "SLEEP",
+          "start": [
+            5,
+            6
+          ],
+          "end": [
+            1,
+            6
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "DAISY",
+          "start": [
+            6,
+            5
+          ],
+          "end": [
+            6,
+            1
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "RRFVRKF",
+        "USRPDAI",
+        "GLZGRJE",
+        "BZLEDAA",
+        "YSTORYG",
+        "LAHZUGL",
+        "WXRSYAE"
+      ],
+      "words": [
+        {
+          "word": "RUGBY",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            4,
+            0
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "EAGLE",
+          "start": [
+            2,
+            6
+          ],
+          "end": [
+            6,
+            6
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "WATER",
+          "start": [
+            6,
+            0
+          ],
+          "end": [
+            2,
+            4
+          ],
+          "direction": "up_right"
+        },
+        {
+          "word": "STORY",
+          "start": [
+            4,
+            1
+          ],
+          "end": [
+            4,
+            5
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "JTQLOID",
+        "SSCKLAP",
+        "IOMLICH",
+        "DRQNVBO",
+        "MFOFENN",
+        "ACLJDAE",
+        "YESUOHP"
+      ],
+      "words": [
+        {
+          "word": "OLIVE",
+          "start": [
+            0,
+            4
+          ],
+          "end": [
+            4,
+            4
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "HOUSE",
+          "start": [
+            6,
+            5
+          ],
+          "end": [
+            6,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "PHONE",
+          "start": [
+            1,
+            6
+          ],
+          "end": [
+            5,
+            6
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "FROST",
+          "start": [
+            4,
+            1
+          ],
+          "end": [
+            0,
+            1
+          ],
+          "direction": "up"
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "KBSYLEY",
+        "RZAUHZJ",
+        "NEPLANE",
+        "FKPNBFZ",
+        "VJLNCXL",
+        "GWESOOG",
+        "BGEARTH"
+      ],
+      "words": [
+        {
+          "word": "EARTH",
+          "start": [
+            6,
+            2
+          ],
+          "end": [
+            6,
+            6
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "APPLE",
+          "start": [
+            1,
+            2
+          ],
+          "end": [
+            5,
+            2
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "PLANE",
+          "start": [
+            2,
+            2
+          ],
+          "end": [
+            2,
+            6
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "GOOSE",
+          "start": [
+            5,
+            6
+          ],
+          "end": [
+            5,
+            2
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "AMANGOM",
+        "JFASZGA",
+        "VQECVET",
+        "CIQKRRM",
+        "QITRAIN",
+        "YYEESNL",
+        "OEHFHCS"
+      ],
+      "words": [
+        {
+          "word": "TRAIN",
+          "start": [
+            4,
+            2
+          ],
+          "end": [
+            4,
+            6
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "MANGO",
+          "start": [
+            0,
+            1
+          ],
+          "end": [
+            0,
+            5
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "SNAKE",
+          "start": [
+            6,
+            6
+          ],
+          "end": [
+            2,
+            2
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "HEART",
+          "start": [
+            6,
+            2
+          ],
+          "end": [
+            2,
+            6
+          ],
+          "direction": "up_right"
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "EGUOYQK",
+        "PBZFXEI",
+        "ADNUCEO",
+        "RJGNRFL",
+        "GHAONRL",
+        "EDTMUHE",
+        "ZSPFVNC"
+      ],
+      "words": [
+        {
+          "word": "DANCE",
+          "start": [
+            5,
+            1
+          ],
+          "end": [
+            1,
+            5
+          ],
+          "direction": "up_right"
+        },
+        {
+          "word": "STORE",
+          "start": [
+            6,
+            1
+          ],
+          "end": [
+            2,
+            5
+          ],
+          "direction": "up_right"
+        },
+        {
+          "word": "CELLO",
+          "start": [
+            6,
+            6
+          ],
+          "end": [
+            2,
+            6
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "GRAPE",
+          "start": [
+            4,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "direction": "up"
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "FPSVJES",
+        "FAMUIPO",
+        "USBNUWC",
+        "OAYEWCO",
+        "IYJEABU",
+        "WCDRGCC",
+        "OSUGARH"
+      ],
+      "words": [
+        {
+          "word": "BEACH",
+          "start": [
+            2,
+            2
+          ],
+          "end": [
+            6,
+            6
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "GREEN",
+          "start": [
+            6,
+            3
+          ],
+          "end": [
+            2,
+            3
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "COUCH",
+          "start": [
+            2,
+            6
+          ],
+          "end": [
+            6,
+            6
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "SUGAR",
+          "start": [
+            6,
+            1
+          ],
+          "end": [
+            6,
+            5
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "WUWXRML",
+        "FGPCRPC",
+        "RULMMTH",
+        "ACAARVC",
+        "CESOOMK",
+        "SJSETLV",
+        "HROFSCT"
+      ],
+      "words": [
+        {
+          "word": "SCARF",
+          "start": [
+            5,
+            0
+          ],
+          "end": [
+            1,
+            0
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "MOOSE",
+          "start": [
+            4,
+            5
+          ],
+          "end": [
+            4,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "STORM",
+          "start": [
+            6,
+            4
+          ],
+          "end": [
+            2,
+            4
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "LASSO",
+          "start": [
+            2,
+            2
+          ],
+          "end": [
+            6,
+            2
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "size": 7,
+      "difficulty": "medium",
+      "board": [
+        "TQKOUIR",
+        "FEEBIOF",
+        "LSQTBLS",
+        "UZHIQPR",
+        "TKNIOGX",
+        "EHXORJB",
+        "ATNUCTZ"
+      ],
+      "words": [
+        {
+          "word": "ROBIN",
+          "start": [
+            0,
+            6
+          ],
+          "end": [
+            4,
+            2
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "SHIRT",
+          "start": [
+            2,
+            1
+          ],
+          "end": [
+            6,
+            5
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "FLUTE",
+          "start": [
+            1,
+            0
+          ],
+          "end": [
+            5,
+            0
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "SPOON",
+          "start": [
+            2,
+            6
+          ],
+          "end": [
+            6,
+            2
+          ],
+          "direction": "down_left"
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "size": 8,
+      "difficulty": "medium",
+      "board": [
+        "CHNCERIT",
+        "XVEVGYJK",
+        "XSDSZHMZ",
+        "WNRETTEL",
+        "MEADOWKN",
+        "AJGGREJZ",
+        "SOCCERBI",
+        "COOKIEYR"
+      ],
+      "words": [
+        {
+          "word": "MEADOW",
+          "start": [
+            4,
+            0
+          ],
+          "end": [
+            4,
+            5
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "GARDEN",
+          "start": [
+            5,
+            2
+          ],
+          "end": [
+            0,
+            2
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "LETTER",
+          "start": [
+            3,
+            7
+          ],
+          "end": [
+            3,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "COOKIE",
+          "start": [
+            7,
+            0
+          ],
+          "end": [
+            7,
+            5
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "SOCCER",
+          "start": [
+            6,
+            0
+          ],
+          "end": [
+            6,
+            5
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "size": 8,
+      "difficulty": "medium",
+      "board": [
+        "OPELTEEB",
+        "DZHOXUMZ",
+        "AEDLADIN",
+        "EREPIPRN",
+        "BASAPYRO",
+        "OUEESQOS",
+        "YQRINCRY",
+        "BSTJVWEF"
+      ],
+      "words": [
+        {
+          "word": "SQUARE",
+          "start": [
+            7,
+            1
+          ],
+          "end": [
+            2,
+            1
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "MIRROR",
+          "start": [
+            1,
+            6
+          ],
+          "end": [
+            6,
+            6
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "ZIPPER",
+          "start": [
+            1,
+            7
+          ],
+          "end": [
+            6,
+            2
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "BEETLE",
+          "start": [
+            0,
+            7
+          ],
+          "end": [
+            0,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "DESERT",
+          "start": [
+            2,
+            2
+          ],
+          "end": [
+            7,
+            2
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "size": 8,
+      "difficulty": "medium",
+      "board": [
+        "XLQUVCZV",
+        "KITTENDB",
+        "OTORRACF",
+        "NMCHERRY",
+        "GDGSFIHI",
+        "COTELLAB",
+        "CLWAJABZ",
+        "GRATIUGE"
+      ],
+      "words": [
+        {
+          "word": "GUITAR",
+          "start": [
+            7,
+            6
+          ],
+          "end": [
+            7,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "BALLET",
+          "start": [
+            5,
+            7
+          ],
+          "end": [
+            5,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "KITTEN",
+          "start": [
+            1,
+            0
+          ],
+          "end": [
+            1,
+            5
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "CARROT",
+          "start": [
+            2,
+            6
+          ],
+          "end": [
+            2,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "CHERRY",
+          "start": [
+            3,
+            2
+          ],
+          "end": [
+            3,
+            7
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "size": 8,
+      "difficulty": "medium",
+      "board": [
+        "ROBHVKTM",
+        "DECYOEGW",
+        "NOMLASIC",
+        "ONMMPFNA",
+        "YEZGAMGF",
+        "AIKNCHEW",
+        "RJKNHLRU",
+        "CDONKEYE"
+      ],
+      "words": [
+        {
+          "word": "SALMON",
+          "start": [
+            2,
+            5
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "CRAYON",
+          "start": [
+            7,
+            0
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "GINGER",
+          "start": [
+            1,
+            6
+          ],
+          "end": [
+            6,
+            6
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "DONKEY",
+          "start": [
+            7,
+            1
+          ],
+          "end": [
+            7,
+            6
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "HAMMER",
+          "start": [
+            5,
+            5
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "direction": "up_left"
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "size": 8,
+      "difficulty": "medium",
+      "board": [
+        "XYRZFNJN",
+        "CRWIZARD",
+        "ETEVZCVB",
+        "SEETGLYM",
+        "EOPASJDM",
+        "EPUISYKJ",
+        "HNOMUNOL",
+        "CVRETNIW"
+      ],
+      "words": [
+        {
+          "word": "WIZARD",
+          "start": [
+            1,
+            2
+          ],
+          "end": [
+            1,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "POETRY",
+          "start": [
+            5,
+            1
+          ],
+          "end": [
+            0,
+            1
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "OYSTER",
+          "start": [
+            6,
+            6
+          ],
+          "end": [
+            1,
+            1
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "CHEESE",
+          "start": [
+            7,
+            0
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "WINTER",
+          "start": [
+            7,
+            7
+          ],
+          "end": [
+            7,
+            2
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "size": 8,
+      "difficulty": "hard",
+      "board": [
+        "GCGFWYCN",
+        "UWYMUMOO",
+        "TGLKWOTC",
+        "TEAPOTTW",
+        "LZFALCON",
+        "SDQYOKNY",
+        "ALJUNGLE",
+        "QSUNSETC"
+      ],
+      "words": [
+        {
+          "word": "FALCON",
+          "start": [
+            4,
+            2
+          ],
+          "end": [
+            4,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "TEAPOT",
+          "start": [
+            3,
+            0
+          ],
+          "end": [
+            3,
+            5
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "COTTON",
+          "start": [
+            0,
+            6
+          ],
+          "end": [
+            5,
+            6
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "JUNGLE",
+          "start": [
+            6,
+            2
+          ],
+          "end": [
+            6,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "SUNSET",
+          "start": [
+            7,
+            1
+          ],
+          "end": [
+            7,
+            6
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "size": 8,
+      "difficulty": "hard",
+      "board": [
+        "BELBBEPZ",
+        "EBSYOUCV",
+        "VLEQZTNZ",
+        "YEEZHEMI",
+        "FELNYPFU",
+        "JEEVNPQS",
+        "ZWALRUSG",
+        "TRMKNPTN"
+      ],
+      "words": [
+        {
+          "word": "WALRUS",
+          "start": [
+            6,
+            1
+          ],
+          "end": [
+            6,
+            6
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "PEBBLE",
+          "start": [
+            0,
+            6
+          ],
+          "end": [
+            0,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "PUPPET",
+          "start": [
+            7,
+            5
+          ],
+          "end": [
+            2,
+            5
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "TUNNEL",
+          "start": [
+            7,
+            6
+          ],
+          "end": [
+            2,
+            1
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "PUZZLE",
+          "start": [
+            0,
+            6
+          ],
+          "end": [
+            5,
+            1
+          ],
+          "direction": "down_left"
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "size": 8,
+      "difficulty": "hard",
+      "board": [
+        "IBSCHOOL",
+        "SITWKFQY",
+        "LTHROWNF",
+        "AGVEYOJK",
+        "NRRVSLKB",
+        "DRAZILDI",
+        "DBQMOILL",
+        "OXWQKWWF"
+      ],
+      "words": [
+        {
+          "word": "THROWN",
+          "start": [
+            2,
+            1
+          ],
+          "end": [
+            2,
+            6
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "WILLOW",
+          "start": [
+            7,
+            5
+          ],
+          "end": [
+            2,
+            5
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "LIZARD",
+          "start": [
+            5,
+            5
+          ],
+          "end": [
+            5,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "SCHOOL",
+          "start": [
+            0,
+            2
+          ],
+          "end": [
+            0,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "ISLAND",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            5,
+            0
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "size": 8,
+      "difficulty": "hard",
+      "board": [
+        "DOBXPVEB",
+        "ZWEUIHCS",
+        "SRBSUFAB",
+        "BZORSRLR",
+        "FZAQEIAI",
+        "PBAJFEPD",
+        "JGGFUNZG",
+        "KGOQLDZE"
+      ],
+      "words": [
+        {
+          "word": "BREEZE",
+          "start": [
+            2,
+            2
+          ],
+          "end": [
+            7,
+            7
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "PALACE",
+          "start": [
+            5,
+            6
+          ],
+          "end": [
+            0,
+            6
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "FRIEND",
+          "start": [
+            2,
+            5
+          ],
+          "end": [
+            7,
+            5
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "BRIDGE",
+          "start": [
+            2,
+            7
+          ],
+          "end": [
+            7,
+            7
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "USEFUL",
+          "start": [
+            2,
+            4
+          ],
+          "end": [
+            7,
+            4
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "size": 8,
+      "difficulty": "hard",
+      "board": [
+        "VPDJXEZN",
+        "IOYIDVTO",
+        "OCBHTTUY",
+        "LKQVEANN",
+        "IEGAQCLA",
+        "NTDITKAC",
+        "GJUYXXWJ",
+        "LKYEKCOH"
+      ],
+      "words": [
+        {
+          "word": "WALNUT",
+          "start": [
+            6,
+            6
+          ],
+          "end": [
+            1,
+            6
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "HOCKEY",
+          "start": [
+            7,
+            7
+          ],
+          "end": [
+            7,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "CANYON",
+          "start": [
+            5,
+            7
+          ],
+          "end": [
+            0,
+            7
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "VIOLIN",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            5,
+            0
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "POCKET",
+          "start": [
+            0,
+            1
+          ],
+          "end": [
+            5,
+            1
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 31,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "SJHEWTFZY",
+        "QTMATZACR",
+        "TEUOMJTRT",
+        "RCYDDMMGC",
+        "ENVQEGOBI",
+        "SAIESNNCY",
+        "SVXIDITIK",
+        "EDRAPOELK",
+        "DASENCXNI"
+      ],
+      "words": [
+        {
+          "word": "STUDENT",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            6,
+            6
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "LEOPARD",
+          "start": [
+            7,
+            7
+          ],
+          "end": [
+            7,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "DESSERT",
+          "start": [
+            8,
+            0
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "KINGDOM",
+          "start": [
+            7,
+            8
+          ],
+          "end": [
+            1,
+            2
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "ADVANCE",
+          "start": [
+            8,
+            1
+          ],
+          "end": [
+            2,
+            1
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "HAMMOCK",
+          "start": [
+            0,
+            2
+          ],
+          "end": [
+            6,
+            8
+          ],
+          "direction": "down_right"
+        }
+      ]
+    },
+    {
+      "level": 32,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "ZSKYLINEC",
+        "YPLUMBERQ",
+        "HEKKQNTGQ",
+        "FALLIROGV",
+        "AVESAPHCJ",
+        "RVICRYFJF",
+        "RETSMAHEB",
+        "QOTFJJPUI",
+        "RBNQQQQBA"
+      ],
+      "words": [
+        {
+          "word": "GORILLA",
+          "start": [
+            3,
+            7
+          ],
+          "end": [
+            3,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "TRACTOR",
+          "start": [
+            2,
+            6
+          ],
+          "end": [
+            8,
+            0
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "SKYLINE",
+          "start": [
+            0,
+            1
+          ],
+          "end": [
+            0,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "PARSLEY",
+          "start": [
+            7,
+            6
+          ],
+          "end": [
+            1,
+            0
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "PLUMBER",
+          "start": [
+            1,
+            1
+          ],
+          "end": [
+            1,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "HAMSTER",
+          "start": [
+            6,
+            6
+          ],
+          "end": [
+            6,
+            0
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 33,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "SQVPPYWPH",
+        "TCLEMARAC",
+        "AHTFPKTFA",
+        "DEIOZPYIK",
+        "IEJSZHCRV",
+        "UTLCWLGEL",
+        "MAEBNUSFL",
+        "AHRAVIOLI",
+        "BCJDTHHYQ"
+      ],
+      "words": [
+        {
+          "word": "FIREFLY",
+          "start": [
+            2,
+            7
+          ],
+          "end": [
+            8,
+            7
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "RAVIOLI",
+          "start": [
+            7,
+            2
+          ],
+          "end": [
+            7,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "SUNBEAM",
+          "start": [
+            6,
+            6
+          ],
+          "end": [
+            6,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "CHEETAH",
+          "start": [
+            1,
+            1
+          ],
+          "end": [
+            7,
+            1
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "CARAMEL",
+          "start": [
+            1,
+            8
+          ],
+          "end": [
+            1,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "STADIUM",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            6,
+            0
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 34,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "GIRAFFEZQ",
+        "RREBMILCU",
+        "REGAYOVNY",
+        "XARACCOON",
+        "SUNRISEIR",
+        "MKFTVPHHG",
+        "GYCVLJVSH",
+        "IWOQTYZUT",
+        "VMSHUHRCJ"
+      ],
+      "words": [
+        {
+          "word": "RACCOON",
+          "start": [
+            3,
+            2
+          ],
+          "end": [
+            3,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "CUSHION",
+          "start": [
+            8,
+            7
+          ],
+          "end": [
+            2,
+            7
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "VOYAGER",
+          "start": [
+            2,
+            6
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "SUNRISE",
+          "start": [
+            4,
+            0
+          ],
+          "end": [
+            4,
+            6
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "CLIMBER",
+          "start": [
+            1,
+            7
+          ],
+          "end": [
+            1,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "GIRAFFE",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            6
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 35,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "ONACLOVSP",
+        "JGKBTHSEO",
+        "VKHHXADAT",
+        "NEYCUWBSF",
+        "XMQSIQSIO",
+        "YLAYHRNDO",
+        "RGLOBSTER",
+        "EBNDVJQSI",
+        "LXIZLGKMO"
+      ],
+      "words": [
+        {
+          "word": "OSTRICH",
+          "start": [
+            8,
+            8
+          ],
+          "end": [
+            2,
+            2
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "SAUSAGE",
+          "start": [
+            1,
+            6
+          ],
+          "end": [
+            7,
+            0
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "VOLCANO",
+          "start": [
+            0,
+            6
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "SEASIDE",
+          "start": [
+            0,
+            7
+          ],
+          "end": [
+            6,
+            7
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "ROOFTOP",
+          "start": [
+            6,
+            8
+          ],
+          "end": [
+            0,
+            8
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "LOBSTER",
+          "start": [
+            6,
+            2
+          ],
+          "end": [
+            6,
+            8
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 36,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "CFNIKPMUP",
+        "YJNYLBRZE",
+        "SWEATERNE",
+        "BNNJTCIEP",
+        "EEXRIATWZ",
+        "JVARTARVY",
+        "JUCPNSAAU",
+        "QUAAUYPDW",
+        "SCMRLCVBT"
+      ],
+      "words": [
+        {
+          "word": "MANATEE",
+          "start": [
+            8,
+            2
+          ],
+          "end": [
+            2,
+            8
+          ],
+          "direction": "up_right"
+        },
+        {
+          "word": "SWEATER",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            2,
+            6
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "QUARTER",
+          "start": [
+            7,
+            0
+          ],
+          "end": [
+            1,
+            6
+          ],
+          "direction": "up_right"
+        },
+        {
+          "word": "PUMPKIN",
+          "start": [
+            0,
+            8
+          ],
+          "end": [
+            0,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "CAPTAIN",
+          "start": [
+            8,
+            1
+          ],
+          "end": [
+            2,
+            7
+          ],
+          "direction": "up_right"
+        },
+        {
+          "word": "CIRCUS",
+          "start": [
+            3,
+            5
+          ],
+          "end": [
+            8,
+            0
+          ],
+          "direction": "down_left"
+        }
+      ]
+    },
+    {
+      "level": 37,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "UAELBTOXD",
+        "RCPAQQAFI",
+        "AVINJPTFA",
+        "PHPTAEMZM",
+        "VRGEFAEAR",
+        "VCARKCACE",
+        "GRBNNOLPM",
+        "FFBISCUIT",
+        "LBCZMKRWL"
+      ],
+      "words": [
+        {
+          "word": "BAGPIPE",
+          "start": [
+            6,
+            2
+          ],
+          "end": [
+            0,
+            2
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "BISCUIT",
+          "start": [
+            7,
+            2
+          ],
+          "end": [
+            7,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "PEACOCK",
+          "start": [
+            2,
+            5
+          ],
+          "end": [
+            8,
+            5
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "LANTERN",
+          "start": [
+            0,
+            3
+          ],
+          "end": [
+            6,
+            3
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "MERMAID",
+          "start": [
+            6,
+            8
+          ],
+          "end": [
+            0,
+            8
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "OATMEAL",
+          "start": [
+            0,
+            6
+          ],
+          "end": [
+            6,
+            6
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 38,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "WHBJSJTSU",
+        "GQZXIEHAO",
+        "OSYCPECSH",
+        "KHVMLUUGH",
+        "CHUTTPMTL",
+        "PREUOBNBB",
+        "TRETNIAPH",
+        "ERCISSALC",
+        "OONIHPLOD"
+      ],
+      "words": [
+        {
+          "word": "PAINTER",
+          "start": [
+            6,
+            7
+          ],
+          "end": [
+            6,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "OCTOPUS",
+          "start": [
+            8,
+            1
+          ],
+          "end": [
+            2,
+            7
+          ],
+          "direction": "up_right"
+        },
+        {
+          "word": "SHELTER",
+          "start": [
+            0,
+            7
+          ],
+          "end": [
+            6,
+            1
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "CLASSIC",
+          "start": [
+            7,
+            8
+          ],
+          "end": [
+            7,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "DOLPHIN",
+          "start": [
+            8,
+            8
+          ],
+          "end": [
+            8,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "TRUMPET",
+          "start": [
+            6,
+            0
+          ],
+          "end": [
+            0,
+            6
+          ],
+          "direction": "up_right"
+        }
+      ]
+    },
+    {
+      "level": 39,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "JHORIZONA",
+        "RCNOPHCPK",
+        "CNRYLNHGC",
+        "OFOIAPIVC",
+        "MSCDCJMTP",
+        "PHPAIKNJK",
+        "ALOFGDEFN",
+        "SAPCAOYTG",
+        "SWHAMREVY"
+      ],
+      "words": [
+        {
+          "word": "CRICKET",
+          "start": [
+            1,
+            1
+          ],
+          "end": [
+            7,
+            7
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "CHIMNEY",
+          "start": [
+            1,
+            6
+          ],
+          "end": [
+            7,
+            6
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "MAGICAL",
+          "start": [
+            8,
+            4
+          ],
+          "end": [
+            2,
+            4
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "POPCORN",
+          "start": [
+            7,
+            2
+          ],
+          "end": [
+            1,
+            2
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "COMPASS",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            8,
+            0
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "HORIZON",
+          "start": [
+            0,
+            1
+          ],
+          "end": [
+            0,
+            7
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 40,
+      "size": 9,
+      "difficulty": "hard",
+      "board": [
+        "NEHCTIKCM",
+        "ZNOOSNOMZ",
+        "LPVXNSZGT",
+        "HRQUTXNMX",
+        "JEKUOLJFM",
+        "BSMAPBXMP",
+        "ZECOCONUT",
+        "NNLAIDNUS",
+        "CTDFRGBMN"
+      ],
+      "words": [
+        {
+          "word": "MONSOON",
+          "start": [
+            1,
+            7
+          ],
+          "end": [
+            1,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "COSTUME",
+          "start": [
+            0,
+            7
+          ],
+          "end": [
+            6,
+            1
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "KITCHEN",
+          "start": [
+            0,
+            6
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "COCONUT",
+          "start": [
+            6,
+            2
+          ],
+          "end": [
+            6,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "PRESENT",
+          "start": [
+            2,
+            1
+          ],
+          "end": [
+            8,
+            1
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "SUNDIAL",
+          "start": [
+            7,
+            8
+          ],
+          "end": [
+            7,
+            2
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 41,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "EPJOURNEYN",
+        "KXFGLJESUO",
+        "DVAXAEHJWO",
+        "OORNVODGGP",
+        "OUMZEMFZNS",
+        "RVYLNTIPRA",
+        "SGASDHXWTE",
+        "TCRVEGEBWT",
+        "ERDMRRDAQF",
+        "PIXOBDNASD"
+      ],
+      "words": [
+        {
+          "word": "TEASPOON",
+          "start": [
+            7,
+            9
+          ],
+          "end": [
+            0,
+            9
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "SHOELACE",
+          "start": [
+            1,
+            7
+          ],
+          "end": [
+            8,
+            0
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "LAVENDER",
+          "start": [
+            1,
+            4
+          ],
+          "end": [
+            8,
+            4
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "FARMYARD",
+          "start": [
+            1,
+            2
+          ],
+          "end": [
+            8,
+            2
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "DOORSTEP",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            9,
+            0
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "SANDBOX",
+          "start": [
+            9,
+            8
+          ],
+          "end": [
+            9,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "JOURNEY",
+          "start": [
+            0,
+            2
+          ],
+          "end": [
+            0,
+            8
+          ],
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "level": 42,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "FDDOESXEVJ",
+        "OTTUGHNRWA",
+        "OCSJMETNWC",
+        "TNATPPESKZ",
+        "BOIFYHLJDB",
+        "AILEREEICZ",
+        "LTBNARCNNR",
+        "LAOVMDASEG",
+        "QTAQIPRVJH",
+        "QSTVDPBHTB"
+      ],
+      "words": [
+        {
+          "word": "SAILBOAT",
+          "start": [
+            2,
+            2
+          ],
+          "end": [
+            9,
+            2
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "DUMPLING",
+          "start": [
+            0,
+            2
+          ],
+          "end": [
+            7,
+            9
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "BRACELET",
+          "start": [
+            9,
+            6
+          ],
+          "end": [
+            2,
+            6
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "FOOTBALL",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            7,
+            0
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "SHEPHERD",
+          "start": [
+            0,
+            5
+          ],
+          "end": [
+            7,
+            5
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "STATION",
+          "start": [
+            9,
+            1
+          ],
+          "end": [
+            3,
+            1
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "PYRAMID",
+          "start": [
+            3,
+            4
+          ],
+          "end": [
+            9,
+            4
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 43,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "LLAFWONSTC",
+        "NOILLATSPF",
+        "HMAGAZINEQ",
+        "FNWWDXLORJ",
+        "BIPENGUINA",
+        "WAXXHZAPHS",
+        "XTWWHXZMDM",
+        "YRUGVKSALI",
+        "TUQKFUPHCN",
+        "TCNSZNQCAE"
+      ],
+      "words": [
+        {
+          "word": "CHAMPION",
+          "start": [
+            9,
+            7
+          ],
+          "end": [
+            2,
+            7
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "STALLION",
+          "start": [
+            1,
+            7
+          ],
+          "end": [
+            1,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "MAGAZINE",
+          "start": [
+            2,
+            1
+          ],
+          "end": [
+            2,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "SNOWFALL",
+          "start": [
+            0,
+            7
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "PENGUIN",
+          "start": [
+            4,
+            2
+          ],
+          "end": [
+            4,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "CURTAIN",
+          "start": [
+            9,
+            1
+          ],
+          "end": [
+            3,
+            1
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "JASMINE",
+          "start": [
+            3,
+            9
+          ],
+          "end": [
+            9,
+            9
+          ],
+          "direction": "down"
+        }
+      ]
+    },
+    {
+      "level": 44,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "CHESTNUTPC",
+        "EFILDLIWOG",
+        "MKAOLVJNSX",
+        "OHTCXXQOTW",
+        "OJNTNUOCCA",
+        "NQKFMKENAL",
+        "BUXXNEOQRM",
+        "ERUTAERCDF",
+        "AHSKYLIGHT",
+        "MNARGWXBFE"
+      ],
+      "words": [
+        {
+          "word": "CHESTNUT",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "POSTCARD",
+          "start": [
+            0,
+            8
+          ],
+          "end": [
+            7,
+            8
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "MOONBEAM",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            9,
+            0
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "CREATURE",
+          "start": [
+            7,
+            7
+          ],
+          "end": [
+            7,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "SKYLIGHT",
+          "start": [
+            8,
+            2
+          ],
+          "end": [
+            8,
+            9
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "WILDLIFE",
+          "start": [
+            1,
+            7
+          ],
+          "end": [
+            1,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "ACCOUNT",
+          "start": [
+            4,
+            9
+          ],
+          "end": [
+            4,
+            3
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 45,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "HKTEAMMATE",
+        "KMREHTNAPD",
+        "CHJMAULIAP",
+        "AOEKQIFYAM",
+        "TMKYYADVWD",
+        "SEMXXRESTL",
+        "YWVXEMGIHC",
+        "AOEAEWQDQL",
+        "HRMNFCNCDP",
+        "XKTORTOISE"
+      ],
+      "words": [
+        {
+          "word": "DAYDREAM",
+          "start": [
+            1,
+            9
+          ],
+          "end": [
+            8,
+            2
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "HAYSTACK",
+          "start": [
+            8,
+            0
+          ],
+          "end": [
+            1,
+            0
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "PAVEMENT",
+          "start": [
+            2,
+            9
+          ],
+          "end": [
+            9,
+            2
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "TORTOISE",
+          "start": [
+            9,
+            2
+          ],
+          "end": [
+            9,
+            9
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "TEAMMATE",
+          "start": [
+            0,
+            2
+          ],
+          "end": [
+            0,
+            9
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "HOMEWORK",
+          "start": [
+            2,
+            1
+          ],
+          "end": [
+            9,
+            1
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "PANTHER",
+          "start": [
+            1,
+            8
+          ],
+          "end": [
+            1,
+            2
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 46,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "ENCDOSEBFM",
+        "JOQXNLRDKE",
+        "MOVNVOIVBA",
+        "ALATZLFAIT",
+        "ZLFUBLPCSB",
+        "KAHCUIMAKA",
+        "DBCFKPATKL",
+        "LGJIPOCIYL",
+        "TNENOPPOAZ",
+        "YTROMBONEC"
+      ],
+      "words": [
+        {
+          "word": "TROMBONE",
+          "start": [
+            9,
+            1
+          ],
+          "end": [
+            9,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "VACATION",
+          "start": [
+            2,
+            7
+          ],
+          "end": [
+            9,
+            7
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "CAMPFIRE",
+          "start": [
+            7,
+            6
+          ],
+          "end": [
+            0,
+            6
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "MEATBALL",
+          "start": [
+            0,
+            9
+          ],
+          "end": [
+            7,
+            9
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "OPPONENT",
+          "start": [
+            8,
+            7
+          ],
+          "end": [
+            8,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "LOLLIPOP",
+          "start": [
+            1,
+            5
+          ],
+          "end": [
+            8,
+            5
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "BALLOON",
+          "start": [
+            6,
+            1
+          ],
+          "end": [
+            0,
+            1
+          ],
+          "direction": "up"
+        }
+      ]
+    },
+    {
+      "level": 47,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "BFCUPCAKEN",
+        "TENIBACNIL",
+        "EMHUITDRWL",
+        "ZRCOUOASIA",
+        "GOHEGDEHFB",
+        "HKGWNWKVME",
+        "BSNADOBMVS",
+        "JAMFORUYNA",
+        "GTSUDRATSB",
+        "DOGHOUSEUC"
+      ],
+      "words": [
+        {
+          "word": "MANDARIN",
+          "start": [
+            7,
+            2
+          ],
+          "end": [
+            0,
+            9
+          ],
+          "direction": "up_right"
+        },
+        {
+          "word": "HEDGEHOG",
+          "start": [
+            4,
+            7
+          ],
+          "end": [
+            4,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "BASEBALL",
+          "start": [
+            8,
+            9
+          ],
+          "end": [
+            1,
+            9
+          ],
+          "direction": "up"
+        },
+        {
+          "word": "STARDUST",
+          "start": [
+            8,
+            8
+          ],
+          "end": [
+            8,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "DOGHOUSE",
+          "start": [
+            9,
+            0
+          ],
+          "end": [
+            9,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "CUPCAKE",
+          "start": [
+            0,
+            2
+          ],
+          "end": [
+            0,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "CABINET",
+          "start": [
+            1,
+            6
+          ],
+          "end": [
+            1,
+            0
+          ],
+          "direction": "left"
+        }
+      ]
+    },
+    {
+      "level": 48,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "IFGIOUFZQP",
+        "PRINCESSBH",
+        "CJPTNCPQAS",
+        "AJEHGAAHYO",
+        "RYZPOUSNZN",
+        "NQEGILSZFG",
+        "IUEUTDPOOB",
+        "VMUSHROOMI",
+        "AJQYQORYFR",
+        "LCSSCNTIJD"
+      ],
+      "words": [
+        {
+          "word": "PASSPORT",
+          "start": [
+            2,
+            6
+          ],
+          "end": [
+            9,
+            6
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "MUSHROOM",
+          "start": [
+            7,
+            1
+          ],
+          "end": [
+            7,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "PRINCESS",
+          "start": [
+            1,
+            0
+          ],
+          "end": [
+            1,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "CAULDRON",
+          "start": [
+            2,
+            5
+          ],
+          "end": [
+            9,
+            5
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "CARNIVAL",
+          "start": [
+            2,
+            0
+          ],
+          "end": [
+            9,
+            0
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "SONGBIRD",
+          "start": [
+            2,
+            9
+          ],
+          "end": [
+            9,
+            9
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "SQUEEZE",
+          "start": [
+            9,
+            2
+          ],
+          "end": [
+            3,
+            2
+          ],
+          "direction": "up"
+        }
+      ]
+    },
+    {
+      "level": 49,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "PBREENIGNE",
+        "MEDECORATE",
+        "JWCNIRDFIP",
+        "VTEANNVYLZ",
+        "DZCFLGDAPP",
+        "YUAIEKTEHG",
+        "IIFVBYCTEC",
+        "RHRJPEUEVR",
+        "FOUUMNJWNI",
+        "XHSIFDLOGQ"
+      ],
+      "words": [
+        {
+          "word": "GOLDFISH",
+          "start": [
+            9,
+            8
+          ],
+          "end": [
+            9,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "PLATYPUS",
+          "start": [
+            2,
+            9
+          ],
+          "end": [
+            9,
+            2
+          ],
+          "direction": "down_left"
+        },
+        {
+          "word": "REINDEER",
+          "start": [
+            0,
+            2
+          ],
+          "end": [
+            7,
+            9
+          ],
+          "direction": "down_right"
+        },
+        {
+          "word": "NECKLACE",
+          "start": [
+            8,
+            8
+          ],
+          "end": [
+            1,
+            1
+          ],
+          "direction": "up_left"
+        },
+        {
+          "word": "DECORATE",
+          "start": [
+            1,
+            2
+          ],
+          "end": [
+            1,
+            9
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "ENGINEER",
+          "start": [
+            0,
+            9
+          ],
+          "end": [
+            0,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "SURFACE",
+          "start": [
+            9,
+            2
+          ],
+          "end": [
+            3,
+            2
+          ],
+          "direction": "up"
+        }
+      ]
+    },
+    {
+      "level": 50,
+      "size": 10,
+      "difficulty": "expert",
+      "board": [
+        "RETRAMSYPF",
+        "GKTSEHGIHO",
+        "KOOBKROWIO",
+        "STAIRWAYAT",
+        "MESIDARAPP",
+        "FCRUMCTUBA",
+        "BJEBHKOTOT",
+        "XCFJAZLIFH",
+        "NFLAMINGOX",
+        "SYYWILAFVO"
+      ],
+      "words": [
+        {
+          "word": "FOOTPATH",
+          "start": [
+            0,
+            9
+          ],
+          "end": [
+            7,
+            9
+          ],
+          "direction": "down"
+        },
+        {
+          "word": "STAIRWAY",
+          "start": [
+            3,
+            0
+          ],
+          "end": [
+            3,
+            7
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "FLAMINGO",
+          "start": [
+            8,
+            1
+          ],
+          "end": [
+            8,
+            8
+          ],
+          "direction": "right"
+        },
+        {
+          "word": "WORKBOOK",
+          "start": [
+            2,
+            7
+          ],
+          "end": [
+            2,
+            0
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "PARADISE",
+          "start": [
+            4,
+            8
+          ],
+          "end": [
+            4,
+            1
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "HIGHEST",
+          "start": [
+            1,
+            8
+          ],
+          "end": [
+            1,
+            2
+          ],
+          "direction": "left"
+        },
+        {
+          "word": "SMARTER",
+          "start": [
+            0,
+            6
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "direction": "left"
+        }
+      ]
+    }
+  ]
+}

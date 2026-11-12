@@ -1,0 +1,11325 @@
+{
+  "format_version": "1.0",
+  "game_type": "word_wheel",
+  "total_levels": 300,
+  "rules": {
+    "minimum_word_length": 3,
+    "main_word_is_included": true,
+    "letter_reuse_limit": "Each letter can be used no more times than it appears in the main word.",
+    "progression": "Target count progresses 3,4,5,...15 and repeats with increasing difficulty."
+  },
+  "levels": [
+    {
+      "level": 1,
+      "difficulty": "Easy",
+      "main_word": "PLANET",
+      "letters": [
+        "P",
+        "L",
+        "A",
+        "N",
+        "E",
+        "T"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "PLANET",
+        "TEN",
+        "LATE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4
+      ]
+    },
+    {
+      "level": 2,
+      "difficulty": "Easy",
+      "main_word": "STREAM",
+      "letters": [
+        "S",
+        "T",
+        "R",
+        "E",
+        "A",
+        "M"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "STREAM",
+        "EAT",
+        "TEAM",
+        "STEAM"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 3,
+      "difficulty": "Easy",
+      "main_word": "MASTER",
+      "letters": [
+        "M",
+        "A",
+        "S",
+        "T",
+        "E",
+        "R"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "MASTER",
+        "ART",
+        "STAR",
+        "SMART",
+        "EAR"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        5,
+        3
+      ]
+    },
+    {
+      "level": 4,
+      "difficulty": "Easy",
+      "main_word": "FOURTH",
+      "letters": [
+        "F",
+        "O",
+        "U",
+        "R",
+        "T",
+        "H"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "FOURTH",
+        "FORT",
+        "HURT",
+        "TOFU",
+        "TURF",
+        "FORTH"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 5,
+      "difficulty": "Easy",
+      "main_word": "NAPKIN",
+      "letters": [
+        "N",
+        "A",
+        "P",
+        "K",
+        "I",
+        "N"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "NAPKIN",
+        "INK",
+        "KIN",
+        "NAP",
+        "NIP",
+        "PAN",
+        "PINK"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "level": 6,
+      "difficulty": "Easy",
+      "main_word": "MELODY",
+      "letters": [
+        "M",
+        "E",
+        "L",
+        "O",
+        "D",
+        "Y"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "MELODY",
+        "DYE",
+        "DEMO",
+        "DOLE",
+        "DOME",
+        "MOLD",
+        "MOLE",
+        "MODEL"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 7,
+      "difficulty": "Easy",
+      "main_word": "GOBLIN",
+      "letters": [
+        "G",
+        "O",
+        "B",
+        "L",
+        "I",
+        "N"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "GOBLIN",
+        "BIN",
+        "BOG",
+        "GIN",
+        "ION",
+        "LOG",
+        "OIL",
+        "BOIL",
+        "BINGO"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 8,
+      "difficulty": "Easy",
+      "main_word": "PATROL",
+      "letters": [
+        "P",
+        "A",
+        "T",
+        "R",
+        "O",
+        "L"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "PATROL",
+        "LAP",
+        "PAR",
+        "RAP",
+        "RAT",
+        "TAP",
+        "PLOT",
+        "TRAP",
+        "POLAR",
+        "PORTAL"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 9,
+      "difficulty": "Easy",
+      "main_word": "SECOND",
+      "letters": [
+        "S",
+        "E",
+        "C",
+        "O",
+        "N",
+        "D"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "SECOND",
+        "COD",
+        "DEN",
+        "END",
+        "NOD",
+        "SOD",
+        "SON",
+        "CODE",
+        "DOES",
+        "DONE",
+        "DOSE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 10,
+      "difficulty": "Easy",
+      "main_word": "ANSWER",
+      "letters": [
+        "A",
+        "N",
+        "S",
+        "W",
+        "E",
+        "R"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "ANSWER",
+        "AWE",
+        "RAW",
+        "WAN",
+        "ANEW",
+        "EARN",
+        "SANE",
+        "SEWN",
+        "SWAN",
+        "WARN",
+        "WEAR",
+        "SWEAR"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 11,
+      "difficulty": "Easy",
+      "main_word": "TEACUP",
+      "letters": [
+        "T",
+        "E",
+        "A",
+        "C",
+        "U",
+        "P"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "TEACUP",
+        "ACT",
+        "APE",
+        "ATE",
+        "CAT",
+        "CUP",
+        "CUT",
+        "PEA",
+        "CAPE",
+        "CUTE",
+        "PACE",
+        "PACT",
+        "ACUTE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 12,
+      "difficulty": "Easy",
+      "main_word": "NATURE",
+      "letters": [
+        "N",
+        "A",
+        "T",
+        "U",
+        "R",
+        "E"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "NATURE",
+        "NUT",
+        "RAN",
+        "RUN",
+        "RUT",
+        "TAN",
+        "TAR",
+        "URN",
+        "AUNT",
+        "NEAT",
+        "RATE",
+        "TUNA",
+        "TUNE",
+        "TURN"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 13,
+      "difficulty": "Easy",
+      "main_word": "STABLE",
+      "letters": [
+        "S",
+        "T",
+        "A",
+        "B",
+        "L",
+        "E"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "STABLE",
+        "ALE",
+        "SAT",
+        "BASE",
+        "BEAT",
+        "BELT",
+        "BETA",
+        "SEAL",
+        "SEAT",
+        "SLAB",
+        "BEAST",
+        "BLAST",
+        "SLATE",
+        "STALE",
+        "STEAL"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 14,
+      "difficulty": "Easy",
+      "main_word": "FOLLOW",
+      "letters": [
+        "F",
+        "O",
+        "L",
+        "L",
+        "O",
+        "W"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "FOLLOW",
+        "FOOL",
+        "WOOF"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 15,
+      "difficulty": "Easy",
+      "main_word": "MIGHTY",
+      "letters": [
+        "M",
+        "I",
+        "G",
+        "H",
+        "T",
+        "Y"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "MIGHTY",
+        "GYM",
+        "MYTH",
+        "MIGHT"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 16,
+      "difficulty": "Easy",
+      "main_word": "CRADLE",
+      "letters": [
+        "C",
+        "R",
+        "A",
+        "D",
+        "L",
+        "E"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "CRADLE",
+        "CARD",
+        "CARE",
+        "DEAL",
+        "CLEAR"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 17,
+      "difficulty": "Easy",
+      "main_word": "SAMPLE",
+      "letters": [
+        "S",
+        "A",
+        "M",
+        "P",
+        "L",
+        "E"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "SAMPLE",
+        "LAMP",
+        "PALM",
+        "SLAM",
+        "SLAP",
+        "MAPLE"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 18,
+      "difficulty": "Easy",
+      "main_word": "JIGSAW",
+      "letters": [
+        "J",
+        "I",
+        "G",
+        "S",
+        "A",
+        "W"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "JIGSAW",
+        "GAS",
+        "JAW",
+        "JIG",
+        "SAW",
+        "WAS",
+        "WIG"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "level": 19,
+      "difficulty": "Easy",
+      "main_word": "ANCHOR",
+      "letters": [
+        "A",
+        "N",
+        "C",
+        "H",
+        "O",
+        "R"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "ANCHOR",
+        "ARC",
+        "NOR",
+        "ARCH",
+        "CORN",
+        "HORN",
+        "RANCH",
+        "ROACH"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 20,
+      "difficulty": "Easy",
+      "main_word": "SIMPLE",
+      "letters": [
+        "S",
+        "I",
+        "M",
+        "P",
+        "L",
+        "E"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "SIMPLE",
+        "LIME",
+        "LIMP",
+        "LIPS",
+        "PILE",
+        "SLIM",
+        "MILES",
+        "SLIME",
+        "SMILE"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 21,
+      "difficulty": "Easy",
+      "main_word": "POWDER",
+      "letters": [
+        "P",
+        "O",
+        "W",
+        "D",
+        "E",
+        "R"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "POWDER",
+        "OWE",
+        "PER",
+        "PEW",
+        "POD",
+        "ROD",
+        "WED",
+        "DROP",
+        "WORD",
+        "POWER"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 22,
+      "difficulty": "Easy",
+      "main_word": "REMIND",
+      "letters": [
+        "R",
+        "E",
+        "M",
+        "I",
+        "N",
+        "D"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "REMIND",
+        "DIM",
+        "DIN",
+        "RIM",
+        "DIME",
+        "DINE",
+        "MEND",
+        "MIND",
+        "MINE",
+        "DINER",
+        "MINER"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 23,
+      "difficulty": "Easy",
+      "main_word": "NATIVE",
+      "letters": [
+        "N",
+        "A",
+        "T",
+        "I",
+        "V",
+        "E"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "NATIVE",
+        "TIN",
+        "VAN",
+        "VAT",
+        "VET",
+        "VIA",
+        "ANTE",
+        "VAIN",
+        "VEIN",
+        "VENT",
+        "VINE",
+        "NAIVE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 24,
+      "difficulty": "Easy",
+      "main_word": "RADISH",
+      "letters": [
+        "R",
+        "A",
+        "D",
+        "I",
+        "S",
+        "H"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "RADISH",
+        "AID",
+        "AIR",
+        "HAS",
+        "HID",
+        "HIS",
+        "DASH",
+        "DISH",
+        "HAIR",
+        "HARD",
+        "RAID",
+        "RASH",
+        "SARI"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 25,
+      "difficulty": "Easy",
+      "main_word": "PLAYER",
+      "letters": [
+        "P",
+        "L",
+        "A",
+        "Y",
+        "E",
+        "R"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "PLAYER",
+        "LAY",
+        "PAY",
+        "RYE",
+        "LEAP",
+        "PALE",
+        "PLAY",
+        "PLEA",
+        "PRAY",
+        "EARLY",
+        "LAYER",
+        "PEARL",
+        "REPAY",
+        "REPLY"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 26,
+      "difficulty": "Easy",
+      "main_word": "SEARCH",
+      "letters": [
+        "S",
+        "E",
+        "A",
+        "R",
+        "C",
+        "H"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "SEARCH",
+        "ACE",
+        "ASH",
+        "ERA",
+        "ACHE",
+        "CASH",
+        "HARE",
+        "HEAR",
+        "RACE",
+        "SCAR",
+        "ACRES",
+        "CHASE",
+        "CRASH",
+        "SCARE",
+        "SHARE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 27,
+      "difficulty": "Easy",
+      "main_word": "WEIGHT",
+      "letters": [
+        "W",
+        "E",
+        "I",
+        "G",
+        "H",
+        "T"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "WEIGHT",
+        "WEIGH",
+        "WHITE"
+      ],
+      "word_lengths": [
+        6,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 28,
+      "difficulty": "Easy",
+      "main_word": "STROKE",
+      "letters": [
+        "S",
+        "T",
+        "R",
+        "O",
+        "K",
+        "E"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "STROKE",
+        "ROT",
+        "SORE",
+        "TREK"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 29,
+      "difficulty": "Easy",
+      "main_word": "EFFORT",
+      "letters": [
+        "E",
+        "F",
+        "F",
+        "O",
+        "R",
+        "T"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "EFFORT",
+        "FOE",
+        "OFF",
+        "FORE",
+        "OFFER"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 30,
+      "difficulty": "Easy",
+      "main_word": "POTTER",
+      "letters": [
+        "P",
+        "O",
+        "T",
+        "T",
+        "E",
+        "R"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "POTTER",
+        "ORE",
+        "POT",
+        "PORT",
+        "TORE",
+        "TROT"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 31,
+      "difficulty": "Easy",
+      "main_word": "LAWYER",
+      "letters": [
+        "L",
+        "A",
+        "W",
+        "Y",
+        "E",
+        "R"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "LAWYER",
+        "LAW",
+        "REAL",
+        "RELY",
+        "WARY",
+        "RELAY",
+        "WEARY"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 32,
+      "difficulty": "Easy",
+      "main_word": "TACKLE",
+      "letters": [
+        "T",
+        "A",
+        "C",
+        "K",
+        "L",
+        "E"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "TACKLE",
+        "ELK",
+        "CAKE",
+        "KALE",
+        "LACE",
+        "LACK",
+        "LEAK",
+        "TALK"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 33,
+      "difficulty": "Easy",
+      "main_word": "RANDOM",
+      "letters": [
+        "R",
+        "A",
+        "N",
+        "D",
+        "O",
+        "M"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "RANDOM",
+        "DAM",
+        "RAM",
+        "DORM",
+        "MOAN",
+        "MORN",
+        "NORM",
+        "ROAM",
+        "MANOR"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 34,
+      "difficulty": "Easy",
+      "main_word": "PERMIT",
+      "letters": [
+        "P",
+        "E",
+        "R",
+        "M",
+        "I",
+        "T"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "PERMIT",
+        "PIT",
+        "TIP",
+        "ITEM",
+        "TEMP",
+        "TIME",
+        "TRIM",
+        "MERIT",
+        "PRIME",
+        "TIMER"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 35,
+      "difficulty": "Easy",
+      "main_word": "CLOSET",
+      "letters": [
+        "C",
+        "L",
+        "O",
+        "S",
+        "E",
+        "T"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "CLOSET",
+        "CLOT",
+        "COLT",
+        "COST",
+        "LEST",
+        "LOSE",
+        "LOST",
+        "SLOT",
+        "SOLE",
+        "CLOSE",
+        "STOLE"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 36,
+      "difficulty": "Easy",
+      "main_word": "SUPERB",
+      "letters": [
+        "S",
+        "U",
+        "P",
+        "E",
+        "R",
+        "B"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "SUPERB",
+        "BUS",
+        "PUB",
+        "RUB",
+        "RUE",
+        "SUB",
+        "RUSE",
+        "SPUR",
+        "SURE",
+        "USER",
+        "PURSE",
+        "SUPER"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 37,
+      "difficulty": "Easy",
+      "main_word": "SHOWER",
+      "letters": [
+        "S",
+        "H",
+        "O",
+        "W",
+        "E",
+        "R"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "SHOWER",
+        "HOW",
+        "ROW",
+        "SEW",
+        "SOW",
+        "WHO",
+        "WOE",
+        "HERO",
+        "SHOW",
+        "SHORE",
+        "SWORE",
+        "WHOSE",
+        "WORSE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 38,
+      "difficulty": "Easy",
+      "main_word": "MENTAL",
+      "letters": [
+        "M",
+        "E",
+        "N",
+        "T",
+        "A",
+        "L"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "MENTAL",
+        "MAT",
+        "LAME",
+        "LEAN",
+        "MALE",
+        "MALT",
+        "MEAL",
+        "MEAT",
+        "MELT",
+        "TAME",
+        "TEAL",
+        "MEANT",
+        "METAL",
+        "MANTLE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 39,
+      "difficulty": "Easy",
+      "main_word": "WONDER",
+      "letters": [
+        "W",
+        "O",
+        "N",
+        "D",
+        "E",
+        "R"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "WONDER",
+        "DEW",
+        "NEW",
+        "NOW",
+        "OWN",
+        "WON",
+        "DOWN",
+        "DREW",
+        "NERD",
+        "REDO",
+        "RODE",
+        "WORE",
+        "WORN",
+        "DRONE",
+        "OWNER"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 40,
+      "difficulty": "Easy",
+      "main_word": "BUNDLE",
+      "letters": [
+        "B",
+        "U",
+        "N",
+        "D",
+        "L",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "BUNDLE",
+        "BEND",
+        "BLEND"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 41,
+      "difficulty": "Easy",
+      "main_word": "LARGER",
+      "letters": [
+        "L",
+        "A",
+        "R",
+        "G",
+        "E",
+        "R"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "LARGER",
+        "LEG",
+        "GALE",
+        "GEAR"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 42,
+      "difficulty": "Easy",
+      "main_word": "CHOSEN",
+      "letters": [
+        "C",
+        "H",
+        "O",
+        "S",
+        "E",
+        "N"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "CHOSEN",
+        "HEN",
+        "HOSE",
+        "ONCE",
+        "CHOSE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 43,
+      "difficulty": "Easy",
+      "main_word": "VERIFY",
+      "letters": [
+        "V",
+        "E",
+        "R",
+        "I",
+        "F",
+        "Y"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "VERIFY",
+        "FIR",
+        "IVY",
+        "FIVE",
+        "VERY",
+        "FIERY"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 44,
+      "difficulty": "Easy",
+      "main_word": "SMOOTH",
+      "letters": [
+        "S",
+        "M",
+        "O",
+        "O",
+        "T",
+        "H"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "SMOOTH",
+        "TOO",
+        "HOOT",
+        "HOST",
+        "MOST",
+        "MOTH",
+        "SHOT"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 45,
+      "difficulty": "Easy",
+      "main_word": "PASTRY",
+      "letters": [
+        "P",
+        "A",
+        "S",
+        "T",
+        "R",
+        "Y"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "PASTRY",
+        "PRY",
+        "SPY",
+        "SPAT",
+        "TRAY",
+        "SPRAY",
+        "STRAP",
+        "STRAY"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 46,
+      "difficulty": "Easy",
+      "main_word": "DEPART",
+      "letters": [
+        "D",
+        "E",
+        "P",
+        "A",
+        "R",
+        "T"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "DEPART",
+        "PAD",
+        "PAT",
+        "DART",
+        "DEAR",
+        "READ",
+        "REAP",
+        "TRADE",
+        "TREAD"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 47,
+      "difficulty": "Easy",
+      "main_word": "CARBON",
+      "letters": [
+        "C",
+        "A",
+        "R",
+        "B",
+        "O",
+        "N"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "CARBON",
+        "ORB",
+        "ROB",
+        "BARN",
+        "BOAR",
+        "BORN",
+        "CRAB",
+        "BACON",
+        "BARON",
+        "COBRA"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 48,
+      "difficulty": "Easy",
+      "main_word": "BANKER",
+      "letters": [
+        "B",
+        "A",
+        "N",
+        "K",
+        "E",
+        "R"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "BANKER",
+        "ARK",
+        "BAKE",
+        "BARE",
+        "BARK",
+        "BEAK",
+        "RAKE",
+        "RANK",
+        "BAKER",
+        "BRAKE",
+        "BREAK"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 49,
+      "difficulty": "Easy",
+      "main_word": "FILTER",
+      "letters": [
+        "F",
+        "I",
+        "L",
+        "T",
+        "E",
+        "R"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "FILTER",
+        "ELF",
+        "FIT",
+        "LIT",
+        "FELT",
+        "FILE",
+        "FRET",
+        "LEFT",
+        "LIFT",
+        "RIFT",
+        "FILET",
+        "TRIFLE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 50,
+      "difficulty": "Easy",
+      "main_word": "LISTEN",
+      "letters": [
+        "L",
+        "I",
+        "S",
+        "T",
+        "E",
+        "N"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "LISTEN",
+        "LET",
+        "SIN",
+        "ISLE",
+        "LENS",
+        "LENT",
+        "LINE",
+        "LIST",
+        "SITE",
+        "SLIT",
+        "TILE",
+        "ENLIST",
+        "SILENT"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 51,
+      "difficulty": "Easy-Medium",
+      "main_word": "DELIVERY",
+      "letters": [
+        "D",
+        "E",
+        "L",
+        "I",
+        "V",
+        "E",
+        "R",
+        "Y"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "DELIVERY",
+        "EVE",
+        "EYE",
+        "EVER",
+        "EVIL",
+        "LIVE",
+        "VEIL",
+        "VILE",
+        "ELDER",
+        "EVERY",
+        "LEVER",
+        "LIVER",
+        "YIELD",
+        "DELIVER"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7
+      ]
+    },
+    {
+      "level": 52,
+      "difficulty": "Easy-Medium",
+      "main_word": "SPECIAL",
+      "letters": [
+        "S",
+        "P",
+        "E",
+        "C",
+        "I",
+        "A",
+        "L"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "SPECIAL",
+        "CAP",
+        "CLAP",
+        "CLIP",
+        "EPIC",
+        "SAIL",
+        "SALE",
+        "SLIP",
+        "AISLE",
+        "PLACE",
+        "SCALE",
+        "SCALP",
+        "SLICE",
+        "SPACE",
+        "SPICE"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 53,
+      "difficulty": "Easy-Medium",
+      "main_word": "MESSAGE",
+      "letters": [
+        "M",
+        "E",
+        "S",
+        "S",
+        "A",
+        "G",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "MESSAGE",
+        "MASS",
+        "GAMES"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 54,
+      "difficulty": "Easy-Medium",
+      "main_word": "STOMACH",
+      "letters": [
+        "S",
+        "T",
+        "O",
+        "M",
+        "A",
+        "C",
+        "H"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "STOMACH",
+        "CHAT",
+        "MATCH",
+        "MASCOT"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 55,
+      "difficulty": "Easy-Medium",
+      "main_word": "OBJECT",
+      "letters": [
+        "O",
+        "B",
+        "J",
+        "E",
+        "C",
+        "T"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "OBJECT",
+        "BET",
+        "COT",
+        "JET",
+        "JOB"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "level": 56,
+      "difficulty": "Easy-Medium",
+      "main_word": "GRATEFUL",
+      "letters": [
+        "G",
+        "R",
+        "A",
+        "T",
+        "E",
+        "F",
+        "U",
+        "L"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "GRATEFUL",
+        "TRUE",
+        "LARGE",
+        "FAT",
+        "FATE",
+        "AFTER"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 57,
+      "difficulty": "Easy-Medium",
+      "main_word": "BUDGET",
+      "letters": [
+        "B",
+        "U",
+        "D",
+        "G",
+        "E",
+        "T"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "BUDGET",
+        "BEG",
+        "BUD",
+        "DEBT",
+        "TUBE",
+        "BUDGE",
+        "DEBUT"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 58,
+      "difficulty": "Easy-Medium",
+      "main_word": "DIRECTOR",
+      "letters": [
+        "D",
+        "I",
+        "R",
+        "E",
+        "C",
+        "T",
+        "O",
+        "R"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "DIRECTOR",
+        "DICE",
+        "CIDER",
+        "ORDER",
+        "RIDER",
+        "CREDIT",
+        "DIRECT",
+        "RECORD"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 59,
+      "difficulty": "Easy-Medium",
+      "main_word": "QUESTION",
+      "letters": [
+        "Q",
+        "U",
+        "E",
+        "S",
+        "T",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "QUESTION",
+        "QUIT",
+        "NOISE",
+        "QUEST",
+        "QUIET",
+        "QUITE",
+        "QUOTE",
+        "SUITE",
+        "UNITE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 60,
+      "difficulty": "Easy-Medium",
+      "main_word": "CHILDREN",
+      "letters": [
+        "C",
+        "H",
+        "I",
+        "L",
+        "D",
+        "R",
+        "E",
+        "N"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "CHILDREN",
+        "HEIR",
+        "HELD",
+        "HERD",
+        "HIDE",
+        "INCH",
+        "RICE",
+        "RICH",
+        "CHILD",
+        "RELIC"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 61,
+      "difficulty": "Easy-Medium",
+      "main_word": "WOODLAND",
+      "letters": [
+        "W",
+        "O",
+        "O",
+        "D",
+        "L",
+        "A",
+        "N",
+        "D"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "WOODLAND",
+        "ADD",
+        "DAD",
+        "LOW",
+        "ODD",
+        "OWL",
+        "WOO",
+        "LAWN",
+        "WOOD",
+        "WOOL",
+        "DOWNLOAD"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        8
+      ]
+    },
+    {
+      "level": 62,
+      "difficulty": "Easy-Medium",
+      "main_word": "ARGUMENT",
+      "letters": [
+        "A",
+        "R",
+        "G",
+        "U",
+        "M",
+        "E",
+        "N",
+        "T"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "ARGUMENT",
+        "GUM",
+        "MUG",
+        "RUG",
+        "GRAM",
+        "RUNG",
+        "URGE",
+        "ARGUE",
+        "GRUNT",
+        "MAGNET",
+        "MATURE",
+        "URGENT"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 63,
+      "difficulty": "Easy-Medium",
+      "main_word": "BOUGHT",
+      "letters": [
+        "B",
+        "O",
+        "U",
+        "G",
+        "H",
+        "T"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "BOUGHT",
+        "BUG",
+        "GOT",
+        "GUT",
+        "HOG",
+        "HUG",
+        "HUT",
+        "TUB",
+        "TUG",
+        "BOTH",
+        "BOUT",
+        "OUGHT",
+        "TOUGH"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 64,
+      "difficulty": "Easy-Medium",
+      "main_word": "HUMANITY",
+      "letters": [
+        "H",
+        "U",
+        "M",
+        "A",
+        "N",
+        "I",
+        "T",
+        "Y"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "HUMANITY",
+        "HAM",
+        "HIM",
+        "HIT",
+        "HINT",
+        "HUNT",
+        "MAIN",
+        "MANY",
+        "MATH",
+        "THAN",
+        "TINY",
+        "UNIT",
+        "HAUNT",
+        "HUMAN"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 65,
+      "difficulty": "Easy-Medium",
+      "main_word": "STRANGE",
+      "letters": [
+        "S",
+        "T",
+        "R",
+        "A",
+        "N",
+        "G",
+        "E"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "STRANGE",
+        "GET",
+        "SET",
+        "TAG",
+        "GATE",
+        "RANG",
+        "SAGE",
+        "SANG",
+        "SNAG",
+        "STAG",
+        "AGENT",
+        "GRANT",
+        "GREAT",
+        "STAGE",
+        "STERN"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 66,
+      "difficulty": "Easy-Medium",
+      "main_word": "PRIVATE",
+      "letters": [
+        "P",
+        "R",
+        "I",
+        "V",
+        "A",
+        "T",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "PRIVATE",
+        "PART",
+        "TRIP"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 67,
+      "difficulty": "Easy-Medium",
+      "main_word": "GARBAGE",
+      "letters": [
+        "G",
+        "A",
+        "R",
+        "B",
+        "A",
+        "G",
+        "E"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "GARBAGE",
+        "GAG",
+        "BARGE",
+        "GARAGE"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 68,
+      "difficulty": "Easy-Medium",
+      "main_word": "SUDDEN",
+      "letters": [
+        "S",
+        "U",
+        "D",
+        "D",
+        "E",
+        "N"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "SUDDEN",
+        "DUE",
+        "DUDE",
+        "SEND",
+        "USED"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 69,
+      "difficulty": "Easy-Medium",
+      "main_word": "CAMPAIGN",
+      "letters": [
+        "C",
+        "A",
+        "M",
+        "P",
+        "A",
+        "I",
+        "G",
+        "N"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "CAMPAIGN",
+        "PIG",
+        "CAMP",
+        "AGAIN",
+        "MAGIC",
+        "PANIC"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 70,
+      "difficulty": "Easy-Medium",
+      "main_word": "HUMBLE",
+      "letters": [
+        "H",
+        "U",
+        "M",
+        "B",
+        "L",
+        "E"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "HUMBLE",
+        "ELM",
+        "HUB",
+        "HUM",
+        "BLUE",
+        "HELM",
+        "MULE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 71,
+      "difficulty": "Easy-Medium",
+      "main_word": "INTEREST",
+      "letters": [
+        "I",
+        "N",
+        "T",
+        "E",
+        "R",
+        "E",
+        "S",
+        "T"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "INTEREST",
+        "TENT",
+        "TEST",
+        "RINSE",
+        "RISEN",
+        "SIREN",
+        "INSERT",
+        "STREET"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 72,
+      "difficulty": "Easy-Medium",
+      "main_word": "BATHROOM",
+      "letters": [
+        "B",
+        "A",
+        "T",
+        "H",
+        "R",
+        "O",
+        "O",
+        "M"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "BATHROOM",
+        "ATOM",
+        "BATH",
+        "BOOT",
+        "OATH",
+        "ROOM",
+        "BOOTH",
+        "MOTOR",
+        "ROBOT"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 73,
+      "difficulty": "Easy-Medium",
+      "main_word": "POSSIBLE",
+      "letters": [
+        "P",
+        "O",
+        "S",
+        "S",
+        "I",
+        "B",
+        "L",
+        "E"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "POSSIBLE",
+        "SOB",
+        "BOSS",
+        "LOSS",
+        "POLE",
+        "SOIL",
+        "BLESS",
+        "BLISS",
+        "SLOPE",
+        "SPOIL"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 74,
+      "difficulty": "Easy-Medium",
+      "main_word": "INDUSTRY",
+      "letters": [
+        "I",
+        "N",
+        "D",
+        "U",
+        "S",
+        "T",
+        "R",
+        "Y"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "INDUSTRY",
+        "DUST",
+        "DUTY",
+        "RUST",
+        "SUIT",
+        "TIDY",
+        "DIRTY",
+        "DUSTY",
+        "RUSTY",
+        "STUDY",
+        "UNITY"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 75,
+      "difficulty": "Easy-Medium",
+      "main_word": "COMPLAIN",
+      "letters": [
+        "C",
+        "O",
+        "M",
+        "P",
+        "L",
+        "A",
+        "I",
+        "N"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "COMPLAIN",
+        "MAN",
+        "MOP",
+        "CALM",
+        "CLAN",
+        "COAL",
+        "COLA",
+        "LIMO",
+        "MAIL",
+        "PAIN",
+        "CLAMP",
+        "PLAIN"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 76,
+      "difficulty": "Easy-Medium",
+      "main_word": "DANGER",
+      "letters": [
+        "D",
+        "A",
+        "N",
+        "G",
+        "E",
+        "R"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "DANGER",
+        "NAG",
+        "RAG",
+        "DARE",
+        "DEAN",
+        "DRAG",
+        "GRAD",
+        "GRAN",
+        "RAGE",
+        "ANGER",
+        "GRADE",
+        "GRAND",
+        "RANGE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 77,
+      "difficulty": "Easy-Medium",
+      "main_word": "SOUTHERN",
+      "letters": [
+        "S",
+        "O",
+        "U",
+        "T",
+        "H",
+        "E",
+        "R",
+        "N"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "SOUTHERN",
+        "RUSH",
+        "SHUT",
+        "THUS",
+        "HOURS",
+        "OTHER",
+        "OUTER",
+        "ROUTE",
+        "SHORT",
+        "SHOUT",
+        "SOUTH",
+        "THORN",
+        "USHER",
+        "HUNTER"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 78,
+      "difficulty": "Easy-Medium",
+      "main_word": "MEDICAL",
+      "letters": [
+        "M",
+        "E",
+        "D",
+        "I",
+        "C",
+        "A",
+        "L"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "MEDICAL",
+        "LIE",
+        "MAD",
+        "ACID",
+        "DAME",
+        "DIAL",
+        "LEAD",
+        "MADE",
+        "MAID",
+        "MILD",
+        "CAMEL",
+        "IDEAL",
+        "MEDAL",
+        "MEDIA",
+        "MEDIC"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 79,
+      "difficulty": "Easy-Medium",
+      "main_word": "SUPPORT",
+      "letters": [
+        "S",
+        "U",
+        "P",
+        "P",
+        "O",
+        "R",
+        "T"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "SUPPORT",
+        "OUR",
+        "SOUP"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4
+      ]
+    },
+    {
+      "level": 80,
+      "difficulty": "Easy-Medium",
+      "main_word": "PROFILE",
+      "letters": [
+        "P",
+        "R",
+        "O",
+        "F",
+        "I",
+        "L",
+        "E"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "PROFILE",
+        "FLIP",
+        "FLOP",
+        "PERIL"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 81,
+      "difficulty": "Easy-Medium",
+      "main_word": "POLICY",
+      "letters": [
+        "P",
+        "O",
+        "L",
+        "I",
+        "C",
+        "Y"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "POLICY",
+        "ICY",
+        "COIL",
+        "COPY",
+        "PLOY"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 82,
+      "difficulty": "Easy-Medium",
+      "main_word": "DESCRIBE",
+      "letters": [
+        "D",
+        "E",
+        "S",
+        "C",
+        "R",
+        "I",
+        "B",
+        "E"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "DESCRIBE",
+        "CRIB",
+        "BRIDE",
+        "BESIDE",
+        "DEBRIS",
+        "DESIRE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 83,
+      "difficulty": "Easy-Medium",
+      "main_word": "ADVISE",
+      "letters": [
+        "A",
+        "D",
+        "V",
+        "I",
+        "S",
+        "E"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "ADVISE",
+        "AIDE",
+        "DIVA",
+        "SAVE",
+        "VASE",
+        "VISA",
+        "ASIDE"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 84,
+      "difficulty": "Easy-Medium",
+      "main_word": "PHYSICAL",
+      "letters": [
+        "P",
+        "H",
+        "Y",
+        "S",
+        "I",
+        "C",
+        "A",
+        "L"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "PHYSICAL",
+        "HIP",
+        "SHY",
+        "CHAP",
+        "CHIP",
+        "CLAY",
+        "CLASH",
+        "SPICY"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 85,
+      "difficulty": "Easy-Medium",
+      "main_word": "RESEARCH",
+      "letters": [
+        "R",
+        "E",
+        "S",
+        "E",
+        "A",
+        "R",
+        "C",
+        "H"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "RESEARCH",
+        "SEE",
+        "EASE",
+        "HERE",
+        "ERASE",
+        "SHEER",
+        "ARCHER",
+        "CAREER",
+        "CHEERS"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 86,
+      "difficulty": "Easy-Medium",
+      "main_word": "ADORABLE",
+      "letters": [
+        "A",
+        "D",
+        "O",
+        "R",
+        "A",
+        "B",
+        "L",
+        "E"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "ADORABLE",
+        "BALD",
+        "BOLD",
+        "ADORE",
+        "BLADE",
+        "LABOR",
+        "OLDER",
+        "ABOARD",
+        "ABROAD",
+        "ORDEAL"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 87,
+      "difficulty": "Easy-Medium",
+      "main_word": "ABSOLUTE",
+      "letters": [
+        "A",
+        "B",
+        "S",
+        "O",
+        "L",
+        "U",
+        "T",
+        "E"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "ABSOLUTE",
+        "BUT",
+        "ALSO",
+        "AUTO",
+        "BEST",
+        "BOAT",
+        "BOLT",
+        "ABOUT",
+        "BLOUSE",
+        "SALUTE",
+        "SUBTLE"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 88,
+      "difficulty": "Easy-Medium",
+      "main_word": "INCREASE",
+      "letters": [
+        "I",
+        "N",
+        "C",
+        "R",
+        "E",
+        "A",
+        "S",
+        "E"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "INCREASE",
+        "ICE",
+        "CASE",
+        "NICE",
+        "SCAN",
+        "CEASE",
+        "NIECE",
+        "SCENE",
+        "SINCE",
+        "EASIER",
+        "SCREEN",
+        "SINCERE"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 89,
+      "difficulty": "Easy-Medium",
+      "main_word": "HONEST",
+      "letters": [
+        "H",
+        "O",
+        "N",
+        "E",
+        "S",
+        "T"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "HONEST",
+        "HOT",
+        "NET",
+        "SHE",
+        "THE",
+        "NEST",
+        "NOTE",
+        "SENT",
+        "THEN",
+        "TOES",
+        "TONE",
+        "TONS",
+        "THOSE"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 90,
+      "difficulty": "Easy-Medium",
+      "main_word": "HOMELAND",
+      "letters": [
+        "H",
+        "O",
+        "M",
+        "E",
+        "L",
+        "A",
+        "N",
+        "D"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "HOMELAND",
+        "AND",
+        "HAD",
+        "HALE",
+        "HALO",
+        "HEAD",
+        "HEAL",
+        "HOLD",
+        "HOLE",
+        "LAND",
+        "LOAN",
+        "LONE",
+        "ALONE",
+        "HANDLE"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 91,
+      "difficulty": "Easy-Medium",
+      "main_word": "FOREIGN",
+      "letters": [
+        "F",
+        "O",
+        "R",
+        "E",
+        "I",
+        "G",
+        "N"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "FOREIGN",
+        "EGO",
+        "FIN",
+        "FOG",
+        "FOR",
+        "RIG",
+        "FINE",
+        "INFO",
+        "FINER",
+        "FORGE",
+        "GRIEF",
+        "REIGN",
+        "FINGER",
+        "FRINGE",
+        "REGION"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 92,
+      "difficulty": "Easy-Medium",
+      "main_word": "PATIENT",
+      "letters": [
+        "P",
+        "A",
+        "T",
+        "I",
+        "E",
+        "N",
+        "T"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "PATIENT",
+        "TEA",
+        "PATENT"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        6
+      ]
+    },
+    {
+      "level": 93,
+      "difficulty": "Easy-Medium",
+      "main_word": "SERVANT",
+      "letters": [
+        "S",
+        "E",
+        "R",
+        "V",
+        "A",
+        "N",
+        "T"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "SERVANT",
+        "VAST",
+        "VEST",
+        "STARVE"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        4,
+        6
+      ]
+    },
+    {
+      "level": 94,
+      "difficulty": "Easy-Medium",
+      "main_word": "BACKUP",
+      "letters": [
+        "B",
+        "A",
+        "C",
+        "K",
+        "U",
+        "P"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "BACKUP",
+        "CUB",
+        "BACK",
+        "BUCK",
+        "PUCK"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 95,
+      "difficulty": "Easy-Medium",
+      "main_word": "SOLITARY",
+      "letters": [
+        "S",
+        "O",
+        "L",
+        "I",
+        "T",
+        "A",
+        "R",
+        "Y"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "SOLITARY",
+        "ROAST",
+        "ROYAL",
+        "SOLAR",
+        "SAILOR",
+        "TAILOR"
+      ],
+      "word_lengths": [
+        8,
+        5,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 96,
+      "difficulty": "Easy-Medium",
+      "main_word": "FLAVOR",
+      "letters": [
+        "F",
+        "L",
+        "A",
+        "V",
+        "O",
+        "R"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "FLAVOR",
+        "FAR",
+        "LOAF",
+        "ORAL",
+        "OVAL",
+        "FAVOR",
+        "FLORA"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 97,
+      "difficulty": "Easy-Medium",
+      "main_word": "SHOULDER",
+      "letters": [
+        "S",
+        "H",
+        "O",
+        "U",
+        "L",
+        "D",
+        "E",
+        "R"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "SHOULDER",
+        "HER",
+        "LORD",
+        "SOLD",
+        "SHRED",
+        "HOLDER",
+        "LOUDER",
+        "SHOULD"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 98,
+      "difficulty": "Easy-Medium",
+      "main_word": "PROPERTY",
+      "letters": [
+        "P",
+        "R",
+        "O",
+        "P",
+        "E",
+        "R",
+        "T",
+        "Y"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "PROPERTY",
+        "PEP",
+        "POP",
+        "PREY",
+        "PROP",
+        "RETRO",
+        "PORTER",
+        "PROPER",
+        "REPORT"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 99,
+      "difficulty": "Easy-Medium",
+      "main_word": "RELIABLE",
+      "letters": [
+        "R",
+        "E",
+        "L",
+        "I",
+        "A",
+        "B",
+        "L",
+        "E"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "RELIABLE",
+        "BEE",
+        "BAIL",
+        "BEER",
+        "BELL",
+        "BILL",
+        "LAIR",
+        "LABEL",
+        "REBEL",
+        "LIABLE"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 100,
+      "difficulty": "Easy-Medium",
+      "main_word": "DESIGNER",
+      "letters": [
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "E",
+        "R"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "DESIGNER",
+        "EDGE",
+        "GRID",
+        "DENSE",
+        "GREED",
+        "GRIND",
+        "RIDGE",
+        "DESIGN",
+        "GENDER",
+        "RESIGN",
+        "SINGER"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 101,
+      "difficulty": "Easy-Medium",
+      "main_word": "RELATIVE",
+      "letters": [
+        "R",
+        "E",
+        "L",
+        "A",
+        "T",
+        "I",
+        "V",
+        "E"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "RELATIVE",
+        "ALIVE",
+        "ELITE",
+        "LEAVE",
+        "RIVAL",
+        "TRIAL",
+        "VALET",
+        "VIRAL",
+        "VITAL",
+        "RELATE",
+        "REVEAL",
+        "TRAVEL"
+      ],
+      "word_lengths": [
+        8,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 102,
+      "difficulty": "Easy-Medium",
+      "main_word": "DETAIL",
+      "letters": [
+        "D",
+        "E",
+        "T",
+        "A",
+        "I",
+        "L"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "DETAIL",
+        "LAD",
+        "LED",
+        "LID",
+        "DATE",
+        "IDEA",
+        "IDLE",
+        "LAID",
+        "TAIL",
+        "TALE",
+        "DEALT",
+        "DELTA",
+        "TIDAL"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 103,
+      "difficulty": "Easy-Medium",
+      "main_word": "SOFTWARE",
+      "letters": [
+        "S",
+        "O",
+        "F",
+        "T",
+        "W",
+        "A",
+        "R",
+        "E"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "SOFTWARE",
+        "TOW",
+        "TWO",
+        "FAST",
+        "SOFT",
+        "SAFER",
+        "STRAW",
+        "SWEAT",
+        "WASTE",
+        "WORST",
+        "WROTE",
+        "FASTER",
+        "FOSTER",
+        "SOFTER"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 104,
+      "difficulty": "Easy-Medium",
+      "main_word": "MISTAKE",
+      "letters": [
+        "M",
+        "I",
+        "S",
+        "T",
+        "A",
+        "K",
+        "E"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "MISTAKE",
+        "ASK",
+        "KIT",
+        "SKI",
+        "KITE",
+        "MAKE",
+        "MASK",
+        "MATE",
+        "MIST",
+        "SAKE",
+        "STEM",
+        "TASK",
+        "SKATE",
+        "STAKE",
+        "STEAK"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 105,
+      "difficulty": "Easy-Medium",
+      "main_word": "FORTUNE",
+      "letters": [
+        "F",
+        "O",
+        "R",
+        "T",
+        "U",
+        "N",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "FORTUNE",
+        "FONT",
+        "OFTEN"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 106,
+      "difficulty": "Easy-Medium",
+      "main_word": "MANKIND",
+      "letters": [
+        "M",
+        "A",
+        "N",
+        "K",
+        "I",
+        "N",
+        "D"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "MANKIND",
+        "INN",
+        "KID",
+        "KIND"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "level": 107,
+      "difficulty": "Easy-Medium",
+      "main_word": "LOCKER",
+      "letters": [
+        "L",
+        "O",
+        "C",
+        "K",
+        "E",
+        "R"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "LOCKER",
+        "COKE",
+        "CORK",
+        "LOCK",
+        "CLERK"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 108,
+      "difficulty": "Easy-Medium",
+      "main_word": "STUBBORN",
+      "letters": [
+        "S",
+        "T",
+        "U",
+        "B",
+        "B",
+        "O",
+        "R",
+        "N"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "STUBBORN",
+        "BURN",
+        "BUST",
+        "TOUR",
+        "BONUS",
+        "BURST"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 109,
+      "difficulty": "Easy-Medium",
+      "main_word": "STRAIN",
+      "letters": [
+        "S",
+        "T",
+        "R",
+        "A",
+        "I",
+        "N"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "STRAIN",
+        "ITS",
+        "RAIN",
+        "STIR",
+        "SAINT",
+        "SATIN",
+        "STAIN"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 110,
+      "difficulty": "Easy-Medium",
+      "main_word": "MULTIPLE",
+      "letters": [
+        "M",
+        "U",
+        "L",
+        "T",
+        "I",
+        "P",
+        "L",
+        "E"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "MULTIPLE",
+        "ILL",
+        "LUMP",
+        "MILL",
+        "MUTE",
+        "PILL",
+        "PLUM",
+        "PULL"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 111,
+      "difficulty": "Easy-Medium",
+      "main_word": "ORDINARY",
+      "letters": [
+        "O",
+        "R",
+        "D",
+        "I",
+        "N",
+        "A",
+        "R",
+        "Y"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "ORDINARY",
+        "IRON",
+        "YARD",
+        "DAIRY",
+        "DIARY",
+        "DRAIN",
+        "IRONY",
+        "RADIO",
+        "RAINY"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 112,
+      "difficulty": "Easy-Medium",
+      "main_word": "COMPOUND",
+      "letters": [
+        "C",
+        "O",
+        "M",
+        "P",
+        "O",
+        "U",
+        "N",
+        "D"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "COMPOUND",
+        "MUD",
+        "PUN",
+        "COOP",
+        "DUMP",
+        "MOON",
+        "UNDO",
+        "UPON",
+        "CONDO",
+        "POUND"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 113,
+      "difficulty": "Easy-Medium",
+      "main_word": "OVERTIME",
+      "letters": [
+        "O",
+        "V",
+        "E",
+        "R",
+        "T",
+        "I",
+        "M",
+        "E"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "OVERTIME",
+        "MERE",
+        "MOVE",
+        "VOTE",
+        "METER",
+        "METRO",
+        "MOVIE",
+        "METEOR",
+        "MOTIVE",
+        "REMOTE",
+        "REMOVE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 114,
+      "difficulty": "Easy-Medium",
+      "main_word": "PROFOUND",
+      "letters": [
+        "P",
+        "R",
+        "O",
+        "F",
+        "O",
+        "U",
+        "N",
+        "D"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "PROFOUND",
+        "FUN",
+        "FOND",
+        "FOOD",
+        "FORD",
+        "FUND",
+        "POND",
+        "ROOF",
+        "DONOR",
+        "FOUND",
+        "PROOF",
+        "ROUND"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 115,
+      "difficulty": "Easy-Medium",
+      "main_word": "PRAISE",
+      "letters": [
+        "P",
+        "R",
+        "A",
+        "I",
+        "S",
+        "E"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "PRAISE",
+        "RIP",
+        "SAP",
+        "SIP",
+        "SIR",
+        "SPA",
+        "PAIR",
+        "RIPE",
+        "RISE",
+        "SIRE",
+        "ARISE",
+        "RAISE",
+        "SPEAR"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 116,
+      "difficulty": "Easy-Medium",
+      "main_word": "PURCHASE",
+      "letters": [
+        "P",
+        "U",
+        "R",
+        "C",
+        "H",
+        "A",
+        "S",
+        "E"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "PURCHASE",
+        "SUCH",
+        "CAUSE",
+        "CHEAP",
+        "CRUSH",
+        "CURSE",
+        "PHASE",
+        "SAUCE",
+        "SCRAP",
+        "SHARP",
+        "PHRASE",
+        "PREACH",
+        "SAUCER",
+        "SCRAPE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 117,
+      "difficulty": "Easy-Medium",
+      "main_word": "BEDROOM",
+      "letters": [
+        "B",
+        "E",
+        "D",
+        "R",
+        "O",
+        "O",
+        "M"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "BEDROOM",
+        "MOB",
+        "BOOM",
+        "BRED",
+        "DOOR",
+        "MODE",
+        "MOOD",
+        "MOOR",
+        "ODOR",
+        "ROBE",
+        "BORED",
+        "BROOM",
+        "RODEO",
+        "BOOMER",
+        "BOREDOM"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 118,
+      "difficulty": "Easy-Medium",
+      "main_word": "ANYMORE",
+      "letters": [
+        "A",
+        "N",
+        "Y",
+        "M",
+        "O",
+        "R",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "ANYMORE",
+        "MAY",
+        "MONEY"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        5
+      ]
+    },
+    {
+      "level": 119,
+      "difficulty": "Easy-Medium",
+      "main_word": "LOGICAL",
+      "letters": [
+        "L",
+        "O",
+        "G",
+        "I",
+        "C",
+        "A",
+        "L"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "LOGICAL",
+        "AGO",
+        "LOCAL",
+        "LOGIC"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 120,
+      "difficulty": "Easy-Medium",
+      "main_word": "REDUCE",
+      "letters": [
+        "R",
+        "E",
+        "D",
+        "U",
+        "C",
+        "E"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "REDUCE",
+        "DEER",
+        "REED",
+        "CREED",
+        "CURED"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 121,
+      "difficulty": "Easy-Medium",
+      "main_word": "RESTROOM",
+      "letters": [
+        "R",
+        "E",
+        "S",
+        "T",
+        "R",
+        "O",
+        "O",
+        "M"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "RESTROOM",
+        "ROOT",
+        "MORSE",
+        "TERMS",
+        "TORSO",
+        "RESORT"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 122,
+      "difficulty": "Easy-Medium",
+      "main_word": "PACKET",
+      "letters": [
+        "P",
+        "A",
+        "C",
+        "K",
+        "E",
+        "T"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "PACKET",
+        "KEPT",
+        "PACK",
+        "PEAK",
+        "PECK",
+        "TACK",
+        "TAKE"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 123,
+      "difficulty": "Easy-Medium",
+      "main_word": "HANDSOME",
+      "letters": [
+        "H",
+        "A",
+        "N",
+        "D",
+        "S",
+        "O",
+        "M",
+        "E"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "HANDSOME",
+        "SAD",
+        "MASON",
+        "SEDAN",
+        "SHADE",
+        "SHAME",
+        "AMENDS",
+        "MASHED"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 124,
+      "difficulty": "Easy-Medium",
+      "main_word": "BASEMENT",
+      "letters": [
+        "B",
+        "A",
+        "S",
+        "E",
+        "M",
+        "E",
+        "N",
+        "T"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "BASEMENT",
+        "BEEN",
+        "BENT",
+        "MEET",
+        "SAME",
+        "EATEN",
+        "TEASE",
+        "ABSENT",
+        "SENATE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 125,
+      "difficulty": "Easy-Medium",
+      "main_word": "ROSEMARY",
+      "letters": [
+        "R",
+        "O",
+        "S",
+        "E",
+        "M",
+        "A",
+        "R",
+        "Y"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "ROSEMARY",
+        "SOY",
+        "REAR",
+        "ROSY",
+        "ARMOR",
+        "MARRY",
+        "MAYOR",
+        "MERRY",
+        "SMEAR",
+        "SORRY"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 126,
+      "difficulty": "Medium",
+      "main_word": "HARDWARE",
+      "letters": [
+        "H",
+        "A",
+        "R",
+        "D",
+        "W",
+        "A",
+        "R",
+        "E"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "HARDWARE",
+        "AREA",
+        "DRAW",
+        "AHEAD",
+        "AWARD",
+        "AWARE",
+        "HEARD",
+        "RADAR",
+        "DRAWER",
+        "HARDER",
+        "REWARD"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 127,
+      "difficulty": "Medium",
+      "main_word": "THIRTEEN",
+      "letters": [
+        "T",
+        "H",
+        "I",
+        "R",
+        "T",
+        "E",
+        "E",
+        "N"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "THIRTEEN",
+        "HIRE",
+        "THIN",
+        "ENTER",
+        "TEETH",
+        "TENTH",
+        "THEIR",
+        "THERE",
+        "THREE",
+        "EITHER",
+        "ENTIRE",
+        "NEITHER"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 128,
+      "difficulty": "Medium",
+      "main_word": "EDITOR",
+      "letters": [
+        "E",
+        "D",
+        "I",
+        "T",
+        "O",
+        "R"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "EDITOR",
+        "DOT",
+        "RID",
+        "DIET",
+        "DIRE",
+        "DIRT",
+        "EDIT",
+        "RIDE",
+        "RIOT",
+        "RITE",
+        "TIDE",
+        "TRIO",
+        "TIRED"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 129,
+      "difficulty": "Medium",
+      "main_word": "GASOLINE",
+      "letters": [
+        "G",
+        "A",
+        "S",
+        "O",
+        "L",
+        "I",
+        "N",
+        "E"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "GASOLINE",
+        "GOES",
+        "LONG",
+        "SIGN",
+        "SING",
+        "ALONG",
+        "ANGEL",
+        "ANGLE",
+        "SALON",
+        "SNAIL",
+        "LEGION",
+        "SIGNAL",
+        "SINGLE",
+        "SLOGAN"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 130,
+      "difficulty": "Medium",
+      "main_word": "FACTORY",
+      "letters": [
+        "F",
+        "A",
+        "C",
+        "T",
+        "O",
+        "R",
+        "Y"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "FACTORY",
+        "CRY",
+        "FRY",
+        "RAY",
+        "TOY",
+        "CART",
+        "COAT",
+        "FACT",
+        "RAFT",
+        "TACO",
+        "ACTOR",
+        "CRAFT",
+        "FORTY",
+        "CRAFTY",
+        "FACTOR"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 131,
+      "difficulty": "Medium",
+      "main_word": "COURAGE",
+      "letters": [
+        "C",
+        "O",
+        "U",
+        "R",
+        "A",
+        "G",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "COURAGE",
+        "ROGUE",
+        "ROUGE"
+      ],
+      "word_lengths": [
+        7,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 132,
+      "difficulty": "Medium",
+      "main_word": "RAILWAY",
+      "letters": [
+        "R",
+        "A",
+        "I",
+        "L",
+        "W",
+        "A",
+        "Y"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "RAILWAY",
+        "WAY",
+        "AWAY",
+        "RAIL"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 133,
+      "difficulty": "Medium",
+      "main_word": "WANDER",
+      "letters": [
+        "W",
+        "A",
+        "N",
+        "D",
+        "E",
+        "R"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "WANDER",
+        "WAD",
+        "DAWN",
+        "WAND",
+        "DRAWN"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 134,
+      "difficulty": "Medium",
+      "main_word": "MERCIFUL",
+      "letters": [
+        "M",
+        "E",
+        "R",
+        "C",
+        "I",
+        "F",
+        "U",
+        "L"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "MERCIFUL",
+        "FILM",
+        "FIRM",
+        "FUEL",
+        "LIFE",
+        "RULE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 135,
+      "difficulty": "Medium",
+      "main_word": "MATRIX",
+      "letters": [
+        "M",
+        "A",
+        "T",
+        "R",
+        "I",
+        "X"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "MATRIX",
+        "AIM",
+        "MIX",
+        "TAX",
+        "MART",
+        "TAXI",
+        "TRAM"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 136,
+      "difficulty": "Medium",
+      "main_word": "OPERATOR",
+      "letters": [
+        "O",
+        "P",
+        "E",
+        "R",
+        "A",
+        "T",
+        "O",
+        "R"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "OPERATOR",
+        "ARE",
+        "RARE",
+        "ROAR",
+        "TAPE",
+        "OPERA",
+        "TROOP",
+        "PARROT"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 137,
+      "difficulty": "Medium",
+      "main_word": "PLEASANT",
+      "letters": [
+        "P",
+        "L",
+        "E",
+        "A",
+        "S",
+        "A",
+        "N",
+        "T"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "PLEASANT",
+        "PLAN",
+        "SNAP",
+        "SPAN",
+        "PANEL",
+        "PANTS",
+        "PASTA",
+        "SPENT",
+        "PEASANT"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        7
+      ]
+    },
+    {
+      "level": 138,
+      "difficulty": "Medium",
+      "main_word": "SHORTCUT",
+      "letters": [
+        "S",
+        "H",
+        "O",
+        "R",
+        "T",
+        "C",
+        "U",
+        "T"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "SHORTCUT",
+        "CRUST",
+        "SCOUT",
+        "TORCH",
+        "TOUCH",
+        "TROUT",
+        "TRUST",
+        "TUTOR",
+        "CHORUS",
+        "THRUST"
+      ],
+      "word_lengths": [
+        8,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 139,
+      "difficulty": "Medium",
+      "main_word": "ASSEMBLE",
+      "letters": [
+        "A",
+        "S",
+        "S",
+        "E",
+        "M",
+        "B",
+        "L",
+        "E"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "ASSEMBLE",
+        "EEL",
+        "ABLE",
+        "BASS",
+        "LAMB",
+        "LASS",
+        "LESS",
+        "MESS",
+        "BLAME",
+        "LEASE",
+        "SEEMS"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 140,
+      "difficulty": "Medium",
+      "main_word": "SOLITUDE",
+      "letters": [
+        "S",
+        "O",
+        "L",
+        "I",
+        "T",
+        "U",
+        "D",
+        "E"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "SOLITUDE",
+        "LOT",
+        "OLD",
+        "IDOL",
+        "SOUL",
+        "TOLD",
+        "LOTUS",
+        "SLIDE",
+        "SOLID",
+        "OLDEST",
+        "STUDIO",
+        "OUTSIDE"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 141,
+      "difficulty": "Medium",
+      "main_word": "POSTER",
+      "letters": [
+        "P",
+        "O",
+        "S",
+        "T",
+        "E",
+        "R"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "POSTER",
+        "PET",
+        "PRO",
+        "PEST",
+        "POET",
+        "POSE",
+        "POST",
+        "REST",
+        "ROPE",
+        "SORT",
+        "SPOT",
+        "STOP",
+        "SPORT"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 142,
+      "difficulty": "Medium",
+      "main_word": "INTERCOM",
+      "letters": [
+        "I",
+        "N",
+        "T",
+        "E",
+        "R",
+        "C",
+        "O",
+        "M"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "INTERCOM",
+        "ONE",
+        "CENT",
+        "ICON",
+        "MICE",
+        "MINT",
+        "MORE",
+        "CRIME",
+        "MINOR",
+        "NICER",
+        "TONIC",
+        "INCOME",
+        "MENTOR",
+        "NOTICE"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 143,
+      "difficulty": "Medium",
+      "main_word": "CENTRAL",
+      "letters": [
+        "C",
+        "E",
+        "N",
+        "T",
+        "R",
+        "A",
+        "L"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "CENTRAL",
+        "CAN",
+        "CANE",
+        "LANE",
+        "ALERT",
+        "CLEAN",
+        "CRANE",
+        "CRATE",
+        "LANCE",
+        "LATER",
+        "REACT",
+        "TRACE",
+        "LEARNT",
+        "RENTAL",
+        "TRANCE"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 144,
+      "difficulty": "Medium",
+      "main_word": "NETWORK",
+      "letters": [
+        "N",
+        "E",
+        "T",
+        "W",
+        "O",
+        "R",
+        "K"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "NETWORK",
+        "KNOT",
+        "TOKEN"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 145,
+      "difficulty": "Medium",
+      "main_word": "VIRTUAL",
+      "letters": [
+        "V",
+        "I",
+        "R",
+        "T",
+        "U",
+        "A",
+        "L"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "VIRTUAL",
+        "TRAIL",
+        "VAULT",
+        "RITUAL"
+      ],
+      "word_lengths": [
+        7,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 146,
+      "difficulty": "Medium",
+      "main_word": "BEACON",
+      "letters": [
+        "B",
+        "E",
+        "A",
+        "C",
+        "O",
+        "N"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "BEACON",
+        "BEAN",
+        "BONE",
+        "CANOE",
+        "OCEAN"
+      ],
+      "word_lengths": [
+        6,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 147,
+      "difficulty": "Medium",
+      "main_word": "FLEXIBLE",
+      "letters": [
+        "F",
+        "L",
+        "E",
+        "X",
+        "I",
+        "B",
+        "L",
+        "E"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "FLEXIBLE",
+        "FIX",
+        "BEEF",
+        "FELL",
+        "EXILE",
+        "BELIEF"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 148,
+      "difficulty": "Medium",
+      "main_word": "CONVEY",
+      "letters": [
+        "C",
+        "O",
+        "N",
+        "V",
+        "E",
+        "Y"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "CONVEY",
+        "COY",
+        "YEN",
+        "CONE",
+        "COVE",
+        "ENVY",
+        "ENVOY"
+      ],
+      "word_lengths": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 149,
+      "difficulty": "Medium",
+      "main_word": "PLATFORM",
+      "letters": [
+        "P",
+        "L",
+        "A",
+        "T",
+        "F",
+        "O",
+        "R",
+        "M"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "PLATFORM",
+        "FLAP",
+        "LOFT",
+        "PROM",
+        "RAMP",
+        "FLOAT",
+        "TRAMP",
+        "MORTAL"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 150,
+      "difficulty": "Medium",
+      "main_word": "DISCOVER",
+      "letters": [
+        "D",
+        "I",
+        "S",
+        "C",
+        "O",
+        "V",
+        "E",
+        "R"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "DISCOVER",
+        "DISC",
+        "VICE",
+        "COVER",
+        "DISCO",
+        "DRIES",
+        "DROVE",
+        "SCORE",
+        "VOICE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 151,
+      "difficulty": "Medium",
+      "main_word": "NUTCRACKER",
+      "letters": [
+        "N",
+        "U",
+        "T",
+        "C",
+        "R",
+        "A",
+        "C",
+        "K",
+        "E",
+        "R"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "NUTCRACKER",
+        "TUCK",
+        "CRACK",
+        "CRANK",
+        "TAKEN",
+        "TRUNK",
+        "ACCENT",
+        "RETURN",
+        "TURNER",
+        "CURRENT"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 152,
+      "difficulty": "Medium",
+      "main_word": "WILDFLOWER",
+      "letters": [
+        "W",
+        "I",
+        "L",
+        "D",
+        "F",
+        "L",
+        "O",
+        "W",
+        "E",
+        "R"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "WILDFLOWER",
+        "WOW",
+        "DOLL",
+        "ROLL",
+        "WIDE",
+        "WIFE",
+        "WILD",
+        "LOWER",
+        "WEIRD",
+        "FELLOW",
+        "FLOWER"
+      ],
+      "word_lengths": [
+        10,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 153,
+      "difficulty": "Medium",
+      "main_word": "MOUSETRAP",
+      "letters": [
+        "M",
+        "O",
+        "U",
+        "S",
+        "E",
+        "T",
+        "R",
+        "A",
+        "P"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "MOUSETRAP",
+        "MUST",
+        "POEM",
+        "AMUSE",
+        "MOUSE",
+        "SETUP",
+        "STUMP",
+        "UPSET",
+        "PASTOR",
+        "TROUPE",
+        "MAESTRO",
+        "POSTURE"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 154,
+      "difficulty": "Medium",
+      "main_word": "ROUNDABOUT",
+      "letters": [
+        "R",
+        "O",
+        "U",
+        "N",
+        "D",
+        "A",
+        "B",
+        "O",
+        "U",
+        "T"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "ROUNDABOUT",
+        "NOT",
+        "OUT",
+        "BOND",
+        "BATON",
+        "BOUND",
+        "BRAND",
+        "BURNT",
+        "DONUT",
+        "DOUBT",
+        "TURBO",
+        "URBAN",
+        "AROUND"
+      ],
+      "word_lengths": [
+        10,
+        3,
+        3,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 155,
+      "difficulty": "Medium",
+      "main_word": "SNOWFLAKE",
+      "letters": [
+        "S",
+        "N",
+        "O",
+        "W",
+        "F",
+        "L",
+        "A",
+        "K",
+        "E"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "SNOWFLAKE",
+        "OAK",
+        "FAKE",
+        "FLOW",
+        "SANK",
+        "SLOW",
+        "SOAK",
+        "WAKE",
+        "WALK",
+        "ANKLE",
+        "FALSE",
+        "FLOWN",
+        "FOLKS",
+        "SNEAK"
+      ],
+      "word_lengths": [
+        9,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 156,
+      "difficulty": "Medium",
+      "main_word": "PROVIDE",
+      "letters": [
+        "P",
+        "R",
+        "O",
+        "V",
+        "I",
+        "D",
+        "E"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "PROVIDE",
+        "DIP",
+        "PIE",
+        "DIVE",
+        "DOVE",
+        "DRIP",
+        "PIER",
+        "VOID",
+        "DIVER",
+        "DRIVE",
+        "PRIDE",
+        "PROVE",
+        "VIDEO",
+        "VIPER",
+        "PERIOD"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 157,
+      "difficulty": "Medium",
+      "main_word": "MIRACLE",
+      "letters": [
+        "M",
+        "I",
+        "R",
+        "A",
+        "C",
+        "L",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "MIRACLE",
+        "CAR",
+        "CAME"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4
+      ]
+    },
+    {
+      "level": 158,
+      "difficulty": "Medium",
+      "main_word": "SURFBOARD",
+      "letters": [
+        "S",
+        "U",
+        "R",
+        "F",
+        "B",
+        "O",
+        "A",
+        "R",
+        "D"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "SURFBOARD",
+        "SOFA",
+        "SURF",
+        "ABSURD"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        6
+      ]
+    },
+    {
+      "level": 159,
+      "difficulty": "Medium",
+      "main_word": "SUBMARINE",
+      "letters": [
+        "S",
+        "U",
+        "B",
+        "M",
+        "A",
+        "R",
+        "I",
+        "N",
+        "E"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "SUBMARINE",
+        "MINUS",
+        "NUMBER",
+        "SEMINAR",
+        "SURNAME"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 160,
+      "difficulty": "Medium",
+      "main_word": "RESPECT",
+      "letters": [
+        "R",
+        "E",
+        "S",
+        "P",
+        "E",
+        "C",
+        "T"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "RESPECT",
+        "CREST",
+        "PEERS",
+        "STEEP",
+        "STEER",
+        "SECRET"
+      ],
+      "word_lengths": [
+        7,
+        5,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 161,
+      "difficulty": "Medium",
+      "main_word": "HORSEBACK",
+      "letters": [
+        "H",
+        "O",
+        "R",
+        "S",
+        "E",
+        "B",
+        "A",
+        "C",
+        "K"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "HORSEBACK",
+        "BASH",
+        "SACK",
+        "SHACK",
+        "SHAKE",
+        "SHARK",
+        "SOBER"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 162,
+      "difficulty": "Medium",
+      "main_word": "PASSWORD",
+      "letters": [
+        "P",
+        "A",
+        "S",
+        "S",
+        "W",
+        "O",
+        "R",
+        "D"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "PASSWORD",
+        "PAW",
+        "WAR",
+        "SOAP",
+        "SWAP",
+        "WARP",
+        "WRAP",
+        "SWORD"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 163,
+      "difficulty": "Medium",
+      "main_word": "STRATEGY",
+      "letters": [
+        "S",
+        "T",
+        "R",
+        "A",
+        "T",
+        "E",
+        "G",
+        "Y"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "STRATEGY",
+        "SAY",
+        "EASY",
+        "GRAY",
+        "START",
+        "TASTY",
+        "GREASY",
+        "TARGET",
+        "TREATY"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 164,
+      "difficulty": "Medium",
+      "main_word": "VOLLEYBALL",
+      "letters": [
+        "V",
+        "O",
+        "L",
+        "L",
+        "E",
+        "Y",
+        "B",
+        "A",
+        "L",
+        "L"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "VOLLEYBALL",
+        "BYE",
+        "LOVE",
+        "OBEY",
+        "YELL",
+        "ABOVE",
+        "ALLEY",
+        "BELLY",
+        "LOYAL",
+        "LOVELY"
+      ],
+      "word_lengths": [
+        10,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 165,
+      "difficulty": "Medium",
+      "main_word": "SUGGESTION",
+      "letters": [
+        "S",
+        "U",
+        "G",
+        "G",
+        "E",
+        "S",
+        "T",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "SUGGESTION",
+        "GIG",
+        "EGGS",
+        "GONG",
+        "GOING",
+        "GUESS",
+        "ISSUE",
+        "GENIUS",
+        "TISSUE",
+        "TONGUE",
+        "SUGGEST"
+      ],
+      "word_lengths": [
+        10,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 166,
+      "difficulty": "Medium",
+      "main_word": "PATCHWORK",
+      "letters": [
+        "P",
+        "A",
+        "T",
+        "C",
+        "H",
+        "W",
+        "O",
+        "R",
+        "K"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "PATCHWORK",
+        "CHOP",
+        "CROW",
+        "HACK",
+        "HAWK",
+        "PORK",
+        "RACK",
+        "PATCH",
+        "PORCH",
+        "THROW",
+        "TRACK",
+        "WORTH"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 167,
+      "difficulty": "Medium",
+      "main_word": "STEPLADDER",
+      "letters": [
+        "S",
+        "T",
+        "E",
+        "P",
+        "L",
+        "A",
+        "D",
+        "D",
+        "E",
+        "R"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "STEPLADDER",
+        "DEEP",
+        "DREAD",
+        "SPEED",
+        "STEED",
+        "DEALER",
+        "ELDEST",
+        "LADDER",
+        "LEADER",
+        "PADDLE",
+        "REPEAT",
+        "SADDLE",
+        "DEAREST"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 168,
+      "difficulty": "Medium",
+      "main_word": "SPAGHETTI",
+      "letters": [
+        "S",
+        "P",
+        "A",
+        "G",
+        "H",
+        "E",
+        "T",
+        "T",
+        "I"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "SPAGHETTI",
+        "GAP",
+        "PEG",
+        "GASP",
+        "SHIP",
+        "SIGH",
+        "THAT",
+        "THIS",
+        "EIGHT",
+        "HASTE",
+        "SIGHT",
+        "SPITE",
+        "STATE",
+        "TIGHT"
+      ],
+      "word_lengths": [
+        9,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 169,
+      "difficulty": "Medium",
+      "main_word": "THERAPY",
+      "letters": [
+        "T",
+        "H",
+        "E",
+        "R",
+        "A",
+        "P",
+        "Y"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "THERAPY",
+        "HAT",
+        "HAY",
+        "HEY",
+        "TRY",
+        "YEA",
+        "YET",
+        "HARP",
+        "HATE",
+        "HEAP",
+        "PATH",
+        "THEY",
+        "TYPE",
+        "YEAR",
+        "PARTY"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 170,
+      "difficulty": "Medium",
+      "main_word": "RESPOND",
+      "letters": [
+        "R",
+        "E",
+        "S",
+        "P",
+        "O",
+        "N",
+        "D"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "RESPOND",
+        "SPEND",
+        "PERSON"
+      ],
+      "word_lengths": [
+        7,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 171,
+      "difficulty": "Medium",
+      "main_word": "CHOCOLATE",
+      "letters": [
+        "C",
+        "H",
+        "O",
+        "C",
+        "O",
+        "L",
+        "A",
+        "T",
+        "E"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "CHOCOLATE",
+        "TOOL",
+        "CATCH",
+        "COACH"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 172,
+      "difficulty": "Medium",
+      "main_word": "BREAKFAST",
+      "letters": [
+        "B",
+        "R",
+        "E",
+        "A",
+        "K",
+        "F",
+        "A",
+        "S",
+        "T"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "BREAKFAST",
+        "STARK",
+        "BASKET",
+        "KARATE",
+        "STREAK"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 173,
+      "difficulty": "Medium",
+      "main_word": "MANAGER",
+      "letters": [
+        "M",
+        "A",
+        "N",
+        "A",
+        "G",
+        "E",
+        "R"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "MANAGER",
+        "GEM",
+        "MEAN",
+        "NEAR",
+        "ARENA",
+        "MANAGE"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 174,
+      "difficulty": "Medium",
+      "main_word": "RAINWATER",
+      "letters": [
+        "R",
+        "A",
+        "I",
+        "N",
+        "W",
+        "A",
+        "T",
+        "E",
+        "R"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "RAINWATER",
+        "TWIN",
+        "WANT",
+        "AWAIT",
+        "WAITER",
+        "TERRAIN",
+        "TRAINER"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        5,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 175,
+      "difficulty": "Medium",
+      "main_word": "DOMESTIC",
+      "letters": [
+        "D",
+        "O",
+        "M",
+        "E",
+        "S",
+        "T",
+        "I",
+        "C"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "DOMESTIC",
+        "COME",
+        "SIDE",
+        "SOME",
+        "COMET",
+        "MIDST",
+        "MOIST",
+        "MODEST"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 176,
+      "difficulty": "Medium",
+      "main_word": "INTERNAL",
+      "letters": [
+        "I",
+        "N",
+        "T",
+        "E",
+        "R",
+        "N",
+        "A",
+        "L"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "INTERNAL",
+        "NINE",
+        "ALIEN",
+        "INNER",
+        "LEARN",
+        "LINEN",
+        "INTERN",
+        "RETAIL",
+        "RETAIN"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 177,
+      "difficulty": "Medium",
+      "main_word": "TABLECLOTH",
+      "letters": [
+        "T",
+        "A",
+        "B",
+        "L",
+        "E",
+        "C",
+        "L",
+        "O",
+        "T",
+        "H"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "TABLECLOTH",
+        "TOLL",
+        "BATCH",
+        "CABLE",
+        "CLOTH",
+        "TOTAL",
+        "BATTLE",
+        "CATTLE",
+        "LOCATE",
+        "TABLET"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 178,
+      "difficulty": "Medium",
+      "main_word": "SNOWMOBILE",
+      "letters": [
+        "S",
+        "N",
+        "O",
+        "W",
+        "M",
+        "O",
+        "B",
+        "I",
+        "L",
+        "E"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "SNOWMOBILE",
+        "BLEW",
+        "BLOW",
+        "BOWL",
+        "SOLO",
+        "BELOW",
+        "BLOOM",
+        "BLOWN",
+        "ELBOW",
+        "NOBLE",
+        "MOBILE"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 179,
+      "difficulty": "Medium",
+      "main_word": "JELLYFISH",
+      "letters": [
+        "J",
+        "E",
+        "L",
+        "L",
+        "Y",
+        "F",
+        "I",
+        "S",
+        "H"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "JELLYFISH",
+        "FILL",
+        "HILL",
+        "LILY",
+        "SELF",
+        "FISHY",
+        "FLESH",
+        "FLIES",
+        "JELLY",
+        "SHELF",
+        "SHELL",
+        "SILLY"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 180,
+      "difficulty": "Medium",
+      "main_word": "PILLOWCASE",
+      "letters": [
+        "P",
+        "I",
+        "L",
+        "L",
+        "O",
+        "W",
+        "C",
+        "A",
+        "S",
+        "E"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "PILLOWCASE",
+        "WALL",
+        "WELL",
+        "WILL",
+        "ALLOW",
+        "POLLS",
+        "SPELL",
+        "SPILL",
+        "SWELL",
+        "PILLOW",
+        "POLICE",
+        "SOCIAL",
+        "COLLAPSE"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        8
+      ]
+    },
+    {
+      "level": 181,
+      "difficulty": "Medium",
+      "main_word": "RECTANGLE",
+      "letters": [
+        "R",
+        "E",
+        "C",
+        "T",
+        "A",
+        "N",
+        "G",
+        "L",
+        "E"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "RECTANGLE",
+        "CAGE",
+        "GLEE",
+        "GRACE",
+        "CENTER",
+        "CEREAL",
+        "CREATE",
+        "GENTLE",
+        "GLANCE",
+        "RECENT",
+        "CLEANER",
+        "ELEGANT",
+        "GENERAL",
+        "NEGLECT"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 182,
+      "difficulty": "Medium",
+      "main_word": "WESTERN",
+      "letters": [
+        "W",
+        "E",
+        "S",
+        "T",
+        "E",
+        "R",
+        "N"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "WESTERN",
+        "WEE",
+        "WET",
+        "STEW",
+        "TEEN",
+        "WENT",
+        "WERE",
+        "WEST",
+        "RENEW",
+        "RESET",
+        "SEWER",
+        "SWEET",
+        "TENSE",
+        "NEWEST",
+        "RESENT"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 183,
+      "difficulty": "Medium",
+      "main_word": "CAPTURE",
+      "letters": [
+        "C",
+        "A",
+        "P",
+        "T",
+        "U",
+        "R",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "CAPTURE",
+        "PUT",
+        "TRUCE"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        5
+      ]
+    },
+    {
+      "level": 184,
+      "difficulty": "Medium",
+      "main_word": "PRESIDENT",
+      "letters": [
+        "P",
+        "R",
+        "E",
+        "S",
+        "I",
+        "D",
+        "E",
+        "N",
+        "T"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "PRESIDENT",
+        "DESPITE",
+        "PRETEND",
+        "RESIDENT"
+      ],
+      "word_lengths": [
+        9,
+        7,
+        7,
+        8
+      ]
+    },
+    {
+      "level": 185,
+      "difficulty": "Medium",
+      "main_word": "WINDSTORM",
+      "letters": [
+        "W",
+        "I",
+        "N",
+        "D",
+        "S",
+        "T",
+        "O",
+        "R",
+        "M"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "WINDSTORM",
+        "SWIM",
+        "WIND",
+        "WRIST",
+        "WISDOM"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 186,
+      "difficulty": "Medium",
+      "main_word": "PURPOSE",
+      "letters": [
+        "P",
+        "U",
+        "R",
+        "P",
+        "O",
+        "S",
+        "E"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "PURPOSE",
+        "PUP",
+        "PREP",
+        "SOUR",
+        "UPPER",
+        "SUPPER"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 187,
+      "difficulty": "Medium",
+      "main_word": "LANDSCAPE",
+      "letters": [
+        "L",
+        "A",
+        "N",
+        "D",
+        "S",
+        "C",
+        "A",
+        "P",
+        "E"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "LANDSCAPE",
+        "CANAL",
+        "PEDAL",
+        "PLEAD",
+        "SALAD",
+        "SPADE",
+        "CANDLES"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7
+      ]
+    },
+    {
+      "level": 188,
+      "difficulty": "Medium",
+      "main_word": "DIALOGUE",
+      "letters": [
+        "D",
+        "I",
+        "A",
+        "L",
+        "O",
+        "G",
+        "U",
+        "E"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "DIALOGUE",
+        "GLAD",
+        "GOAL",
+        "LOAD",
+        "LOUD",
+        "ALOUD",
+        "AUDIO",
+        "LODGE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 189,
+      "difficulty": "Medium",
+      "main_word": "LAUGHTER",
+      "letters": [
+        "L",
+        "A",
+        "U",
+        "G",
+        "H",
+        "T",
+        "E",
+        "R"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "LAUGHTER",
+        "HALT",
+        "HAUL",
+        "HEAT",
+        "HUGE",
+        "LURE",
+        "LAUGH",
+        "ULTRA",
+        "GATHER"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 190,
+      "difficulty": "Medium",
+      "main_word": "PERCUSSION",
+      "letters": [
+        "P",
+        "E",
+        "R",
+        "C",
+        "U",
+        "S",
+        "S",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "PERCUSSION",
+        "CROSS",
+        "COURSE",
+        "COUSIN",
+        "CRUISE",
+        "SENSOR",
+        "SOURCE",
+        "PROCESS",
+        "SERIOUS",
+        "PRECIOUS"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        8
+      ]
+    },
+    {
+      "level": 191,
+      "difficulty": "Medium",
+      "main_word": "KINGFISHER",
+      "letters": [
+        "K",
+        "I",
+        "N",
+        "G",
+        "F",
+        "I",
+        "S",
+        "H",
+        "E",
+        "R"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "KINGFISHER",
+        "KEG",
+        "IRIS",
+        "KING",
+        "SINK",
+        "SKIN",
+        "FRESH",
+        "KNIFE",
+        "FINISH",
+        "FISHER",
+        "SHRINK"
+      ],
+      "word_lengths": [
+        10,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 192,
+      "difficulty": "Medium",
+      "main_word": "CARTWHEEL",
+      "letters": [
+        "C",
+        "A",
+        "R",
+        "T",
+        "W",
+        "H",
+        "E",
+        "E",
+        "L"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "CARTWHEEL",
+        "CHEW",
+        "CLAW",
+        "HEEL",
+        "CRAWL",
+        "TEACH",
+        "THREW",
+        "WHEAT",
+        "HEALER",
+        "WEALTH",
+        "CHEATER",
+        "LEATHER"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 193,
+      "difficulty": "Medium",
+      "main_word": "TRAMPOLINE",
+      "letters": [
+        "T",
+        "R",
+        "A",
+        "M",
+        "P",
+        "O",
+        "L",
+        "I",
+        "N",
+        "E"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "TRAMPOLINE",
+        "PILOT",
+        "IMPORT",
+        "MORALE",
+        "NORMAL",
+        "PATRON",
+        "PETROL",
+        "POLITE",
+        "RATION",
+        "TRIPLE",
+        "RELATION",
+        "TEMPORAL",
+        "TERMINAL"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "level": 194,
+      "difficulty": "Medium",
+      "main_word": "FRAMEWORK",
+      "letters": [
+        "F",
+        "R",
+        "A",
+        "M",
+        "E",
+        "W",
+        "O",
+        "R",
+        "K"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "FRAMEWORK",
+        "MARK",
+        "WARM",
+        "WEAK",
+        "WORM",
+        "FRAME",
+        "MAKER",
+        "FORMER",
+        "MARKER",
+        "MARROW",
+        "REFORM",
+        "REMARK",
+        "WARMER",
+        "WORKER"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 195,
+      "difficulty": "Medium",
+      "main_word": "PRODUCE",
+      "letters": [
+        "P",
+        "R",
+        "O",
+        "D",
+        "U",
+        "C",
+        "E"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "PRODUCE",
+        "COP",
+        "CUE",
+        "DUO",
+        "RED",
+        "COPE",
+        "CORD",
+        "CORE",
+        "COUP",
+        "CROP",
+        "POUR",
+        "PURE",
+        "RUDE",
+        "CRUDE",
+        "PROUD"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 196,
+      "difficulty": "Medium",
+      "main_word": "PROPOSE",
+      "letters": [
+        "P",
+        "R",
+        "O",
+        "P",
+        "O",
+        "S",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "PROPOSE",
+        "POOR",
+        "OPPOSE"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        6
+      ]
+    },
+    {
+      "level": 197,
+      "difficulty": "Medium",
+      "main_word": "CHALLENGE",
+      "letters": [
+        "C",
+        "H",
+        "A",
+        "L",
+        "L",
+        "E",
+        "N",
+        "G",
+        "E"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "CHALLENGE",
+        "HANG",
+        "HENCE",
+        "CHANGE"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 198,
+      "difficulty": "Medium",
+      "main_word": "GONDOLIER",
+      "letters": [
+        "G",
+        "O",
+        "N",
+        "D",
+        "O",
+        "L",
+        "I",
+        "E",
+        "R"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "GONDOLIER",
+        "GOOD",
+        "GOLDEN",
+        "LONGER",
+        "NOODLE"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 199,
+      "difficulty": "Medium",
+      "main_word": "CAREFUL",
+      "letters": [
+        "C",
+        "A",
+        "R",
+        "E",
+        "F",
+        "U",
+        "L"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "CAREFUL",
+        "CAFE",
+        "CLUE",
+        "CURL",
+        "FACE",
+        "FARCE"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 200,
+      "difficulty": "Medium",
+      "main_word": "KNOWLEDGE",
+      "letters": [
+        "K",
+        "N",
+        "O",
+        "W",
+        "L",
+        "E",
+        "D",
+        "G",
+        "E"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "KNOWLEDGE",
+        "GEEK",
+        "GLOW",
+        "GOWN",
+        "LEDGE",
+        "WEDGE",
+        "LEGEND"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 201,
+      "difficulty": "Medium-Hard",
+      "main_word": "WITHDRAW",
+      "letters": [
+        "W",
+        "I",
+        "T",
+        "H",
+        "D",
+        "R",
+        "A",
+        "W"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "WITHDRAW",
+        "WIT",
+        "WAIT",
+        "WARD",
+        "WHAT",
+        "WITH",
+        "WRIT",
+        "THIRD"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 202,
+      "difficulty": "Medium-Hard",
+      "main_word": "MAJORITY",
+      "letters": [
+        "M",
+        "A",
+        "J",
+        "O",
+        "R",
+        "I",
+        "T",
+        "Y"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "MAJORITY",
+        "ARM",
+        "JAM",
+        "JAR",
+        "JOY",
+        "ARMY",
+        "MAYO",
+        "MAJOR",
+        "RATIO"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 203,
+      "difficulty": "Medium-Hard",
+      "main_word": "PERIWINKLE",
+      "letters": [
+        "P",
+        "E",
+        "R",
+        "I",
+        "W",
+        "I",
+        "N",
+        "K",
+        "L",
+        "E"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "PERIWINKLE",
+        "KEEN",
+        "KNEE",
+        "KNEW",
+        "LIKE",
+        "LINK",
+        "WEEK",
+        "WINE",
+        "WINK",
+        "WIRE"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 204,
+      "difficulty": "Medium-Hard",
+      "main_word": "VOCABULARY",
+      "letters": [
+        "V",
+        "O",
+        "C",
+        "A",
+        "B",
+        "U",
+        "L",
+        "A",
+        "R",
+        "Y"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "VOCABULARY",
+        "BUY",
+        "AURA",
+        "BURY",
+        "CLUB",
+        "CURB",
+        "LAVA",
+        "RUBY",
+        "CORAL",
+        "CURLY",
+        "VOCAL"
+      ],
+      "word_lengths": [
+        10,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 205,
+      "difficulty": "Medium-Hard",
+      "main_word": "LOCKSMITH",
+      "letters": [
+        "L",
+        "O",
+        "C",
+        "K",
+        "S",
+        "M",
+        "I",
+        "T",
+        "H"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "LOCKSMITH",
+        "ITCH",
+        "KILO",
+        "LICK",
+        "MOCK",
+        "SILK",
+        "TICK",
+        "SHOCK",
+        "SLICK",
+        "SMITH",
+        "STICK",
+        "STOCK"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 206,
+      "difficulty": "Medium-Hard",
+      "main_word": "SONGWRITER",
+      "letters": [
+        "S",
+        "O",
+        "N",
+        "G",
+        "W",
+        "R",
+        "I",
+        "T",
+        "E",
+        "R"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "SONGWRITER",
+        "WIN",
+        "GREW",
+        "GROW",
+        "GROWN",
+        "SWING",
+        "SWORN",
+        "WINGS",
+        "WRITE",
+        "WRONG",
+        "STRONG",
+        "WORRIES",
+        "STRONGER"
+      ],
+      "word_lengths": [
+        10,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "level": 207,
+      "difficulty": "Medium-Hard",
+      "main_word": "SATELLITE",
+      "letters": [
+        "S",
+        "A",
+        "T",
+        "E",
+        "L",
+        "L",
+        "I",
+        "T",
+        "E"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "SATELLITE",
+        "ELSE",
+        "SELL",
+        "TILT",
+        "STALL",
+        "STEEL",
+        "STILL",
+        "TASTE",
+        "TITLE",
+        "ALLIES",
+        "ESTATE",
+        "LATEST",
+        "LITTLE",
+        "SETTLE"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 208,
+      "difficulty": "Medium-Hard",
+      "main_word": "CHAMBER",
+      "letters": [
+        "C",
+        "H",
+        "A",
+        "M",
+        "B",
+        "E",
+        "R"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "CHAMBER",
+        "CAB",
+        "BEAM",
+        "BEAR",
+        "HARM",
+        "HERB",
+        "MACE",
+        "MARE",
+        "AMBER",
+        "BRACE",
+        "CHARM",
+        "CREAM",
+        "MARCH",
+        "REACH",
+        "BREACH"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 209,
+      "difficulty": "Medium-Hard",
+      "main_word": "BREATHE",
+      "letters": [
+        "B",
+        "R",
+        "E",
+        "A",
+        "T",
+        "H",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "BREATHE",
+        "BATHE",
+        "HEATER"
+      ],
+      "word_lengths": [
+        7,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 210,
+      "difficulty": "Medium-Hard",
+      "main_word": "AMBULANCE",
+      "letters": [
+        "A",
+        "M",
+        "B",
+        "U",
+        "L",
+        "A",
+        "N",
+        "C",
+        "E"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "AMBULANCE",
+        "MANUAL",
+        "UNABLE",
+        "BALANCE"
+      ],
+      "word_lengths": [
+        9,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 211,
+      "difficulty": "Medium-Hard",
+      "main_word": "HONEYCOMB",
+      "letters": [
+        "H",
+        "O",
+        "N",
+        "E",
+        "Y",
+        "C",
+        "O",
+        "M",
+        "B"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "HONEYCOMB",
+        "BOY",
+        "BENCH",
+        "HONEY",
+        "ECONOMY"
+      ],
+      "word_lengths": [
+        9,
+        3,
+        5,
+        5,
+        7
+      ]
+    },
+    {
+      "level": 212,
+      "difficulty": "Medium-Hard",
+      "main_word": "SUPREME",
+      "letters": [
+        "S",
+        "U",
+        "P",
+        "R",
+        "E",
+        "M",
+        "E"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "SUPREME",
+        "SUM",
+        "MUSE",
+        "SERUM",
+        "RESUME",
+        "PRESUME"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 213,
+      "difficulty": "Medium-Hard",
+      "main_word": "TOOTHPICK",
+      "letters": [
+        "T",
+        "O",
+        "O",
+        "T",
+        "H",
+        "P",
+        "I",
+        "C",
+        "K"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "TOOTHPICK",
+        "HOOK",
+        "TOOK",
+        "PHOTO",
+        "PITCH",
+        "THICK",
+        "TOOTH"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 214,
+      "difficulty": "Medium-Hard",
+      "main_word": "RELEVANT",
+      "letters": [
+        "R",
+        "E",
+        "L",
+        "E",
+        "V",
+        "A",
+        "N",
+        "T"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "RELEVANT",
+        "EVENT",
+        "NERVE",
+        "NEVER",
+        "RAVEN",
+        "TAVERN",
+        "ETERNAL",
+        "VETERAN"
+      ],
+      "word_lengths": [
+        8,
+        5,
+        5,
+        5,
+        5,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 215,
+      "difficulty": "Medium-Hard",
+      "main_word": "PRESERVE",
+      "letters": [
+        "P",
+        "R",
+        "E",
+        "S",
+        "E",
+        "R",
+        "V",
+        "E"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "PRESERVE",
+        "VEER",
+        "SERVE",
+        "SPREE",
+        "VERSE",
+        "SERVER",
+        "SEVERE",
+        "RESERVE",
+        "REVERSE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 216,
+      "difficulty": "Medium-Hard",
+      "main_word": "ELECTRICAL",
+      "letters": [
+        "E",
+        "L",
+        "E",
+        "C",
+        "T",
+        "R",
+        "I",
+        "C",
+        "A",
+        "L"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "ELECTRICAL",
+        "ARCTIC",
+        "CALLER",
+        "CELLAR",
+        "RECALL",
+        "TALLER",
+        "TELLER",
+        "ARTICLE",
+        "RECITAL",
+        "ELECTRIC"
+      ],
+      "word_lengths": [
+        10,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        8
+      ]
+    },
+    {
+      "level": 217,
+      "difficulty": "Medium-Hard",
+      "main_word": "LIGHTHOUSE",
+      "letters": [
+        "L",
+        "I",
+        "G",
+        "H",
+        "T",
+        "H",
+        "O",
+        "U",
+        "S",
+        "E"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "LIGHTHOUSE",
+        "HUSH",
+        "SLUG",
+        "GHOST",
+        "GUEST",
+        "HOTEL",
+        "EIGHTH",
+        "HEIGHT",
+        "HUSTLE",
+        "SOUGHT",
+        "THOUGH"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 218,
+      "difficulty": "Medium-Hard",
+      "main_word": "GRAPEVINE",
+      "letters": [
+        "G",
+        "R",
+        "A",
+        "P",
+        "E",
+        "V",
+        "I",
+        "N",
+        "E"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "GRAPEVINE",
+        "EVEN",
+        "GAVE",
+        "GIVE",
+        "GRIP",
+        "PING",
+        "GENIE",
+        "GIVEN",
+        "PAGER",
+        "VEGAN",
+        "GRIEVE",
+        "VINEGAR"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 219,
+      "difficulty": "Medium-Hard",
+      "main_word": "FLASHLIGHT",
+      "letters": [
+        "F",
+        "L",
+        "A",
+        "S",
+        "H",
+        "L",
+        "I",
+        "G",
+        "H",
+        "T"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "FLASHLIGHT",
+        "FALL",
+        "GIFT",
+        "HALL",
+        "HASH",
+        "HIGH",
+        "FAITH",
+        "FLASH",
+        "SHAFT",
+        "SHALL",
+        "SHIFT",
+        "FLIGHT",
+        "SLIGHT"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 220,
+      "difficulty": "Medium-Hard",
+      "main_word": "BOULEVARD",
+      "letters": [
+        "B",
+        "O",
+        "U",
+        "L",
+        "E",
+        "V",
+        "A",
+        "R",
+        "D"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "BOULEVARD",
+        "BEAU",
+        "BLUR",
+        "OVER",
+        "RAVE",
+        "ROLE",
+        "VEAL",
+        "BOARD",
+        "BRAVE",
+        "BRAVO",
+        "VALUE",
+        "DOUBLE",
+        "VERBAL",
+        "BOULDER"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 221,
+      "difficulty": "Medium-Hard",
+      "main_word": "BARGAIN",
+      "letters": [
+        "B",
+        "A",
+        "R",
+        "G",
+        "A",
+        "I",
+        "N"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "BARGAIN",
+        "BAG",
+        "BAR",
+        "BIG",
+        "RIB",
+        "ARIA",
+        "BANG",
+        "BRAG",
+        "GAIN",
+        "GRAB",
+        "GRIN",
+        "RING",
+        "BRAIN",
+        "BRING",
+        "GRAIN"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 222,
+      "difficulty": "Medium-Hard",
+      "main_word": "MUSICAL",
+      "letters": [
+        "M",
+        "U",
+        "S",
+        "I",
+        "C",
+        "A",
+        "L"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "MUSICAL",
+        "CLAIM",
+        "MUSIC"
+      ],
+      "word_lengths": [
+        7,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 223,
+      "difficulty": "Medium-Hard",
+      "main_word": "WAREHOUSE",
+      "letters": [
+        "W",
+        "A",
+        "R",
+        "E",
+        "H",
+        "O",
+        "U",
+        "S",
+        "E"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "WAREHOUSE",
+        "WASH",
+        "WHERE",
+        "WHEREAS"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "level": 224,
+      "difficulty": "Medium-Hard",
+      "main_word": "CLASSROOM",
+      "letters": [
+        "C",
+        "L",
+        "A",
+        "S",
+        "S",
+        "R",
+        "O",
+        "O",
+        "M"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "CLASSROOM",
+        "COOL",
+        "CLASS",
+        "COLOR",
+        "ACROSS"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 225,
+      "difficulty": "Medium-Hard",
+      "main_word": "DISPLAY",
+      "letters": [
+        "D",
+        "I",
+        "S",
+        "P",
+        "L",
+        "A",
+        "Y"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "DISPLAY",
+        "SLY",
+        "LADY",
+        "SAID",
+        "DAILY",
+        "SADLY"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 226,
+      "difficulty": "Medium-Hard",
+      "main_word": "CARPENTRY",
+      "letters": [
+        "C",
+        "A",
+        "R",
+        "P",
+        "E",
+        "N",
+        "T",
+        "R",
+        "Y"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "CARPENTRY",
+        "CARRY",
+        "ENTRY",
+        "ARTERY",
+        "PANTRY",
+        "PRAYER",
+        "PARTNER"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 227,
+      "difficulty": "Medium-Hard",
+      "main_word": "WARDROBE",
+      "letters": [
+        "W",
+        "A",
+        "R",
+        "D",
+        "R",
+        "O",
+        "B",
+        "E"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "WARDROBE",
+        "BOW",
+        "WEB",
+        "BREW",
+        "ARROW",
+        "BEARD",
+        "BROAD",
+        "BORDER"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 228,
+      "difficulty": "Medium-Hard",
+      "main_word": "THANKFUL",
+      "letters": [
+        "T",
+        "H",
+        "A",
+        "N",
+        "K",
+        "F",
+        "U",
+        "L"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "THANKFUL",
+        "FAN",
+        "FLAT",
+        "FUNK",
+        "HALF",
+        "TANK",
+        "FAULT",
+        "FLANK",
+        "THANK"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 229,
+      "difficulty": "Medium-Hard",
+      "main_word": "GRADUATION",
+      "letters": [
+        "G",
+        "R",
+        "A",
+        "D",
+        "U",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "GRADUATION",
+        "DATA",
+        "GIANT",
+        "GUARD",
+        "TANGO",
+        "DURING",
+        "GROUND",
+        "RADIANT",
+        "DURATION",
+        "GUARDIAN"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "level": 230,
+      "difficulty": "Medium-Hard",
+      "main_word": "BRIGHTNESS",
+      "letters": [
+        "B",
+        "R",
+        "I",
+        "G",
+        "H",
+        "T",
+        "N",
+        "E",
+        "S",
+        "S"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "BRIGHTNESS",
+        "BITE",
+        "SHIN",
+        "BEGIN",
+        "BIRTH",
+        "SHINE",
+        "TRIBE",
+        "BRIGHT",
+        "RESIST",
+        "SISTER",
+        "THESIS"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 231,
+      "difficulty": "Medium-Hard",
+      "main_word": "INTRODUCE",
+      "letters": [
+        "I",
+        "N",
+        "T",
+        "R",
+        "O",
+        "D",
+        "U",
+        "C",
+        "E"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "INTRODUCE",
+        "DENT",
+        "DUCT",
+        "TEND",
+        "COUNT",
+        "COURT",
+        "OUNCE",
+        "TREND",
+        "UNDER",
+        "DETOUR",
+        "COUNTER",
+        "ROUTINE"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 232,
+      "difficulty": "Medium-Hard",
+      "main_word": "SILVERWARE",
+      "letters": [
+        "S",
+        "I",
+        "L",
+        "V",
+        "E",
+        "R",
+        "W",
+        "A",
+        "R",
+        "E"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "SILVERWARE",
+        "VIEW",
+        "WAVE",
+        "ELVES",
+        "WIVES",
+        "ARRIVE",
+        "REVIEW",
+        "SERIAL",
+        "WEASEL",
+        "WEAVER",
+        "EARLIER",
+        "SEVERAL",
+        "VIEWERS"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 233,
+      "difficulty": "Medium-Hard",
+      "main_word": "WORKBENCH",
+      "letters": [
+        "W",
+        "O",
+        "R",
+        "K",
+        "B",
+        "E",
+        "N",
+        "C",
+        "H"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "WORKBENCH",
+        "COW",
+        "CHOW",
+        "KNOW",
+        "NECK",
+        "WOKE",
+        "WORK",
+        "BROKE",
+        "BROWN",
+        "CROWN",
+        "WRECK",
+        "BROKEN",
+        "RECKON",
+        "WRENCH"
+      ],
+      "word_lengths": [
+        9,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 234,
+      "difficulty": "Medium-Hard",
+      "main_word": "FORMULA",
+      "letters": [
+        "F",
+        "O",
+        "R",
+        "M",
+        "U",
+        "L",
+        "A"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "FORMULA",
+        "FLU",
+        "FUR",
+        "MAR",
+        "RUM",
+        "FARM",
+        "FOAM",
+        "FORM",
+        "FOUL",
+        "FOUR",
+        "FROM",
+        "FLOUR",
+        "FORUM",
+        "MORAL",
+        "FORMAL"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 235,
+      "difficulty": "Medium-Hard",
+      "main_word": "CONTAIN",
+      "letters": [
+        "C",
+        "O",
+        "N",
+        "T",
+        "A",
+        "I",
+        "N"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "CONTAIN",
+        "ACTION",
+        "NATION"
+      ],
+      "word_lengths": [
+        7,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 236,
+      "difficulty": "Medium-Hard",
+      "main_word": "PROMOTION",
+      "letters": [
+        "P",
+        "R",
+        "O",
+        "M",
+        "O",
+        "T",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "PROMOTION",
+        "MOTION",
+        "MONITOR",
+        "PORTION"
+      ],
+      "word_lengths": [
+        9,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 237,
+      "difficulty": "Medium-Hard",
+      "main_word": "BLUEBERRY",
+      "letters": [
+        "B",
+        "L",
+        "U",
+        "E",
+        "B",
+        "E",
+        "R",
+        "R",
+        "Y"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "BLUEBERRY",
+        "BERRY",
+        "BUYER",
+        "RULER",
+        "RUBBER"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 238,
+      "difficulty": "Medium-Hard",
+      "main_word": "SPEAKER",
+      "letters": [
+        "S",
+        "P",
+        "E",
+        "A",
+        "K",
+        "E",
+        "R"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "SPEAKER",
+        "KEEP",
+        "PEEK",
+        "SEEK",
+        "SPARK",
+        "SPEAK"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 239,
+      "difficulty": "Medium-Hard",
+      "main_word": "DRAGONFLY",
+      "letters": [
+        "D",
+        "R",
+        "A",
+        "G",
+        "O",
+        "N",
+        "F",
+        "L",
+        "Y"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "DRAGONFLY",
+        "ANY",
+        "FANG",
+        "FOLD",
+        "ONLY",
+        "ANGRY",
+        "GLORY"
+      ],
+      "word_lengths": [
+        9,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 240,
+      "difficulty": "Medium-Hard",
+      "main_word": "MECHANIC",
+      "letters": [
+        "M",
+        "E",
+        "C",
+        "H",
+        "A",
+        "N",
+        "I",
+        "C"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "MECHANIC",
+        "MEN",
+        "CHIC",
+        "CHIN",
+        "EACH",
+        "CHAIN",
+        "CHANCE",
+        "CINEMA"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 241,
+      "difficulty": "Medium-Hard",
+      "main_word": "ORGANIZE",
+      "letters": [
+        "O",
+        "R",
+        "G",
+        "A",
+        "N",
+        "I",
+        "Z",
+        "E"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "ORGANIZE",
+        "GAZE",
+        "GONE",
+        "ZERO",
+        "ZONE",
+        "GROAN",
+        "ORGAN",
+        "IGNORE",
+        "REGAIN"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 242,
+      "difficulty": "Medium-Hard",
+      "main_word": "CONSISTENT",
+      "letters": [
+        "C",
+        "O",
+        "N",
+        "S",
+        "I",
+        "S",
+        "T",
+        "E",
+        "N",
+        "T"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "CONSISTENT",
+        "TOSS",
+        "SCENT",
+        "INTENT",
+        "NICEST",
+        "CONSENT",
+        "CONTENT",
+        "CONTEST",
+        "INSECTS",
+        "TENSION"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        5,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 243,
+      "difficulty": "Medium-Hard",
+      "main_word": "GREENHOUSE",
+      "letters": [
+        "G",
+        "R",
+        "E",
+        "E",
+        "N",
+        "H",
+        "O",
+        "U",
+        "S",
+        "E"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "GREENHOUSE",
+        "HUNG",
+        "SUNG",
+        "GEESE",
+        "ROUGH",
+        "SURGE",
+        "ENOUGH",
+        "ENSURE",
+        "HUNGER",
+        "SURGEON",
+        "GENEROUS"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "level": 244,
+      "difficulty": "Medium-Hard",
+      "main_word": "INSPECTOR",
+      "letters": [
+        "I",
+        "N",
+        "S",
+        "P",
+        "E",
+        "C",
+        "T",
+        "O",
+        "R"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "INSPECTOR",
+        "SPIN",
+        "CRISP",
+        "PRICE",
+        "SCOPE",
+        "SONIC",
+        "SPINE",
+        "POETIC",
+        "PRINCE",
+        "SCRIPT",
+        "INSPECT",
+        "SECTION"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 245,
+      "difficulty": "Medium-Hard",
+      "main_word": "WOODPECKER",
+      "letters": [
+        "W",
+        "O",
+        "O",
+        "D",
+        "P",
+        "E",
+        "C",
+        "K",
+        "E",
+        "R"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "WOODPECKER",
+        "COOK",
+        "CREW",
+        "DECK",
+        "DOCK",
+        "POKE",
+        "ROOK",
+        "WEEP",
+        "CREEK",
+        "CROWD",
+        "POKER",
+        "COOPER",
+        "PROCEED"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 246,
+      "difficulty": "Medium-Hard",
+      "main_word": "SHIPWRECK",
+      "letters": [
+        "S",
+        "H",
+        "I",
+        "P",
+        "W",
+        "R",
+        "E",
+        "C",
+        "K"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "SHIPWRECK",
+        "HIKE",
+        "PICK",
+        "PIKE",
+        "RISK",
+        "SICK",
+        "SKIP",
+        "WHIP",
+        "WIPE",
+        "WISE",
+        "WISH",
+        "SPIKE",
+        "WISER",
+        "WHISPER"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        7
+      ]
+    },
+    {
+      "level": 247,
+      "difficulty": "Medium-Hard",
+      "main_word": "WELFARE",
+      "letters": [
+        "W",
+        "E",
+        "L",
+        "F",
+        "A",
+        "R",
+        "E"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "WELFARE",
+        "FEE",
+        "FEW",
+        "FARE",
+        "FEAR",
+        "FEEL",
+        "FLAW",
+        "FLEA",
+        "FLEE",
+        "FLEW",
+        "FREE",
+        "REEF",
+        "REEL",
+        "FEWER",
+        "FLARE"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 248,
+      "difficulty": "Medium-Hard",
+      "main_word": "ADVISOR",
+      "letters": [
+        "A",
+        "D",
+        "V",
+        "I",
+        "S",
+        "O",
+        "R"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "ADVISOR",
+        "SODA",
+        "AVOID"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        5
+      ]
+    },
+    {
+      "level": 249,
+      "difficulty": "Medium-Hard",
+      "main_word": "CHEMISTRY",
+      "letters": [
+        "C",
+        "H",
+        "E",
+        "M",
+        "I",
+        "S",
+        "T",
+        "R",
+        "Y"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "CHEMISTRY",
+        "MERCY",
+        "CHIMES",
+        "MISTER"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 250,
+      "difficulty": "Medium-Hard",
+      "main_word": "CONFUSION",
+      "letters": [
+        "C",
+        "O",
+        "N",
+        "F",
+        "U",
+        "S",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "CONFUSION",
+        "NOON",
+        "FOCUS",
+        "UNION",
+        "ONIONS"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 251,
+      "difficulty": "Hard",
+      "main_word": "GALLERY",
+      "letters": [
+        "G",
+        "A",
+        "L",
+        "L",
+        "E",
+        "R",
+        "Y"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "GALLERY",
+        "LEGAL",
+        "RALLY",
+        "REALLY",
+        "ALLERGY",
+        "LARGELY"
+      ],
+      "word_lengths": [
+        7,
+        5,
+        5,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 252,
+      "difficulty": "Hard",
+      "main_word": "PASSENGER",
+      "letters": [
+        "P",
+        "A",
+        "S",
+        "S",
+        "E",
+        "N",
+        "G",
+        "E",
+        "R"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "PASSENGER",
+        "PAGE",
+        "PASS",
+        "SEEN",
+        "GRASP",
+        "SENSE",
+        "GREASE"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 253,
+      "difficulty": "Hard",
+      "main_word": "HOMETOWN",
+      "letters": [
+        "H",
+        "O",
+        "M",
+        "E",
+        "T",
+        "O",
+        "W",
+        "N"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "HOMETOWN",
+        "MEOW",
+        "THEM",
+        "TOWN",
+        "WHEN",
+        "WHOM",
+        "MONTH",
+        "WOMEN"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 254,
+      "difficulty": "Hard",
+      "main_word": "ADOPTION",
+      "letters": [
+        "A",
+        "D",
+        "O",
+        "P",
+        "T",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "ADOPTION",
+        "ONTO",
+        "PAID",
+        "TOAD",
+        "ADOPT",
+        "PAINT",
+        "POINT",
+        "OPTION",
+        "POTION"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 255,
+      "difficulty": "Hard",
+      "main_word": "DELIGHTFUL",
+      "letters": [
+        "D",
+        "E",
+        "L",
+        "I",
+        "G",
+        "H",
+        "T",
+        "F",
+        "U",
+        "L"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "DELIGHTFUL",
+        "FED",
+        "DELL",
+        "DULL",
+        "FULL",
+        "HULL",
+        "FIGHT",
+        "GUILT",
+        "FUTILE",
+        "DELIGHT"
+      ],
+      "word_lengths": [
+        10,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 256,
+      "difficulty": "Hard",
+      "main_word": "REFLECTION",
+      "letters": [
+        "R",
+        "E",
+        "F",
+        "L",
+        "E",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "REFLECTION",
+        "CLONE",
+        "FLEET",
+        "FLINT",
+        "CLIENT",
+        "FIERCE",
+        "RECITE",
+        "RELIEF",
+        "FERTILE",
+        "REFLECT",
+        "ELECTION"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        8
+      ]
+    },
+    {
+      "level": 257,
+      "difficulty": "Hard",
+      "main_word": "COUNSELOR",
+      "letters": [
+        "C",
+        "O",
+        "U",
+        "N",
+        "S",
+        "E",
+        "L",
+        "O",
+        "R"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "COUNSELOR",
+        "SOON",
+        "LOOSE",
+        "UNCLE",
+        "CLOSER",
+        "CONSUL",
+        "COOLER",
+        "LOOSEN",
+        "SOONER",
+        "CLOSURE",
+        "CONSOLE",
+        "COUNSEL"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 258,
+      "difficulty": "Hard",
+      "main_word": "ATMOSPHERE",
+      "letters": [
+        "A",
+        "T",
+        "M",
+        "O",
+        "S",
+        "P",
+        "H",
+        "E",
+        "R",
+        "E"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "ATMOSPHERE",
+        "MARSH",
+        "SHEET",
+        "THEME",
+        "THESE",
+        "TRASH",
+        "ASHORE",
+        "MOTHER",
+        "SPHERE",
+        "STEREO",
+        "TEMPER",
+        "OPERATE",
+        "METAPHOR"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "level": 259,
+      "difficulty": "Hard",
+      "main_word": "ORCHESTRA",
+      "letters": [
+        "O",
+        "R",
+        "C",
+        "H",
+        "E",
+        "S",
+        "T",
+        "R",
+        "A"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "ORCHESTRA",
+        "CHART",
+        "CHEAT",
+        "CHEST",
+        "COAST",
+        "CHORES",
+        "CRATER",
+        "RATHER",
+        "SECTOR",
+        "CHARTER",
+        "COASTER",
+        "CREATOR",
+        "REACTOR",
+        "SHORTER"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 260,
+      "difficulty": "Hard",
+      "main_word": "PROTEIN",
+      "letters": [
+        "P",
+        "R",
+        "O",
+        "T",
+        "E",
+        "I",
+        "N"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "PROTEIN",
+        "PEN",
+        "PIN",
+        "TIE",
+        "TOP",
+        "INTO",
+        "OPEN",
+        "PINE",
+        "PINT",
+        "RENT",
+        "TORN",
+        "INTRO",
+        "PRINT",
+        "PRONE",
+        "ORIENT"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 261,
+      "difficulty": "Hard",
+      "main_word": "CAPSULE",
+      "letters": [
+        "C",
+        "A",
+        "P",
+        "S",
+        "U",
+        "L",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "CAPSULE",
+        "PLUS",
+        "CLAUSE"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        6
+      ]
+    },
+    {
+      "level": 262,
+      "difficulty": "Hard",
+      "main_word": "IDENTICAL",
+      "letters": [
+        "I",
+        "D",
+        "E",
+        "N",
+        "T",
+        "I",
+        "C",
+        "A",
+        "L"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "IDENTICAL",
+        "DENIAL",
+        "DENTAL",
+        "INDICATE"
+      ],
+      "word_lengths": [
+        9,
+        6,
+        6,
+        8
+      ]
+    },
+    {
+      "level": 263,
+      "difficulty": "Hard",
+      "main_word": "STRATEGIC",
+      "letters": [
+        "S",
+        "T",
+        "R",
+        "A",
+        "T",
+        "E",
+        "G",
+        "I",
+        "C"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "STRATEGIC",
+        "ATTIC",
+        "STATIC",
+        "STRICT",
+        "TRAGIC"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 264,
+      "difficulty": "Hard",
+      "main_word": "APOLOGY",
+      "letters": [
+        "A",
+        "P",
+        "O",
+        "L",
+        "O",
+        "G",
+        "Y"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "APOLOGY",
+        "LOGO",
+        "LOOP",
+        "POLO",
+        "POOL",
+        "YOGA"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "level": 265,
+      "difficulty": "Hard",
+      "main_word": "AUTHORITY",
+      "letters": [
+        "A",
+        "U",
+        "T",
+        "H",
+        "O",
+        "R",
+        "I",
+        "T",
+        "Y"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "AUTHORITY",
+        "YOUR",
+        "HAIRY",
+        "YOUTH",
+        "AUTHOR",
+        "THIRTY",
+        "THROAT"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 266,
+      "difficulty": "Hard",
+      "main_word": "COVERAGE",
+      "letters": [
+        "C",
+        "O",
+        "V",
+        "E",
+        "R",
+        "A",
+        "G",
+        "E"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "COVERAGE",
+        "CAVE",
+        "CARGO",
+        "CARVE",
+        "CRAVE",
+        "GRAVE",
+        "GROVE",
+        "VERGE"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 267,
+      "difficulty": "Hard",
+      "main_word": "MONUMENT",
+      "letters": [
+        "M",
+        "O",
+        "N",
+        "U",
+        "M",
+        "E",
+        "N",
+        "T"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "MONUMENT",
+        "MOM",
+        "NUN",
+        "MEMO",
+        "MENU",
+        "NONE",
+        "OMEN",
+        "MOUNT",
+        "MOMENT"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 268,
+      "difficulty": "Hard",
+      "main_word": "FEDERATION",
+      "letters": [
+        "F",
+        "E",
+        "D",
+        "E",
+        "R",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "FEDERATION",
+        "DEAF",
+        "FEET",
+        "NEED",
+        "DRAFT",
+        "DRIFT",
+        "DEFEAT",
+        "DEFINE",
+        "DONATE",
+        "TENDER"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 269,
+      "difficulty": "Hard",
+      "main_word": "PERMISSION",
+      "letters": [
+        "P",
+        "E",
+        "R",
+        "M",
+        "I",
+        "S",
+        "S",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "PERMISSION",
+        "MINI",
+        "MISS",
+        "MOSS",
+        "PRESS",
+        "IMPOSE",
+        "IMPRESS",
+        "INSPIRE",
+        "MISSION",
+        "PROMISE",
+        "IMPRESSION"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        4,
+        5,
+        6,
+        7,
+        7,
+        7,
+        7,
+        10
+      ]
+    },
+    {
+      "level": 270,
+      "difficulty": "Hard",
+      "main_word": "SPECIALTY",
+      "letters": [
+        "S",
+        "P",
+        "E",
+        "C",
+        "I",
+        "A",
+        "L",
+        "T",
+        "Y"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "SPECIALTY",
+        "CAST",
+        "CITY",
+        "PITY",
+        "SPIT",
+        "SALTY",
+        "SPLIT",
+        "STYLE",
+        "ASPECT",
+        "EASILY",
+        "PLASTIC",
+        "TYPICAL"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 271,
+      "difficulty": "Hard",
+      "main_word": "IMPORTANCE",
+      "letters": [
+        "I",
+        "M",
+        "P",
+        "O",
+        "R",
+        "T",
+        "A",
+        "N",
+        "C",
+        "E"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "IMPORTANCE",
+        "APRON",
+        "TOPIC",
+        "ATOMIC",
+        "IMPACT",
+        "PARENT",
+        "REMAIN",
+        "CERTAIN",
+        "COMPARE",
+        "ROMANCE",
+        "CREATION",
+        "REACTION",
+        "ROMANTIC"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "level": 272,
+      "difficulty": "Hard",
+      "main_word": "PLAYHOUSE",
+      "letters": [
+        "P",
+        "L",
+        "A",
+        "Y",
+        "H",
+        "O",
+        "U",
+        "S",
+        "E"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "PLAYHOUSE",
+        "HOP",
+        "YES",
+        "YOU",
+        "HELP",
+        "HOLY",
+        "HOPE",
+        "POSH",
+        "PUSH",
+        "SHOP",
+        "LEASH",
+        "PAUSE",
+        "PULSE",
+        "SHAPE"
+      ],
+      "word_lengths": [
+        9,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 273,
+      "difficulty": "Hard",
+      "main_word": "STANDBY",
+      "letters": [
+        "S",
+        "T",
+        "A",
+        "N",
+        "D",
+        "B",
+        "Y"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "STANDBY",
+        "BAD",
+        "BAN",
+        "BAT",
+        "BAY",
+        "DAY",
+        "NAB",
+        "NAY",
+        "TAB",
+        "ANTS",
+        "BAND",
+        "SAND",
+        "STAY",
+        "SANDY",
+        "STAND"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 274,
+      "difficulty": "Hard",
+      "main_word": "DAYTIME",
+      "letters": [
+        "D",
+        "A",
+        "Y",
+        "T",
+        "I",
+        "M",
+        "E"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "DAYTIME",
+        "MET",
+        "ADMIT"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        5
+      ]
+    },
+    {
+      "level": 275,
+      "difficulty": "Hard",
+      "main_word": "LEGENDARY",
+      "letters": [
+        "L",
+        "E",
+        "G",
+        "E",
+        "N",
+        "D",
+        "A",
+        "R",
+        "Y"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "LEGENDARY",
+        "DELAY",
+        "ENERGY",
+        "GREEDY"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 276,
+      "difficulty": "Hard",
+      "main_word": "SCULPTURE",
+      "letters": [
+        "S",
+        "C",
+        "U",
+        "L",
+        "P",
+        "T",
+        "U",
+        "R",
+        "E"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "SCULPTURE",
+        "PURSUE",
+        "RESULT",
+        "CLUSTER",
+        "CULTURE"
+      ],
+      "word_lengths": [
+        9,
+        6,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 277,
+      "difficulty": "Hard",
+      "main_word": "EXTRACT",
+      "letters": [
+        "E",
+        "X",
+        "T",
+        "R",
+        "A",
+        "C",
+        "T"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "EXTRACT",
+        "TART",
+        "TEXT",
+        "EXACT",
+        "EXTRA",
+        "TREAT"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 278,
+      "difficulty": "Hard",
+      "main_word": "DISAPPEAR",
+      "letters": [
+        "D",
+        "I",
+        "S",
+        "A",
+        "P",
+        "P",
+        "E",
+        "A",
+        "R"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "DISAPPEAR",
+        "PAPA",
+        "PIPE",
+        "RAPID",
+        "APPEAR",
+        "PARADE",
+        "SPREAD"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        5,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 279,
+      "difficulty": "Hard",
+      "main_word": "SOUVENIR",
+      "letters": [
+        "S",
+        "O",
+        "U",
+        "V",
+        "E",
+        "N",
+        "I",
+        "R"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "SOUVENIR",
+        "RUIN",
+        "NURSE",
+        "VIRUS",
+        "SENIOR",
+        "ENVIOUS",
+        "NERVOUS",
+        "VERSION"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        5,
+        6,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 280,
+      "difficulty": "Hard",
+      "main_word": "MANIFEST",
+      "letters": [
+        "M",
+        "A",
+        "N",
+        "I",
+        "F",
+        "E",
+        "S",
+        "T"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "MANIFEST",
+        "FAME",
+        "FEAT",
+        "FIST",
+        "SAFE",
+        "FAINT",
+        "FEAST",
+        "FASTEN",
+        "FINEST"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 281,
+      "difficulty": "Hard",
+      "main_word": "EMPLOYMENT",
+      "letters": [
+        "E",
+        "M",
+        "P",
+        "L",
+        "O",
+        "Y",
+        "M",
+        "E",
+        "N",
+        "T"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "EMPLOYMENT",
+        "PEEL",
+        "PONY",
+        "EMPTY",
+        "ENEMY",
+        "MOTEL",
+        "EMPLOY",
+        "OPENLY",
+        "PLENTY",
+        "TEMPLE"
+      ],
+      "word_lengths": [
+        10,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 282,
+      "difficulty": "Hard",
+      "main_word": "PARLIAMENT",
+      "letters": [
+        "P",
+        "A",
+        "R",
+        "L",
+        "I",
+        "A",
+        "M",
+        "E",
+        "N",
+        "T"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "PARLIAMENT",
+        "ALTAR",
+        "APART",
+        "ANIMAL",
+        "MARINA",
+        "MARINE",
+        "IMPLANT",
+        "MARTIAL",
+        "MINERAL",
+        "PARTIAL",
+        "MATERIAL"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        8
+      ]
+    },
+    {
+      "level": 283,
+      "difficulty": "Hard",
+      "main_word": "SECONDARY",
+      "letters": [
+        "S",
+        "E",
+        "C",
+        "O",
+        "N",
+        "D",
+        "A",
+        "R",
+        "Y"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "SECONDARY",
+        "DENY",
+        "SYNC",
+        "CANDY",
+        "DECAY",
+        "DECOY",
+        "READY",
+        "SONAR",
+        "DANCER",
+        "REASON",
+        "SACRED",
+        "YONDER"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 284,
+      "difficulty": "Hard",
+      "main_word": "PERFECTION",
+      "letters": [
+        "P",
+        "E",
+        "R",
+        "F",
+        "E",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "PERFECTION",
+        "FENCE",
+        "FORCE",
+        "FRONT",
+        "PIECE",
+        "OPENER",
+        "PIERCE",
+        "PROFIT",
+        "RECIPE",
+        "PERCENT",
+        "PERFECT",
+        "RECEIPT",
+        "RECEPTION"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        9
+      ]
+    },
+    {
+      "level": 285,
+      "difficulty": "Hard",
+      "main_word": "LIFEGUARD",
+      "letters": [
+        "L",
+        "I",
+        "F",
+        "E",
+        "G",
+        "U",
+        "A",
+        "R",
+        "D"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "LIFEGUARD",
+        "FADE",
+        "FEUD",
+        "FLED",
+        "GIRL",
+        "GULF",
+        "FIELD",
+        "FLUID",
+        "FUDGE",
+        "GRAIL",
+        "FIGURE",
+        "FRIDGE",
+        "FAILURE",
+        "FRAGILE"
+      ],
+      "word_lengths": [
+        9,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 286,
+      "difficulty": "Hard",
+      "main_word": "INDULGE",
+      "letters": [
+        "I",
+        "N",
+        "D",
+        "U",
+        "L",
+        "G",
+        "E"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "INDULGE",
+        "DIG",
+        "DUG",
+        "GEL",
+        "GUN",
+        "LUG",
+        "DELI",
+        "DING",
+        "DUEL",
+        "GLUE",
+        "LEND",
+        "LUNG",
+        "GLIDE",
+        "GUIDE",
+        "GUILD"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 287,
+      "difficulty": "Hard",
+      "main_word": "INSTALL",
+      "letters": [
+        "I",
+        "N",
+        "S",
+        "T",
+        "A",
+        "L",
+        "L"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "INSTALL",
+        "SIT",
+        "TALL"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        4
+      ]
+    },
+    {
+      "level": 288,
+      "difficulty": "Hard",
+      "main_word": "GENERATOR",
+      "letters": [
+        "G",
+        "E",
+        "N",
+        "E",
+        "R",
+        "A",
+        "T",
+        "O",
+        "R"
+      ],
+      "word_count": 4,
+      "words_to_make": [
+        "GENERATOR",
+        "RANGER",
+        "REGRET",
+        "GREATER"
+      ],
+      "word_lengths": [
+        9,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 289,
+      "difficulty": "Hard",
+      "main_word": "SOUTHEAST",
+      "letters": [
+        "S",
+        "O",
+        "U",
+        "T",
+        "H",
+        "E",
+        "A",
+        "S",
+        "T"
+      ],
+      "word_count": 5,
+      "words_to_make": [
+        "SOUTHEAST",
+        "ASSET",
+        "STASH",
+        "STATUE",
+        "STATUS"
+      ],
+      "word_lengths": [
+        9,
+        5,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "level": 290,
+      "difficulty": "Hard",
+      "main_word": "CLARIFY",
+      "letters": [
+        "C",
+        "L",
+        "A",
+        "R",
+        "I",
+        "F",
+        "Y"
+      ],
+      "word_count": 6,
+      "words_to_make": [
+        "CLARIFY",
+        "CALF",
+        "FAIL",
+        "FAIR",
+        "FAIRY",
+        "FAIRLY"
+      ],
+      "word_lengths": [
+        7,
+        4,
+        4,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "level": 291,
+      "difficulty": "Hard",
+      "main_word": "EXTENSIVE",
+      "letters": [
+        "E",
+        "X",
+        "T",
+        "E",
+        "N",
+        "S",
+        "I",
+        "V",
+        "E"
+      ],
+      "word_count": 7,
+      "words_to_make": [
+        "EXTENSIVE",
+        "SIX",
+        "EXIT",
+        "NEXT",
+        "EXIST",
+        "INVEST",
+        "SIXTEEN"
+      ],
+      "word_lengths": [
+        9,
+        3,
+        4,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 292,
+      "difficulty": "Hard",
+      "main_word": "GENERATE",
+      "letters": [
+        "G",
+        "E",
+        "N",
+        "E",
+        "R",
+        "A",
+        "T",
+        "E"
+      ],
+      "word_count": 8,
+      "words_to_make": [
+        "GENERATE",
+        "GENE",
+        "AGREE",
+        "EAGER",
+        "GREET",
+        "REGENT",
+        "TEENAGE",
+        "TEENAGER"
+      ],
+      "word_lengths": [
+        8,
+        4,
+        5,
+        5,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "level": 293,
+      "difficulty": "Hard",
+      "main_word": "METALLIC",
+      "letters": [
+        "M",
+        "E",
+        "T",
+        "A",
+        "L",
+        "L",
+        "I",
+        "C"
+      ],
+      "word_count": 9,
+      "words_to_make": [
+        "METALLIC",
+        "ALL",
+        "CALL",
+        "CELL",
+        "CLAM",
+        "MALL",
+        "TELL",
+        "TILL",
+        "CLIMATE"
+      ],
+      "word_lengths": [
+        8,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        7
+      ]
+    },
+    {
+      "level": 294,
+      "difficulty": "Hard",
+      "main_word": "CONTRIBUTE",
+      "letters": [
+        "C",
+        "O",
+        "N",
+        "T",
+        "R",
+        "I",
+        "B",
+        "U",
+        "T",
+        "E"
+      ],
+      "word_count": 10,
+      "words_to_make": [
+        "CONTRIBUTE",
+        "ORBIT",
+        "UTTER",
+        "BITTEN",
+        "BITTER",
+        "BOUNCE",
+        "BUTTON",
+        "CUTTER",
+        "ROTTEN",
+        "TRIBUTE"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 295,
+      "difficulty": "Hard",
+      "main_word": "SCREENPLAY",
+      "letters": [
+        "S",
+        "C",
+        "R",
+        "E",
+        "E",
+        "N",
+        "P",
+        "L",
+        "A",
+        "Y"
+      ],
+      "word_count": 11,
+      "words_to_make": [
+        "SCREENPLAY",
+        "PEACE",
+        "SCARY",
+        "ASLEEP",
+        "ESCAPE",
+        "NEARLY",
+        "PLEASE",
+        "SLEEPY",
+        "CLEANSE",
+        "REPLACE",
+        "SCENERY"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "level": 296,
+      "difficulty": "Hard",
+      "main_word": "ADMIRABLE",
+      "letters": [
+        "A",
+        "D",
+        "M",
+        "I",
+        "R",
+        "A",
+        "B",
+        "L",
+        "E"
+      ],
+      "word_count": 12,
+      "words_to_make": [
+        "ADMIRABLE",
+        "BED",
+        "BID",
+        "ABIDE",
+        "ALARM",
+        "DRAMA",
+        "REALM",
+        "ADMIRE",
+        "AERIAL",
+        "BRIDAL",
+        "MARBLE",
+        "ADMIRAL"
+      ],
+      "word_lengths": [
+        9,
+        3,
+        3,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        7
+      ]
+    },
+    {
+      "level": 297,
+      "difficulty": "Hard",
+      "main_word": "STRAIGHTEN",
+      "letters": [
+        "S",
+        "T",
+        "R",
+        "A",
+        "I",
+        "G",
+        "H",
+        "T",
+        "E",
+        "N"
+      ],
+      "word_count": 13,
+      "words_to_make": [
+        "STRAIGHTEN",
+        "RIGHT",
+        "STING",
+        "ARTIST",
+        "STRING",
+        "THIRST",
+        "THREAT",
+        "TIGHTEN",
+        "TIGHTER",
+        "TRANSIT",
+        "STRAIGHT",
+        "STRENGTH",
+        "SHATTERING"
+      ],
+      "word_lengths": [
+        10,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8,
+        8,
+        10
+      ]
+    },
+    {
+      "level": 298,
+      "difficulty": "Hard",
+      "main_word": "THUMBNAIL",
+      "letters": [
+        "T",
+        "H",
+        "U",
+        "M",
+        "B",
+        "N",
+        "A",
+        "I",
+        "L"
+      ],
+      "word_count": 14,
+      "words_to_make": [
+        "THUMBNAIL",
+        "BIT",
+        "BUN",
+        "LAB",
+        "BAIT",
+        "HAIL",
+        "LIMB",
+        "NUMB",
+        "ALBUM",
+        "BLUNT",
+        "BUILT",
+        "HABIT",
+        "THUMB",
+        "UNTIL"
+      ],
+      "word_lengths": [
+        9,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 299,
+      "difficulty": "Hard",
+      "main_word": "PLASTER",
+      "letters": [
+        "P",
+        "L",
+        "A",
+        "S",
+        "T",
+        "E",
+        "R"
+      ],
+      "word_count": 15,
+      "words_to_make": [
+        "PLASTER",
+        "PAL",
+        "SEA",
+        "EAST",
+        "LAST",
+        "PAST",
+        "SALT",
+        "ALTER",
+        "LASER",
+        "LEAST",
+        "PASTE",
+        "SLEPT",
+        "SPARE",
+        "STARE",
+        "TEARS"
+      ],
+      "word_lengths": [
+        7,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "level": 300,
+      "difficulty": "Hard",
+      "main_word": "LIGHTEN",
+      "letters": [
+        "L",
+        "I",
+        "G",
+        "H",
+        "T",
+        "E",
+        "N"
+      ],
+      "word_count": 3,
+      "words_to_make": [
+        "LIGHTEN",
+        "NIGHT",
+        "LENGTH"
+      ],
+      "word_lengths": [
+        7,
+        5,
+        6
+      ]
+    }
+  ]
+}

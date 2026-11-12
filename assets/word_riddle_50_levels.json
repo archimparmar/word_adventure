@@ -1,0 +1,466 @@
+{
+  "format_version": "1.0",
+  "game_type": "word_riddle",
+  "total_levels": 50,
+  "fields": [
+    "level",
+    "clue",
+    "answer",
+    "category",
+    "difficulty",
+    "hint",
+    "explanation"
+  ],
+  "levels": [
+    {
+      "level": 1,
+      "clue": "I have four legs and bark, but I am not a tree. What am I?",
+      "answer": "DOG",
+      "category": "Animals",
+      "difficulty": "Easy",
+      "hint": "A common pet that loves to wag its tail.",
+      "explanation": "Dogs can bark and have four legs."
+    },
+    {
+      "level": 2,
+      "clue": "I am yellow, curved, and monkeys love me. What am I?",
+      "answer": "BANANA",
+      "category": "Food",
+      "difficulty": "Easy",
+      "hint": "You peel me before eating me.",
+      "explanation": "A banana is yellow and curved."
+    },
+    {
+      "level": 3,
+      "clue": "I shine in the sky during the day and give you light. What am I?",
+      "answer": "SUN",
+      "category": "Nature",
+      "difficulty": "Easy",
+      "hint": "You can see me when the sky is clear.",
+      "explanation": "The Sun gives Earth light and warmth."
+    },
+    {
+      "level": 4,
+      "clue": "I have pages but I am not a tree. You can read me. What am I?",
+      "answer": "BOOK",
+      "category": "Objects",
+      "difficulty": "Easy",
+      "hint": "You can find stories inside me.",
+      "explanation": "A book contains pages and can be read."
+    },
+    {
+      "level": 5,
+      "clue": "I swim in water and have fins. What am I?",
+      "answer": "FISH",
+      "category": "Animals",
+      "difficulty": "Easy",
+      "hint": "I live underwater.",
+      "explanation": "Fish use fins to swim."
+    },
+    {
+      "level": 6,
+      "clue": "I am round, orange, and used in football. What am I?",
+      "answer": "BALL",
+      "category": "Sports",
+      "difficulty": "Easy",
+      "hint": "You kick or throw me in many games.",
+      "explanation": "A ball is used in many sports."
+    },
+    {
+      "level": 7,
+      "clue": "I have two wheels and you can ride me without an engine. What am I?",
+      "answer": "BICYCLE",
+      "category": "Transport",
+      "difficulty": "Easy",
+      "hint": "You move me by pedaling.",
+      "explanation": "A bicycle has two wheels and pedals."
+    },
+    {
+      "level": 8,
+      "clue": "I have hands but cannot clap. I tell you the time. What am I?",
+      "answer": "CLOCK",
+      "category": "Objects",
+      "difficulty": "Easy",
+      "hint": "Look at me when you need to know the hour.",
+      "explanation": "A clock has hands that show time."
+    },
+    {
+      "level": 9,
+      "clue": "I am white, cold, and fall from clouds in winter. What am I?",
+      "answer": "SNOW",
+      "category": "Nature",
+      "difficulty": "Easy",
+      "hint": "You may build a snowman from me.",
+      "explanation": "Snow falls during cold weather."
+    },
+    {
+      "level": 10,
+      "clue": "I am full of keys but cannot open a door. What am I?",
+      "answer": "KEYBOARD",
+      "category": "Objects",
+      "difficulty": "Easy",
+      "hint": "You use me to type on a computer.",
+      "explanation": "A keyboard has many keys."
+    },
+    {
+      "level": 11,
+      "clue": "I have a long trunk and big ears. What am I?",
+      "answer": "ELEPHANT",
+      "category": "Animals",
+      "difficulty": "Easy",
+      "hint": "I am one of the largest land animals.",
+      "explanation": "An elephant has a trunk and large ears."
+    },
+    {
+      "level": 12,
+      "clue": "I am red, juicy, and often found in salads. What am I?",
+      "answer": "TOMATO",
+      "category": "Food",
+      "difficulty": "Easy",
+      "hint": "I am often mistaken for a vegetable.",
+      "explanation": "Tomatoes are commonly used in salads."
+    },
+    {
+      "level": 13,
+      "clue": "I have teeth but cannot bite. What am I?",
+      "answer": "COMB",
+      "category": "Objects",
+      "difficulty": "Easy",
+      "hint": "I help keep your hair neat.",
+      "explanation": "A comb has teeth used to arrange hair."
+    },
+    {
+      "level": 14,
+      "clue": "I fly without wings and cry without eyes. What am I?",
+      "answer": "CLOUD",
+      "category": "Nature",
+      "difficulty": "Easy",
+      "hint": "You can see me floating in the sky.",
+      "explanation": "Clouds move through the sky and can produce rain."
+    },
+    {
+      "level": 15,
+      "clue": "I am something you wear on your feet and usually come in pairs. What am I?",
+      "answer": "SHOES",
+      "category": "Clothing",
+      "difficulty": "Easy",
+      "hint": "You put me on before going outside.",
+      "explanation": "Shoes protect your feet."
+    },
+    {
+      "level": 16,
+      "clue": "I have a face and two hands, but no arms or legs. What am I?",
+      "answer": "WATCH",
+      "category": "Objects",
+      "difficulty": "Easy",
+      "hint": "You can wear me on your wrist.",
+      "explanation": "A watch tells time and often has hands and a face."
+    },
+    {
+      "level": 17,
+      "clue": "I am sweet, cold, and often served in a cone. What am I?",
+      "answer": "ICECREAM",
+      "category": "Food",
+      "difficulty": "Easy",
+      "hint": "I melt if you leave me in the sun.",
+      "explanation": "Ice cream is a frozen dessert."
+    },
+    {
+      "level": 18,
+      "clue": "I have feathers, wings, and lay eggs. What am I?",
+      "answer": "BIRD",
+      "category": "Animals",
+      "difficulty": "Easy",
+      "hint": "Many of my kind can fly.",
+      "explanation": "Birds have feathers and lay eggs."
+    },
+    {
+      "level": 19,
+      "clue": "I have a neck but no head and hold liquid. What am I?",
+      "answer": "BOTTLE",
+      "category": "Objects",
+      "difficulty": "Easy",
+      "hint": "You can drink water from me.",
+      "explanation": "A bottle has a neck and holds liquids."
+    },
+    {
+      "level": 20,
+      "clue": "I am green, leafy, and often used in salads. What am I?",
+      "answer": "LETTUCE",
+      "category": "Food",
+      "difficulty": "Easy",
+      "hint": "I am a common salad ingredient.",
+      "explanation": "Lettuce is a leafy green vegetable."
+    },
+    {
+      "level": 21,
+      "clue": "I can be cracked, made, told, and played. What am I?",
+      "answer": "JOKE",
+      "category": "Entertainment",
+      "difficulty": "Medium",
+      "hint": "People often laugh after hearing me.",
+      "explanation": "A joke can be cracked, made, told, or played."
+    },
+    {
+      "level": 22,
+      "clue": "The more you take, the more you leave behind. What am I?",
+      "answer": "STEPS",
+      "category": "Logic",
+      "difficulty": "Medium",
+      "hint": "Think about walking.",
+      "explanation": "Each step you take leaves a footprint or marks your journey."
+    },
+    {
+      "level": 23,
+      "clue": "I get wetter the more I dry. What am I?",
+      "answer": "TOWEL",
+      "category": "Objects",
+      "difficulty": "Medium",
+      "hint": "You use me after a shower.",
+      "explanation": "A towel becomes wet while drying you."
+    },
+    {
+      "level": 24,
+      "clue": "I have cities but no houses, forests but no trees, and rivers but no water. What am I?",
+      "answer": "MAP",
+      "category": "Objects",
+      "difficulty": "Medium",
+      "hint": "You use me to find places.",
+      "explanation": "A map represents cities, forests, and rivers."
+    },
+    {
+      "level": 25,
+      "clue": "I am always in front of you but can never be seen. What am I?",
+      "answer": "FUTURE",
+      "category": "Concepts",
+      "difficulty": "Medium",
+      "hint": "You cannot see me yet, but I am always coming.",
+      "explanation": "The future is ahead of us but cannot be seen."
+    },
+    {
+      "level": 26,
+      "clue": "I have one eye but cannot see. What am I?",
+      "answer": "NEEDLE",
+      "category": "Objects",
+      "difficulty": "Medium",
+      "hint": "Thread often passes through my eye.",
+      "explanation": "A needle has an eye for threading."
+    },
+    {
+      "level": 27,
+      "clue": "I have branches but no fruit, trunk, or leaves. What am I?",
+      "answer": "BANK",
+      "category": "Places",
+      "difficulty": "Medium",
+      "hint": "People keep money with me.",
+      "explanation": "A bank has branches but they are not tree branches."
+    },
+    {
+      "level": 28,
+      "clue": "I am lighter than a feather, but even the strongest person cannot hold me for long. What am I?",
+      "answer": "BREATH",
+      "category": "Body",
+      "difficulty": "Medium",
+      "hint": "You do this every moment without thinking.",
+      "explanation": "A breath is light, but you cannot hold it indefinitely."
+    },
+    {
+      "level": 29,
+      "clue": "I have a head and a tail but no body. What am I?",
+      "answer": "COIN",
+      "category": "Objects",
+      "difficulty": "Medium",
+      "hint": "You can flip me to make a choice.",
+      "explanation": "A coin has a heads side and a tails side."
+    },
+    {
+      "level": 30,
+      "clue": "I go up but never come down. What am I?",
+      "answer": "AGE",
+      "category": "Concepts",
+      "difficulty": "Medium",
+      "hint": "Everyone gets more of me as time passes.",
+      "explanation": "Your age increases over time."
+    },
+    {
+      "level": 31,
+      "clue": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+      "answer": "ECHO",
+      "category": "Nature",
+      "difficulty": "Hard",
+      "hint": "You may hear me repeated in mountains.",
+      "explanation": "An echo repeats a sound after it bounces back."
+    },
+    {
+      "level": 32,
+      "clue": "I have many rings but no fingers. What am I?",
+      "answer": "TREE",
+      "category": "Nature",
+      "difficulty": "Hard",
+      "hint": "My rings can tell you how old I am.",
+      "explanation": "Tree trunks contain growth rings."
+    },
+    {
+      "level": 33,
+      "clue": "I am taken from a mine and locked inside wood. What am I?",
+      "answer": "PENCIL",
+      "category": "Objects",
+      "difficulty": "Hard",
+      "hint": "You use me to write or draw.",
+      "explanation": "Pencil graphite comes from a mineral and is enclosed in wood."
+    },
+    {
+      "level": 34,
+      "clue": "I have keys but open no locks, pedals but no wheels, and I only sing when someone touches me. What am I?",
+      "answer": "PIANO",
+      "category": "Objects",
+      "difficulty": "Hard",
+      "hint": "I am a large musical instrument with black and white keys.",
+      "explanation": "A piano has keys and foot pedals, and it makes music only when played."
+    },
+    {
+      "level": 35,
+      "clue": "I am an odd number. Take away one letter and I become even. What number am I?",
+      "answer": "SEVEN",
+      "category": "Numbers",
+      "difficulty": "Hard",
+      "hint": "Remove the first letter of my name.",
+      "explanation": "SEVEN becomes EVEN when S is removed."
+    },
+    {
+      "level": 36,
+      "clue": "I can travel around the world while staying in one corner. What am I?",
+      "answer": "STAMP",
+      "category": "Objects",
+      "difficulty": "Hard",
+      "hint": "You may find me on an envelope.",
+      "explanation": "A stamp stays on an envelope while the envelope travels."
+    },
+    {
+      "level": 37,
+      "clue": "I am a collection of words arranged to help you understand their meanings. What am I?",
+      "answer": "DICTIONARY",
+      "category": "Objects",
+      "difficulty": "Hard",
+      "hint": "You look inside me when you do not know a word.",
+      "explanation": "A dictionary gives definitions and information about words."
+    },
+    {
+      "level": 38,
+      "clue": "I am full of holes but I can still hold water. What am I?",
+      "answer": "SPONGE",
+      "category": "Objects",
+      "difficulty": "Hard",
+      "hint": "You might use me while washing dishes.",
+      "explanation": "A sponge contains many holes but absorbs and holds water."
+    },
+    {
+      "level": 39,
+      "clue": "I am not alive, but I grow. I do not have lungs, but I need air. What am I?",
+      "answer": "FIRE",
+      "category": "Nature",
+      "difficulty": "Hard",
+      "hint": "Water can make me disappear.",
+      "explanation": "Fire grows and needs oxygen to burn."
+    },
+    {
+      "level": 40,
+      "clue": "I have a thumb and four fingers but I am not alive. What am I?",
+      "answer": "GLOVE",
+      "category": "Clothing",
+      "difficulty": "Hard",
+      "hint": "You wear me on your hand.",
+      "explanation": "A glove has spaces for a thumb and four fingers."
+    },
+    {
+      "level": 41,
+      "clue": "I disappear as soon as you say my name. What am I?",
+      "answer": "SILENCE",
+      "category": "Concepts",
+      "difficulty": "Hard",
+      "hint": "Speaking breaks me.",
+      "explanation": "Silence ends when someone speaks."
+    },
+    {
+      "level": 42,
+      "clue": "I am always running but never get tired, and I have a bed but never sleep. What am I?",
+      "answer": "RIVER",
+      "category": "Nature",
+      "difficulty": "Hard",
+      "hint": "I flow toward the sea.",
+      "explanation": "A river runs and has a riverbed."
+    },
+    {
+      "level": 43,
+      "clue": "I can be seen once in a minute, twice in a moment, but never in a thousand years. What am I?",
+      "answer": "LETTER M",
+      "category": "Letters",
+      "difficulty": "Hard",
+      "hint": "Look carefully at the spelling of the clue words.",
+      "explanation": "The letter M appears once in minute and twice in moment."
+    },
+    {
+      "level": 44,
+      "clue": "I have no life, but I can die. What am I?",
+      "answer": "BATTERY",
+      "category": "Technology",
+      "difficulty": "Hard",
+      "hint": "A device may stop working when I run out.",
+      "explanation": "A battery is described as dead when it has no useful charge."
+    },
+    {
+      "level": 45,
+      "clue": "I am bought to eat but am never eaten. What am I?",
+      "answer": "PLATE",
+      "category": "Objects",
+      "difficulty": "Hard",
+      "hint": "Food is placed on me.",
+      "explanation": "A plate is bought to hold food, not to be eaten."
+    },
+    {
+      "level": 46,
+      "clue": "I have a spine but no bones, and pages but no skin. What am I?",
+      "answer": "NOVEL",
+      "category": "Objects",
+      "difficulty": "Hard",
+      "hint": "You can find me on a bookshelf.",
+      "explanation": "A novel is a book-length fictional story with pages and a spine."
+    },
+    {
+      "level": 47,
+      "clue": "I can make a room brighter without taking up any space. What am I?",
+      "answer": "LIGHT",
+      "category": "Nature",
+      "difficulty": "Hard",
+      "hint": "You switch me on when it is dark.",
+      "explanation": "Light brightens a room without occupying physical space like an object."
+    },
+    {
+      "level": 48,
+      "clue": "I am easy to lift but hard to throw. What am I?",
+      "answer": "FEATHER",
+      "category": "Nature",
+      "difficulty": "Hard",
+      "hint": "I come from a bird.",
+      "explanation": "A feather is very light but is difficult to throw far because it catches air."
+    },
+    {
+      "level": 49,
+      "clue": "I follow you everywhere in the daylight and copy every move you make, yet I vanish when darkness comes. What am I?",
+      "answer": "SHADOW",
+      "category": "Nature",
+      "difficulty": "Hard",
+      "hint": "Stand in the sun and look at the ground beside you.",
+      "explanation": "A shadow forms when your body blocks light, so it disappears in the dark."
+    },
+    {
+      "level": 50,
+      "clue": "I am yours, but other people use me more than you do. What am I?",
+      "answer": "NAME",
+      "category": "Concepts",
+      "difficulty": "Hard",
+      "hint": "People say it when they call you.",
+      "explanation": "Your name belongs to you, but other people use it to address you."
+    }
+  ]
+}

@@ -1,0 +1,3912 @@
+{
+  "format_version": "2.0",
+  "game_type": "crossword",
+  "description": "Production-style crossword levels. # = blocked cell, _ = blank cell to fill, letters = prefilled.",
+  "rules": {
+    "clues_required": true,
+    "prefilled_letters": true,
+    "coordinate_system": "0-based [row,column]",
+    "player_fills": "_ cells using the Across and Down clues",
+    "solution_included_for_validation": true
+  },
+  "levels": [
+    {
+      "level": 1,
+      "difficulty": "Easy",
+      "rows": 7,
+      "cols": 5,
+      "grid": [
+        "##_##",
+        "_L___",
+        "I#S##",
+        "_#_##",
+        "_#_##",
+        "_#_##",
+        "C####"
+      ],
+      "solution": [
+        "##C##",
+        "PLANT",
+        "I#S##",
+        "C#T##",
+        "N#L##",
+        "I#E##",
+        "C####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "CASTLE",
+          "clue": "A large fortified building where royalty once lived.",
+          "row": 0,
+          "col": 2,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "PLANT",
+          "clue": "A living organism that usually grows in soil.",
+          "row": 1,
+          "col": 0,
+          "length": 5
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "PICNIC",
+          "clue": "An outdoor meal eaten on a blanket in the park.",
+          "row": 1,
+          "col": 0,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "difficulty": "Easy",
+      "rows": 8,
+      "cols": 5,
+      "grid": [
+        "##_##",
+        "##_##",
+        "P__Z_",
+        "_#_##",
+        "T#_##",
+        "_#E##",
+        "_####",
+        "_####"
+      ],
+      "solution": [
+        "##O##",
+        "##R##",
+        "PLAZA",
+        "O#N##",
+        "T#G##",
+        "A#E##",
+        "T####",
+        "O####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "ORANGE",
+          "clue": "A round citrus fruit, or its common color.",
+          "row": 0,
+          "col": 2,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "PLAZA",
+          "clue": "An open public square in a town or city.",
+          "row": 2,
+          "col": 0,
+          "length": 5
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "POTATO",
+          "clue": "A starchy vegetable that grows underground and is used for fries.",
+          "row": 2,
+          "col": 0,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "difficulty": "Easy",
+      "rows": 6,
+      "cols": 8,
+      "grid": [
+        "###R####",
+        "##__C_E_",
+        "###_####",
+        "###_####",
+        "F_____##",
+        "###_####"
+      ],
+      "solution": [
+        "###R####",
+        "##RACKET",
+        "###B####",
+        "###B####",
+        "FAMILY##",
+        "###T####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "RABBIT",
+          "clue": "A small animal with long ears and strong hind legs.",
+          "row": 0,
+          "col": 3,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "RACKET",
+          "clue": "The stringed bat used to hit a ball in tennis or badminton.",
+          "row": 1,
+          "col": 2,
+          "length": 6
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "FAMILY",
+          "clue": "A group of people related to one another.",
+          "row": 4,
+          "col": 0,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "difficulty": "Easy",
+      "rows": 7,
+      "cols": 6,
+      "grid": [
+        "_#####",
+        "_##_##",
+        "R##_##",
+        "__RC__",
+        "_##_##",
+        "_##_##",
+        "###R##"
+      ],
+      "solution": [
+        "C#####",
+        "A##D##",
+        "R##O##",
+        "PARCEL",
+        "E##T##",
+        "T##O##",
+        "###R##"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "CARPET",
+          "clue": "A floor covering made from woven or tufted material.",
+          "row": 0,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "DOCTOR",
+          "clue": "A person trained to treat sick or injured people.",
+          "row": 1,
+          "col": 3,
+          "length": 6
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "PARCEL",
+          "clue": "A wrapped package sent through the mail.",
+          "row": 3,
+          "col": 0,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "difficulty": "Easy",
+      "rows": 6,
+      "cols": 6,
+      "grid": [
+        "####_#",
+        "_____W",
+        "####_#",
+        "####_#",
+        "####_#",
+        "PI__T_"
+      ],
+      "solution": [
+        "####F#",
+        "WINDOW",
+        "####R#",
+        "####E#",
+        "####S#",
+        "PIRATE"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "FOREST",
+          "clue": "A large area covered mainly by trees.",
+          "row": 0,
+          "col": 4,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "WINDOW",
+          "clue": "An opening in a wall fitted with glass.",
+          "row": 1,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "PIRATE",
+          "clue": "A sea robber who sails under a skull-and-crossbones flag.",
+          "row": 5,
+          "col": 0,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "difficulty": "Easy",
+      "rows": 6,
+      "cols": 11,
+      "grid": [
+        "#####_#####",
+        "#####_#####",
+        "____E_#####",
+        "#####M___E_",
+        "#####_#####",
+        "#####R#####"
+      ],
+      "solution": [
+        "#####F#####",
+        "#####A#####",
+        "SUMMER#####",
+        "#####MONKEY",
+        "#####E#####",
+        "#####R#####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "FARMER",
+          "clue": "A person who grows crops or raises animals.",
+          "row": 0,
+          "col": 5,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "SUMMER",
+          "clue": "The warmest season of the year.",
+          "row": 2,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "MONKEY",
+          "clue": "A primate often known for climbing trees.",
+          "row": 3,
+          "col": 5,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "difficulty": "Easy",
+      "rows": 6,
+      "cols": 6,
+      "grid": [
+        "#_####",
+        "_E___W",
+        "#_####",
+        "#_####",
+        "____E_",
+        "#S####"
+      ],
+      "solution": [
+        "#T####",
+        "YELLOW",
+        "#N####",
+        "#N####",
+        "SILVER",
+        "#S####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "TENNIS",
+          "clue": "A sport played by hitting a ball over a net on a court.",
+          "row": 0,
+          "col": 1,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "YELLOW",
+          "clue": "A bright color like the color of lemons.",
+          "row": 1,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "SILVER",
+          "clue": "A shiny gray precious metal.",
+          "row": 4,
+          "col": 0,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "difficulty": "Easy",
+      "rows": 8,
+      "cols": 5,
+      "grid": [
+        "_####",
+        "_####",
+        "_#_##",
+        "____H",
+        "_#A##",
+        "R#G##",
+        "##_##",
+        "##_##"
+      ],
+      "solution": [
+        "D####",
+        "I####",
+        "N#D##",
+        "NORTH",
+        "E#A##",
+        "R#G##",
+        "##O##",
+        "##N##"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "DINNER",
+          "clue": "The main meal of the day, usually eaten in the evening.",
+          "row": 0,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "DRAGON",
+          "clue": "A mythical fire-breathing creature with wings and scales.",
+          "row": 2,
+          "col": 2,
+          "length": 6
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "NORTH",
+          "clue": "The direction a compass needle points toward.",
+          "row": 3,
+          "col": 0,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "difficulty": "Easy",
+      "rows": 8,
+      "cols": 5,
+      "grid": [
+        "W####",
+        "_####",
+        "_###_",
+        "__B_E",
+        "_###L",
+        "_###_",
+        "####_",
+        "####_"
+      ],
+      "solution": [
+        "W####",
+        "R####",
+        "I###C",
+        "TABLE",
+        "E###L",
+        "R###E",
+        "####R",
+        "####Y"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "WRITER",
+          "clue": "A person who creates written works.",
+          "row": 0,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "CELERY",
+          "clue": "A crunchy green vegetable with long stalks.",
+          "row": 2,
+          "col": 4,
+          "length": 6
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "TABLE",
+          "clue": "Furniture with a flat top and legs.",
+          "row": 3,
+          "col": 0,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "difficulty": "Easy",
+      "rows": 6,
+      "cols": 8,
+      "grid": [
+        "###R####",
+        "##C_____",
+        "###_####",
+        "###_####",
+        "_A___A##",
+        "###_####"
+      ],
+      "solution": [
+        "###R####",
+        "##COFFEE",
+        "###C####",
+        "###K####",
+        "CAMERA##",
+        "###T####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "ROCKET",
+          "clue": "A vehicle that blasts off into space.",
+          "row": 0,
+          "col": 3,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "COFFEE",
+          "clue": "A dark drink made from roasted beans.",
+          "row": 1,
+          "col": 2,
+          "length": 6
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "CAMERA",
+          "clue": "A device used for taking photographs.",
+          "row": 4,
+          "col": 0,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "difficulty": "Easy-Medium",
+      "rows": 7,
+      "cols": 8,
+      "grid": [
+        "#___NK__",
+        "#_######",
+        "#O######",
+        "#_######",
+        "__E__###",
+        "#_######",
+        "#__IN___"
+      ],
+      "solution": [
+        "#BLANKET",
+        "#R######",
+        "#O######",
+        "#T######",
+        "SHEEP###",
+        "#E######",
+        "#RAINBOW"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "across",
+          "answer": "BLANKET",
+          "clue": "A warm cover you pull over yourself in bed.",
+          "row": 0,
+          "col": 1,
+          "length": 7
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "BROTHER",
+          "clue": "A male sibling.",
+          "row": 0,
+          "col": 1,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "SHEEP",
+          "clue": "A farm animal raised for wool and meat.",
+          "row": 4,
+          "col": 0,
+          "length": 5
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "RAINBOW",
+          "clue": "A colorful arc that can appear after rain.",
+          "row": 6,
+          "col": 1,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "difficulty": "Easy-Medium",
+      "rows": 12,
+      "cols": 8,
+      "grid": [
+        "#O######",
+        "#_######",
+        "#_HI____",
+        "#_######",
+        "#_######",
+        "_R_T_###",
+        "#_#H####",
+        "###_####",
+        "###_####",
+        "###_####",
+        "###_####",
+        "###_####"
+      ],
+      "solution": [
+        "#O######",
+        "#R######",
+        "#CHICKEN",
+        "#H######",
+        "#A######",
+        "TRUTH###",
+        "#D#H####",
+        "###U####",
+        "###N####",
+        "###D####",
+        "###E####",
+        "###R####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "ORCHARD",
+          "clue": "A piece of land where fruit trees are grown.",
+          "row": 0,
+          "col": 1,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "CHICKEN",
+          "clue": "A common farm bird that lays eggs.",
+          "row": 2,
+          "col": 1,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "TRUTH",
+          "clue": "What is real and honest; the opposite of a lie.",
+          "row": 5,
+          "col": 0,
+          "length": 5
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "THUNDER",
+          "clue": "The loud sound produced by lightning.",
+          "row": 5,
+          "col": 3,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "difficulty": "Easy-Medium",
+      "rows": 8,
+      "cols": 6,
+      "grid": [
+        "#####_",
+        "_PI_E_",
+        "_#_##Y",
+        "_#_##_",
+        "_#B##_",
+        "A#_##_",
+        "_#_##L",
+        "_#_###"
+      ],
+      "solution": [
+        "#####C",
+        "SPIDER",
+        "P#C##Y",
+        "I#E##S",
+        "N#B##T",
+        "A#E##A",
+        "C#R##L",
+        "H#G###"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "CRYSTAL",
+          "clue": "A solid material with a regular repeating structure.",
+          "row": 0,
+          "col": 5,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "SPIDER",
+          "clue": "An eight-legged creature that spins a web.",
+          "row": 1,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "SPINACH",
+          "clue": "A dark green leafy vegetable that is rich in iron.",
+          "row": 1,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "ICEBERG",
+          "clue": "A huge mass of ice floating in the sea.",
+          "row": 1,
+          "col": 2,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "difficulty": "Easy-Medium",
+      "rows": 8,
+      "cols": 10,
+      "grid": [
+        "#_########",
+        "__U_K#####",
+        "#O#_######",
+        "#_#U######",
+        "#_#_######",
+        "#E#T______",
+        "#_#_######",
+        "###_######"
+      ],
+      "solution": [
+        "#T########",
+        "TRUCK#####",
+        "#O#O######",
+        "#L#U######",
+        "#L#N######",
+        "#E#THEATER",
+        "#Y#R######",
+        "###Y######"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "TROLLEY",
+          "clue": "A cart on wheels, or a streetcar that runs on rails.",
+          "row": 0,
+          "col": 1,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "TRUCK",
+          "clue": "A large road vehicle used to carry goods.",
+          "row": 1,
+          "col": 0,
+          "length": 5
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "COUNTRY",
+          "clue": "A nation with its own territory and government.",
+          "row": 1,
+          "col": 3,
+          "length": 7
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "THEATER",
+          "clue": "A place where plays or performances are shown.",
+          "row": 5,
+          "col": 3,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "difficulty": "Easy-Medium",
+      "rows": 7,
+      "cols": 9,
+      "grid": [
+        "##_###T##",
+        "##_###_##",
+        "##_#W_A__",
+        "##_###C##",
+        "##_###_##",
+        "V_L____##",
+        "##_###_##"
+      ],
+      "solution": [
+        "##V###T##",
+        "##A###E##",
+        "##N#WHALE",
+        "##I###C##",
+        "##L###H##",
+        "VILLAGE##",
+        "##A###R##"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "VANILLA",
+          "clue": "A classic sweet flavor often used in ice cream.",
+          "row": 0,
+          "col": 2,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "TEACHER",
+          "clue": "A person who helps students learn.",
+          "row": 0,
+          "col": 6,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "WHALE",
+          "clue": "A very large marine mammal.",
+          "row": 2,
+          "col": 4,
+          "length": 5
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "VILLAGE",
+          "clue": "A small community, usually smaller than a town.",
+          "row": 5,
+          "col": 0,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "difficulty": "Easy-Medium",
+      "rows": 8,
+      "cols": 5,
+      "grid": [
+        "_###_",
+        "_#_#L",
+        "_#_#_",
+        "_#_#_",
+        "R#_#_",
+        "O#T#_",
+        "W__E_",
+        "##_##"
+      ],
+      "solution": [
+        "S###F",
+        "P#S#L",
+        "A#C#A",
+        "R#O#N",
+        "R#O#N",
+        "O#T#E",
+        "WHEEL",
+        "##R##"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "SPARROW",
+          "clue": "A small brown bird commonly seen in gardens and towns.",
+          "row": 0,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "FLANNEL",
+          "clue": "A soft, warm fabric often used for cozy shirts and pajamas.",
+          "row": 0,
+          "col": 4,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "SCOOTER",
+          "clue": "A two-wheeled ride you push along with one foot.",
+          "row": 1,
+          "col": 2,
+          "length": 7
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "WHEEL",
+          "clue": "A round object that turns around an axle.",
+          "row": 6,
+          "col": 0,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "difficulty": "Easy-Medium",
+      "rows": 10,
+      "cols": 7,
+      "grid": [
+        "#_#####",
+        "_H_R___",
+        "#_#####",
+        "#_##_##",
+        "#TI___#",
+        "#L##_##",
+        "#_##_##",
+        "####_##",
+        "####_##",
+        "####L##"
+      ],
+      "solution": [
+        "#W#####",
+        "CHARIOT",
+        "#I#####",
+        "#S##S##",
+        "#TIGER#",
+        "#L##A##",
+        "#E##G##",
+        "####U##",
+        "####L##",
+        "####L##"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "WHISTLE",
+          "clue": "A small device a referee blows to make a sharp, high sound.",
+          "row": 0,
+          "col": 1,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "CHARIOT",
+          "clue": "A two-wheeled horse-drawn cart used in ancient races.",
+          "row": 1,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "SEAGULL",
+          "clue": "A noisy white and gray bird found near the coast.",
+          "row": 3,
+          "col": 4,
+          "length": 7
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "TIGER",
+          "clue": "A large wild cat with orange fur and black stripes.",
+          "row": 4,
+          "col": 1,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "difficulty": "Easy-Medium",
+      "rows": 8,
+      "cols": 6,
+      "grid": [
+        "####_#",
+        "T___L_",
+        "O#_#A#",
+        "_#O#_#",
+        "_#_#_#",
+        "_#_#_#",
+        "D#E#_#",
+        "_#_###"
+      ],
+      "solution": [
+        "####G#",
+        "TURTLE",
+        "O#O#A#",
+        "R#O#C#",
+        "N#S#I#",
+        "A#T#E#",
+        "D#E#R#",
+        "O#R###"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "GLACIER",
+          "clue": "A slow-moving river of ice found in cold mountains.",
+          "row": 0,
+          "col": 4,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "TURTLE",
+          "clue": "A slow reptile that carries a hard shell on its back.",
+          "row": 1,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "TORNADO",
+          "clue": "A violent, spinning funnel of wind.",
+          "row": 1,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "ROOSTER",
+          "clue": "A male chicken that crows at dawn.",
+          "row": 1,
+          "col": 2,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "difficulty": "Easy-Medium",
+      "rows": 7,
+      "cols": 11,
+      "grid": [
+        "__B_L_#####",
+        "_####X#####",
+        "_####_#####",
+        "S####_#####",
+        "S####_#####",
+        "_###__E__E_",
+        "_####_#####"
+      ],
+      "solution": [
+        "BUBBLE#####",
+        "L####X#####",
+        "O####P#####",
+        "S####L#####",
+        "S####O#####",
+        "O###PRETZEL",
+        "M####E#####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "across",
+          "answer": "BUBBLE",
+          "clue": "A thin floating ball of soap and air.",
+          "row": 0,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "BLOSSOM",
+          "clue": "The flower on a fruit tree in spring.",
+          "row": 0,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "EXPLORE",
+          "clue": "To travel through a new place to learn about it.",
+          "row": 0,
+          "col": 5,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "PRETZEL",
+          "clue": "A salty baked snack twisted into a knot.",
+          "row": 5,
+          "col": 4,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "difficulty": "Easy-Medium",
+      "rows": 13,
+      "cols": 5,
+      "grid": [
+        "####P",
+        "####_",
+        "####L",
+        "####_",
+        "####_",
+        "####_",
+        "_E___",
+        "U#_##",
+        "_#_##",
+        "_#_##",
+        "_#A##",
+        "_#_##",
+        "D#_##"
+      ],
+      "solution": [
+        "####P",
+        "####E",
+        "####L",
+        "####I",
+        "####C",
+        "####A",
+        "MELON",
+        "U#I##",
+        "S#B##",
+        "T#R##",
+        "A#A##",
+        "R#R##",
+        "D#Y##"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "PELICAN",
+          "clue": "A large water bird with a pouch under its long beak.",
+          "row": 0,
+          "col": 4,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "MELON",
+          "clue": "A large, juicy fruit with a thick rind.",
+          "row": 6,
+          "col": 0,
+          "length": 5
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "MUSTARD",
+          "clue": "A spicy yellow sauce often put on hot dogs.",
+          "row": 6,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "LIBRARY",
+          "clue": "A quiet place where you can borrow books.",
+          "row": 6,
+          "col": 2,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "difficulty": "Medium",
+      "rows": 9,
+      "cols": 9,
+      "grid": [
+        "_########",
+        "N########",
+        "_#_A__A__",
+        "_#I######",
+        "MA_____##",
+        "_#_######",
+        "_#_######",
+        "#_R_A_###",
+        "##_######"
+      ],
+      "solution": [
+        "S########",
+        "N########",
+        "O#PANCAKE",
+        "W#I######",
+        "MACHINE##",
+        "A#T######",
+        "N#U######",
+        "#BREAD###",
+        "##E######"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "SNOWMAN",
+          "clue": "A winter figure with a carrot nose and coal eyes.",
+          "row": 0,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "PANCAKE",
+          "clue": "A flat, round breakfast cake often served with syrup.",
+          "row": 2,
+          "col": 2,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "PICTURE",
+          "clue": "A painting, drawing, or photograph.",
+          "row": 2,
+          "col": 2,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "MACHINE",
+          "clue": "A device with moving parts that does work for people.",
+          "row": 4,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "BREAD",
+          "clue": "A baked food commonly made from flour.",
+          "row": 7,
+          "col": 1,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "difficulty": "Medium",
+      "rows": 11,
+      "cols": 7,
+      "grid": [
+        "##_####",
+        "P#_####",
+        "_#____N",
+        "_#_####",
+        "__D__L_",
+        "_#_###_",
+        "_#Y###P",
+        "E#####_",
+        "######_",
+        "######I",
+        "######_"
+      ],
+      "solution": [
+        "##H####",
+        "P#O####",
+        "A#LEMON",
+        "S#I####",
+        "TADPOLE",
+        "U#A###X",
+        "R#Y###P",
+        "E#####L",
+        "######A",
+        "######I",
+        "######N"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "HOLIDAY",
+          "clue": "A special day of celebration or a break from work.",
+          "row": 0,
+          "col": 2,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "PASTURE",
+          "clue": "A grassy field where cows and sheep graze.",
+          "row": 1,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "LEMON",
+          "clue": "A yellow citrus fruit with a sour taste.",
+          "row": 2,
+          "col": 2,
+          "length": 5
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "TADPOLE",
+          "clue": "A baby frog that swims with a tail.",
+          "row": 4,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "EXPLAIN",
+          "clue": "To make something clear so others can understand it.",
+          "row": 4,
+          "col": 6,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "difficulty": "Medium",
+      "rows": 8,
+      "cols": 11,
+      "grid": [
+        "#####P#####",
+        "#####I##_##",
+        "####___S_##",
+        "#####_##_##",
+        "####___A__R",
+        "#####_##_##",
+        "____OR_#_##",
+        "########R##"
+      ],
+      "solution": [
+        "#####P#####",
+        "#####I##W##",
+        "####HORSE##",
+        "#####N##A##",
+        "####SENATOR",
+        "#####E##H##",
+        "UNICORN#E##",
+        "########R##"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "PIONEER",
+          "clue": "One of the first people to settle or explore a new area.",
+          "row": 0,
+          "col": 5,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "WEATHER",
+          "clue": "Sunshine, rain, wind, or snow outside on a given day.",
+          "row": 1,
+          "col": 8,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "HORSE",
+          "clue": "A large animal often ridden by people.",
+          "row": 2,
+          "col": 4,
+          "length": 5
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "SENATOR",
+          "clue": "An elected member of the upper house of a legislature.",
+          "row": 4,
+          "col": 4,
+          "length": 7
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "UNICORN",
+          "clue": "A mythical horse with a single horn on its forehead.",
+          "row": 6,
+          "col": 0,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "difficulty": "Medium",
+      "rows": 12,
+      "cols": 8,
+      "grid": [
+        "#A_R_C__",
+        "#####_##",
+        "#####_##",
+        "__L__T##",
+        "#####_##",
+        "C_B____#",
+        "###_#_##",
+        "###_####",
+        "###F####",
+        "###_####",
+        "###_####",
+        "###O####"
+      ],
+      "solution": [
+        "#APRICOT",
+        "#####O##",
+        "#####T##",
+        "WALLET##",
+        "#####A##",
+        "CABBAGE#",
+        "###U#E##",
+        "###F####",
+        "###F####",
+        "###A####",
+        "###L####",
+        "###O####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "across",
+          "answer": "APRICOT",
+          "clue": "A small, soft orange fruit with a stone inside.",
+          "row": 0,
+          "col": 1,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "COTTAGE",
+          "clue": "A small, cozy house, often in the countryside.",
+          "row": 0,
+          "col": 5,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "WALLET",
+          "clue": "A small case used to carry money and cards.",
+          "row": 3,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "CABBAGE",
+          "clue": "A round leafy vegetable used to make coleslaw.",
+          "row": 5,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "BUFFALO",
+          "clue": "A large, shaggy wild ox, also called a bison in America.",
+          "row": 5,
+          "col": 3,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "difficulty": "Medium",
+      "rows": 13,
+      "cols": 9,
+      "grid": [
+        "####H####",
+        "####_####",
+        "####_####",
+        "####V####",
+        "####_####",
+        "##_#_####",
+        "_EA___###",
+        "_#R######",
+        "R#_I___R_",
+        "M#_######",
+        "_#_######",
+        "_#_######",
+        "_########"
+      ],
+      "solution": [
+        "####H####",
+        "####A####",
+        "####R####",
+        "####V####",
+        "####E####",
+        "##C#S####",
+        "HEALTH###",
+        "A#R######",
+        "R#AIRPORT",
+        "M#V######",
+        "O#A######",
+        "N#N######",
+        "Y########"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "HARVEST",
+          "clue": "The season or act of gathering ripe crops.",
+          "row": 0,
+          "col": 4,
+          "length": 7
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "CARAVAN",
+          "clue": "A group of travelers crossing a desert together, or a home on wheels.",
+          "row": 5,
+          "col": 2,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "HEALTH",
+          "clue": "The condition of your body and mind being well.",
+          "row": 6,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "HARMONY",
+          "clue": "Musical notes that sound pleasant together.",
+          "row": 6,
+          "col": 0,
+          "length": 7
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "AIRPORT",
+          "clue": "A place where planes take off and land.",
+          "row": 8,
+          "col": 2,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "difficulty": "Medium",
+      "rows": 9,
+      "cols": 12,
+      "grid": [
+        "_#_#########",
+        "_#_##_######",
+        "TH___E######",
+        "_#_##_######",
+        "_#L##_######",
+        "_#_#_OS_____",
+        "O#_##_######",
+        "K#E##S######",
+        "#####_######"
+      ],
+      "solution": [
+        "N#A#########",
+        "O#I##R######",
+        "THRONE######",
+        "E#P##S######",
+        "B#L##P######",
+        "O#A#HOSPITAL",
+        "O#N##N######",
+        "K#E##S######",
+        "#####E######"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "NOTEBOOK",
+          "clue": "A book of blank or lined pages for writing.",
+          "row": 0,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "AIRPLANE",
+          "clue": "A powered aircraft with wings.",
+          "row": 0,
+          "col": 2,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "RESPONSE",
+          "clue": "An answer or reply to a question.",
+          "row": 1,
+          "col": 5,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "THRONE",
+          "clue": "The special chair a king or queen sits on.",
+          "row": 2,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "HOSPITAL",
+          "clue": "A place where sick or injured people receive treatment.",
+          "row": 5,
+          "col": 4,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "difficulty": "Medium",
+      "rows": 13,
+      "cols": 9,
+      "grid": [
+        "#######_#",
+        "#######_#",
+        "#######_#",
+        "#######I#",
+        "#######_#",
+        "####_##_#",
+        "#C_____E_",
+        "####_##L#",
+        "####S####",
+        "B___HD__#",
+        "####_####",
+        "#___N___N",
+        "####_####"
+      ],
+      "solution": [
+        "#######S#",
+        "#######Q#",
+        "#######U#",
+        "#######I#",
+        "#######R#",
+        "####S##R#",
+        "#CUCUMBER",
+        "####N##L#",
+        "####S####",
+        "BIRTHDAY#",
+        "####I####",
+        "#MOUNTAIN",
+        "####E####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "SQUIRREL",
+          "clue": "A bushy-tailed animal that gathers nuts.",
+          "row": 0,
+          "col": 7,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "SUNSHINE",
+          "clue": "Bright, warm light from the sky on a clear day.",
+          "row": 5,
+          "col": 4,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "CUCUMBER",
+          "clue": "A long green vegetable often sliced into salads.",
+          "row": 6,
+          "col": 1,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "BIRTHDAY",
+          "clue": "The yearly celebration of the day someone was born.",
+          "row": 9,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "MOUNTAIN",
+          "clue": "A very high natural elevation of land.",
+          "row": 11,
+          "col": 1,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "difficulty": "Medium",
+      "rows": 12,
+      "cols": 9,
+      "grid": [
+        "#C#######",
+        "#_#######",
+        "#_U_____T",
+        "#_#_#####",
+        "____I__R#",
+        "#_#_#_###",
+        "#_#A#_###",
+        "#R#_#_###",
+        "###O#S###",
+        "###_#_###",
+        "#####_###",
+        "#####R###"
+      ],
+      "solution": [
+        "#C#######",
+        "#U#######",
+        "#SUNLIGHT",
+        "#T#A#####",
+        "CORRIDOR#",
+        "#M#R#I###",
+        "#E#A#N###",
+        "#R#T#O###",
+        "###O#S###",
+        "###R#A###",
+        "#####U###",
+        "#####R###"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "CUSTOMER",
+          "clue": "A person who buys goods from a shop.",
+          "row": 0,
+          "col": 1,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "SUNLIGHT",
+          "clue": "Light that comes from the Sun.",
+          "row": 2,
+          "col": 1,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "NARRATOR",
+          "clue": "The person who tells the story.",
+          "row": 2,
+          "col": 3,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "CORRIDOR",
+          "clue": "A long hallway with rooms on either side.",
+          "row": 4,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "DINOSAUR",
+          "clue": "An extinct reptile that lived millions of years ago.",
+          "row": 4,
+          "col": 5,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "difficulty": "Medium",
+      "rows": 11,
+      "cols": 12,
+      "grid": [
+        "####_#######",
+        "####_#######",
+        "####U#######",
+        "##_#_#######",
+        "##_#______R_",
+        "Z___A#######",
+        "##_#_#######",
+        "##E#N#######",
+        "##_#########",
+        "#BL__Z___###",
+        "##_#########"
+      ],
+      "solution": [
+        "####F#######",
+        "####O#######",
+        "####U#######",
+        "##U#N#######",
+        "##M#TREASURE",
+        "ZEBRA#######",
+        "##R#I#######",
+        "##E#N#######",
+        "##L#########",
+        "#BLIZZARD###",
+        "##A#########"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "FOUNTAIN",
+          "clue": "A structure that sprays water into the air for decoration.",
+          "row": 0,
+          "col": 4,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "UMBRELLA",
+          "clue": "An object used to protect you from rain.",
+          "row": 3,
+          "col": 2,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "TREASURE",
+          "clue": "Valuable objects that are hidden or collected.",
+          "row": 4,
+          "col": 4,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "ZEBRA",
+          "clue": "A striped African animal related to the horse.",
+          "row": 5,
+          "col": 0,
+          "length": 5
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "BLIZZARD",
+          "clue": "A severe snowstorm with strong winds.",
+          "row": 9,
+          "col": 1,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "difficulty": "Medium",
+      "rows": 10,
+      "cols": 13,
+      "grid": [
+        "#########A###",
+        "#########_###",
+        "#######_UT___",
+        "#######_#_#X#",
+        "____U__R#_#_#",
+        "#######B#O#_#",
+        "#######_#_#O#",
+        "#######_#_#_#",
+        "#######_###_#",
+        "#######_###_#"
+      ],
+      "solution": [
+        "#########A###",
+        "#########N###",
+        "#######BUTTER",
+        "#######A#E#X#",
+        "COMPUTER#L#P#",
+        "#######B#O#L#",
+        "#######E#P#O#",
+        "#######C#E#R#",
+        "#######U###E#",
+        "#######E###R#"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "ANTELOPE",
+          "clue": "A fast, deer-like animal with horns that lives on the plains.",
+          "row": 0,
+          "col": 9,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "BUTTER",
+          "clue": "A dairy food made by churning cream.",
+          "row": 2,
+          "col": 7,
+          "length": 6
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "BARBECUE",
+          "clue": "An outdoor meal cooked on a grill.",
+          "row": 2,
+          "col": 7,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "EXPLORER",
+          "clue": "A person who travels to discover unknown places.",
+          "row": 2,
+          "col": 11,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "COMPUTER",
+          "clue": "An electronic machine that processes information.",
+          "row": 4,
+          "col": 0,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 31,
+      "difficulty": "Medium-Hard",
+      "rows": 10,
+      "cols": 16,
+      "grid": [
+        "######_##_######",
+        "######_#_IDE____",
+        "##S###_##_######",
+        "##_###P_P__#####",
+        "##_###M##_######",
+        "_Q__R___#_######",
+        "##R###_##R######",
+        "##_###K##_######",
+        "##_#############",
+        "##_#############"
+      ],
+      "solution": [
+        "######C##V######",
+        "######H#SIDEWALK",
+        "##S###I##N######",
+        "##E###PAPER#####",
+        "##C###M##Y######",
+        "AQUARIUM#A######",
+        "##R###N##R######",
+        "##I###K##D######",
+        "##T#############",
+        "##Y#############"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "CHIPMUNK",
+          "clue": "A small striped rodent with stuffed cheeks.",
+          "row": 0,
+          "col": 6,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "VINEYARD",
+          "clue": "A farm where grapes are grown.",
+          "row": 0,
+          "col": 9,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "SIDEWALK",
+          "clue": "A paved path for walking beside a street.",
+          "row": 1,
+          "col": 8,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "SECURITY",
+          "clue": "Protection that keeps people and places safe.",
+          "row": 2,
+          "col": 2,
+          "length": 8
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "PAPER",
+          "clue": "A thin material used for writing and printing.",
+          "row": 3,
+          "col": 6,
+          "length": 5
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "AQUARIUM",
+          "clue": "A glass tank where pet fish live.",
+          "row": 5,
+          "col": 0,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 32,
+      "difficulty": "Medium-Hard",
+      "rows": 8,
+      "cols": 13,
+      "grid": [
+        "#_####_######",
+        "___R___T#####",
+        "#_####A######",
+        "_E_C_#_######",
+        "#_####H######",
+        "__N___O_#####",
+        "#_####_######",
+        "#D###F_____A_"
+      ],
+      "solution": [
+        "#B####S######",
+        "CLARINET#####",
+        "#U####A######",
+        "PEACH#S######",
+        "#B####H######",
+        "CINNAMON#####",
+        "#R####R######",
+        "#D###FESTIVAL"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "BLUEBIRD",
+          "clue": "A small songbird named for the color of its feathers.",
+          "row": 0,
+          "col": 1,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "SEASHORE",
+          "clue": "The sandy land along the edge of the ocean.",
+          "row": 0,
+          "col": 6,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "CLARINET",
+          "clue": "A woodwind instrument with a single reed.",
+          "row": 1,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "PEACH",
+          "clue": "A soft, sweet fruit with fuzzy skin.",
+          "row": 3,
+          "col": 0,
+          "length": 5
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "CINNAMON",
+          "clue": "A sweet brown spice made from tree bark.",
+          "row": 5,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "FESTIVAL",
+          "clue": "A special event celebrating something.",
+          "row": 7,
+          "col": 5,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 33,
+      "difficulty": "Medium-Hard",
+      "rows": 13,
+      "cols": 9,
+      "grid": [
+        "####_####",
+        "####_####",
+        "_R_A____#",
+        "####D####",
+        "####_####",
+        "#_##_####",
+        "#_##I####",
+        "#RA____A_",
+        "#_#######",
+        "M____G__#",
+        "#N#######",
+        "__C__T###",
+        "#_#######"
+      ],
+      "solution": [
+        "####M####",
+        "####A####",
+        "TRIANGLE#",
+        "####D####",
+        "####O####",
+        "#C##L####",
+        "#A##I####",
+        "#RAINCOAT",
+        "#D#######",
+        "MIDNIGHT#",
+        "#N#######",
+        "JACKET###",
+        "#L#######"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "MANDOLIN",
+          "clue": "A small stringed instrument with a rounded back.",
+          "row": 0,
+          "col": 4,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "TRIANGLE",
+          "clue": "A shape with three sides and three corners.",
+          "row": 2,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "CARDINAL",
+          "clue": "A bright red songbird with a pointed crest.",
+          "row": 5,
+          "col": 1,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "RAINCOAT",
+          "clue": "A waterproof jacket worn in wet weather.",
+          "row": 7,
+          "col": 1,
+          "length": 8
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "MIDNIGHT",
+          "clue": "Twelve o'clock at night.",
+          "row": 9,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "JACKET",
+          "clue": "A short coat worn on the upper body.",
+          "row": 11,
+          "col": 0,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "level": 34,
+      "difficulty": "Medium-Hard",
+      "rows": 10,
+      "cols": 17,
+      "grid": [
+        "####_############",
+        "####_############",
+        "_#__ND____#######",
+        "_###G####_#######",
+        "_L_V____#L_____A_",
+        "R###_####_#######",
+        "C###_####S#######",
+        "_###O####_#######",
+        "_########D#######",
+        "_########_#######"
+      ],
+      "solution": [
+        "####K############",
+        "####A############",
+        "O#SANDWICH#######",
+        "V###G####I#######",
+        "ELEVATOR#LIFEBOAT",
+        "R###R####L#######",
+        "C###O####S#######",
+        "O###O####I#######",
+        "A########D#######",
+        "T########E#######"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "KANGAROO",
+          "clue": "An Australian animal that hops and carries its baby in a pouch.",
+          "row": 0,
+          "col": 4,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "OVERCOAT",
+          "clue": "A long, heavy coat worn over other clothes in winter.",
+          "row": 2,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "SANDWICH",
+          "clue": "Food made by placing filling between slices of bread.",
+          "row": 2,
+          "col": 2,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "HILLSIDE",
+          "clue": "The sloping ground between a valley and a summit.",
+          "row": 2,
+          "col": 9,
+          "length": 8
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "ELEVATOR",
+          "clue": "A moving box that carries people between floors.",
+          "row": 4,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "LIFEBOAT",
+          "clue": "A small rescue craft carried on a ship.",
+          "row": 4,
+          "col": 9,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 35,
+      "difficulty": "Medium-Hard",
+      "rows": 11,
+      "cols": 13,
+      "grid": [
+        "######_######",
+        "#####_U____N_",
+        "######_######",
+        "#_O_D___#####",
+        "#_####D######",
+        "#_####_######",
+        "#_#R__N___P##",
+        "#_####_######",
+        "#O###########",
+        "_N__B___#####",
+        "#E###########"
+      ],
+      "solution": [
+        "######B######",
+        "#####ZUCCHINI",
+        "######I######",
+        "#GONDOLA#####",
+        "#E####D######",
+        "#M####I######",
+        "#S#RAINDROP##",
+        "#T####G######",
+        "#O###########",
+        "SNOWBALL#####",
+        "#E###########"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "BUILDING",
+          "clue": "A structure with walls and a roof.",
+          "row": 0,
+          "col": 6,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "ZUCCHINI",
+          "clue": "A long green summer squash.",
+          "row": 1,
+          "col": 5,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "GONDOLA",
+          "clue": "A long narrow boat steered through the canals of Venice.",
+          "row": 3,
+          "col": 1,
+          "length": 7
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "GEMSTONE",
+          "clue": "A precious rock, such as a ruby or emerald, used in jewelry.",
+          "row": 3,
+          "col": 1,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "RAINDROP",
+          "clue": "A single bead of water falling from a cloud.",
+          "row": 6,
+          "col": 3,
+          "length": 8
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "SNOWBALL",
+          "clue": "A packed white ball thrown in winter play fights.",
+          "row": 9,
+          "col": 0,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 36,
+      "difficulty": "Medium-Hard",
+      "rows": 12,
+      "cols": 14,
+      "grid": [
+        "#######D######",
+        "#######_####_#",
+        "#######_####_#",
+        "#######F####R#",
+        "#######_##_#I#",
+        "#######__A__N_",
+        "__OC____##_#_#",
+        "#######_##_#_#",
+        "##########O#_#",
+        "##########Y###",
+        "##########_###",
+        "######G____N__"
+      ],
+      "solution": [
+        "#######D######",
+        "#######A####S#",
+        "#######F####P#",
+        "#######F####R#",
+        "#######O##E#I#",
+        "#######DIAMOND",
+        "BROCCOLI##P#K#",
+        "#######L##L#L#",
+        "##########O#E#",
+        "##########Y###",
+        "##########E###",
+        "######GARDENER"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "DAFFODIL",
+          "clue": "A yellow spring flower with a trumpet-shaped center.",
+          "row": 0,
+          "col": 7,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "SPRINKLE",
+          "clue": "To scatter small drops or bits lightly over something.",
+          "row": 1,
+          "col": 12,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "EMPLOYEE",
+          "clue": "A person who is paid to work for a company.",
+          "row": 4,
+          "col": 10,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "DIAMOND",
+          "clue": "A sparkling precious stone that is the hardest natural material.",
+          "row": 5,
+          "col": 7,
+          "length": 7
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "BROCCOLI",
+          "clue": "A green vegetable that looks like a tiny tree.",
+          "row": 6,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "GARDENER",
+          "clue": "A person who tends plants and flowers.",
+          "row": 11,
+          "col": 6,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 37,
+      "difficulty": "Medium-Hard",
+      "rows": 10,
+      "cols": 15,
+      "grid": [
+        "#####_#D#######",
+        "#CA__N___######",
+        "#####_#Y####_##",
+        "__RC__#_OO_____",
+        "#####L#_####Y##",
+        "#####_#_####_##",
+        "#####_#_####_##",
+        "#####_#_####_##",
+        "############_##",
+        "############T##"
+      ],
+      "solution": [
+        "#####E#D#######",
+        "#CALENDAR######",
+        "#####V#Y####D##",
+        "CIRCLE#BOOKCASE",
+        "#####L#R####Y##",
+        "#####O#E####L##",
+        "#####P#A####I##",
+        "#####E#K####G##",
+        "############H##",
+        "############T##"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "ENVELOPE",
+          "clue": "A paper cover you seal a letter inside.",
+          "row": 0,
+          "col": 5,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "DAYBREAK",
+          "clue": "The first light of morning; dawn.",
+          "row": 0,
+          "col": 7,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "CALENDAR",
+          "clue": "A chart showing the days, weeks, and months of the year.",
+          "row": 1,
+          "col": 1,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "DAYLIGHT",
+          "clue": "Natural light from the Sun during the day.",
+          "row": 2,
+          "col": 12,
+          "length": 8
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "CIRCLE",
+          "clue": "A perfectly round shape.",
+          "row": 3,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "BOOKCASE",
+          "clue": "A piece of furniture with shelves for holding novels.",
+          "row": 3,
+          "col": 7,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 38,
+      "difficulty": "Medium-Hard",
+      "rows": 11,
+      "cols": 14,
+      "grid": [
+        "####_#########",
+        "#_##_#########",
+        "#_##_#########",
+        "_PA_K___######",
+        "#_##_#_#######",
+        "#_##A#_#######",
+        "#_##_#P___H___",
+        "#E##_#L#######",
+        "#_###__R___L_#",
+        "######_#######",
+        "######T#######"
+      ],
+      "solution": [
+        "####B#########",
+        "#A##A#########",
+        "#L##C#########",
+        "SPARKLER######",
+        "#H##P#G#######",
+        "#A##A#G#######",
+        "#B##C#PINWHEEL",
+        "#E##K#L#######",
+        "#T###MARIGOLD#",
+        "######N#######",
+        "######T#######"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "BACKPACK",
+          "clue": "A bag carried on your shoulders, often used for school.",
+          "row": 0,
+          "col": 4,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "ALPHABET",
+          "clue": "The full set of letters from A to Z.",
+          "row": 1,
+          "col": 1,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "SPARKLER",
+          "clue": "A handheld firework that throws off glittering sparks.",
+          "row": 3,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "EGGPLANT",
+          "clue": "A glossy purple vegetable, also called an aubergine.",
+          "row": 3,
+          "col": 6,
+          "length": 8
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "PINWHEEL",
+          "clue": "A toy on a stick with blades that spin in the wind.",
+          "row": 6,
+          "col": 6,
+          "length": 8
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "MARIGOLD",
+          "clue": "A garden flower with bright orange or yellow petals.",
+          "row": 8,
+          "col": 5,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 39,
+      "difficulty": "Medium-Hard",
+      "rows": 11,
+      "cols": 14,
+      "grid": [
+        "___S___L######",
+        "######_#######",
+        "######_#_##_##",
+        "######___OS__E",
+        "######_#_##_#X",
+        "######A#R##_#_",
+        "######_#_##M#_",
+        "######E#_##_#_",
+        "########_##L#_",
+        "########H##_#_",
+        "#############_"
+      ],
+      "solution": [
+        "SEASHELL######",
+        "######E#######",
+        "######M#A##W##",
+        "######OPPOSITE",
+        "######N#P##N#X",
+        "######A#R##D#C",
+        "######D#O##M#H",
+        "######E#A##I#A",
+        "########C##L#N",
+        "########H##L#G",
+        "#############E"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "across",
+          "answer": "SEASHELL",
+          "clue": "The hard empty home of an ocean creature, found on a beach.",
+          "row": 0,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "LEMONADE",
+          "clue": "A sweet and sour drink made from a yellow citrus fruit.",
+          "row": 0,
+          "col": 6,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "APPROACH",
+          "clue": "To come nearer to something.",
+          "row": 2,
+          "col": 8,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "WINDMILL",
+          "clue": "A tall building with sails that turn in the breeze.",
+          "row": 2,
+          "col": 11,
+          "length": 8
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "OPPOSITE",
+          "clue": "Completely different; as hot is to cold.",
+          "row": 3,
+          "col": 6,
+          "length": 8
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "answer": "EXCHANGE",
+          "clue": "To give one thing and receive another in return.",
+          "row": 3,
+          "col": 13,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 40,
+      "difficulty": "Medium-Hard",
+      "rows": 12,
+      "cols": 14,
+      "grid": [
+        "_#_###########",
+        "U#_###########",
+        "_____EE_######",
+        "B#_###########",
+        "_#W__L_#######",
+        "_#O###_#######",
+        "_#_###O_F_____",
+        "_#K###_#######",
+        "######_#######",
+        "######_#######",
+        "######_#######",
+        "######L#######"
+      ],
+      "solution": [
+        "C#F###########",
+        "U#I###########",
+        "PARAKEET######",
+        "B#E###########",
+        "O#WORLD#######",
+        "A#O###O#######",
+        "R#R###OFFICIAL",
+        "D#K###R#######",
+        "######B#######",
+        "######E#######",
+        "######L#######",
+        "######L#######"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "CUPBOARD",
+          "clue": "A cabinet with doors used for storing dishes or food.",
+          "row": 0,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "FIREWORK",
+          "clue": "A device that explodes into colorful lights in the night sky.",
+          "row": 0,
+          "col": 2,
+          "length": 8
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "PARAKEET",
+          "clue": "A small, colorful pet parrot with a long tail.",
+          "row": 2,
+          "col": 0,
+          "length": 8
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "WORLD",
+          "clue": "The Earth and all its people and places.",
+          "row": 4,
+          "col": 2,
+          "length": 5
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "DOORBELL",
+          "clue": "The button you press to announce you have arrived at a house.",
+          "row": 4,
+          "col": 6,
+          "length": 8
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "OFFICIAL",
+          "clue": "Approved by someone in authority.",
+          "row": 6,
+          "col": 6,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "level": 41,
+      "difficulty": "Hard",
+      "rows": 14,
+      "cols": 14,
+      "grid": [
+        "T#############",
+        "E#_###########",
+        "_#_O__R#######",
+        "_#_###########",
+        "__AY__O___####",
+        "_#_##E########",
+        "_#_##____L__E_",
+        "_#_##_########",
+        "_#R#_____F_L_#",
+        "##_##_########",
+        "##_##R########",
+        "#####_########",
+        "#####_########",
+        "#####_########"
+      ],
+      "solution": [
+        "T#############",
+        "E#S###########",
+        "L#TOWER#######",
+        "E#R###########",
+        "PLAYGROUND####",
+        "H#W##E########",
+        "O#B##SUNFLOWER",
+        "N#E##T########",
+        "E#R#WATERFALL#",
+        "##R##U########",
+        "##Y##R########",
+        "#####A########",
+        "#####N########",
+        "#####T########"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "TELEPHONE",
+          "clue": "A device used to communicate over distance.",
+          "row": 0,
+          "col": 0,
+          "length": 9
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "STRAWBERRY",
+          "clue": "A small red fruit with seeds on its surface.",
+          "row": 1,
+          "col": 2,
+          "length": 10
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "TOWER",
+          "clue": "A tall, narrow building or part of a castle.",
+          "row": 2,
+          "col": 2,
+          "length": 5
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "PLAYGROUND",
+          "clue": "An outdoor area designed for children to play.",
+          "row": 4,
+          "col": 0,
+          "length": 10
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "RESTAURANT",
+          "clue": "A place where meals are prepared and served.",
+          "row": 4,
+          "col": 5,
+          "length": 10
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "SUNFLOWER",
+          "clue": "A tall flower with a large yellow head.",
+          "row": 6,
+          "col": 5,
+          "length": 9
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "answer": "WATERFALL",
+          "clue": "A river plunging over a steep cliff edge.",
+          "row": 8,
+          "col": 4,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "level": 42,
+      "difficulty": "Hard",
+      "rows": 15,
+      "cols": 13,
+      "grid": [
+        "########_####",
+        "####___T____E",
+        "########_####",
+        "########_####",
+        "_###____AP_L_",
+        "_#_#####L####",
+        "_#__O_A__####",
+        "E#_#####_####",
+        "_H_______H###",
+        "_#_#####_####",
+        "_#_##########",
+        "C#L##########",
+        "_#_##########",
+        "##G##########",
+        "##_##########"
+      ],
+      "solution": [
+        "########C####",
+        "####NECTARINE",
+        "########N####",
+        "########T####",
+        "F###PINEAPPLE",
+        "I#C#####L####",
+        "R#AVOCADO####",
+        "E#M#####U####",
+        "PHOTOGRAPH###",
+        "L#U#####E####",
+        "A#F##########",
+        "C#L##########",
+        "E#A##########",
+        "##G##########",
+        "##E##########"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "CANTALOUPE",
+          "clue": "A melon with rough tan skin and sweet orange flesh.",
+          "row": 0,
+          "col": 8,
+          "length": 10
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "NECTARINE",
+          "clue": "A smooth-skinned fruit that is closely related to the peach.",
+          "row": 1,
+          "col": 4,
+          "length": 9
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "FIREPLACE",
+          "clue": "A place in a room where a fire can be made.",
+          "row": 4,
+          "col": 0,
+          "length": 9
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "PINEAPPLE",
+          "clue": "A tropical fruit with a rough skin and leafy crown.",
+          "row": 4,
+          "col": 4,
+          "length": 9
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "CAMOUFLAGE",
+          "clue": "Colors or patterns that help an animal blend into its surroundings.",
+          "row": 5,
+          "col": 2,
+          "length": 10
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "AVOCADO",
+          "clue": "A green pear-shaped fruit used to make guacamole.",
+          "row": 6,
+          "col": 2,
+          "length": 7
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "answer": "PHOTOGRAPH",
+          "clue": "A picture taken with a camera.",
+          "row": 8,
+          "col": 0,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "level": 43,
+      "difficulty": "Hard",
+      "rows": 17,
+      "cols": 10,
+      "grid": [
+        "#_########",
+        "#_########",
+        "#_########",
+        "#____L_B__",
+        "#O########",
+        "_____R_L_#",
+        "#_########",
+        "___E_N####",
+        "#_#_######",
+        "_ENE______",
+        "###_######",
+        "###_######",
+        "#N_W__A___",
+        "###_######",
+        "###_######",
+        "###_######",
+        "###_######"
+      ],
+      "solution": [
+        "#T########",
+        "#A########",
+        "#M########",
+        "#BUMBLEBEE",
+        "#O########",
+        "BUTTERFLY#",
+        "#R########",
+        "PIGEON####",
+        "#N#V######",
+        "GENEROSITY",
+        "###R######",
+        "###Y######",
+        "#NEWSPAPER",
+        "###H######",
+        "###E######",
+        "###R######",
+        "###E######"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "TAMBOURINE",
+          "clue": "A handheld drum with jingling metal discs around its rim.",
+          "row": 0,
+          "col": 1,
+          "length": 10
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "BUMBLEBEE",
+          "clue": "A large, fuzzy, buzzing insect that visits flowers.",
+          "row": 3,
+          "col": 1,
+          "length": 9
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "BUTTERFLY",
+          "clue": "An insect with four colorful wings.",
+          "row": 5,
+          "col": 0,
+          "length": 9
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "PIGEON",
+          "clue": "A gray bird commonly seen in city squares.",
+          "row": 7,
+          "col": 0,
+          "length": 6
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "EVERYWHERE",
+          "clue": "In all places.",
+          "row": 7,
+          "col": 3,
+          "length": 10
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "GENEROSITY",
+          "clue": "The quality of being kind and willing to share.",
+          "row": 9,
+          "col": 0,
+          "length": 10
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "answer": "NEWSPAPER",
+          "clue": "Printed pages that report the daily headlines.",
+          "row": 12,
+          "col": 1,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "level": 44,
+      "difficulty": "Hard",
+      "rows": 13,
+      "cols": 18,
+      "grid": [
+        "##########_####_##",
+        "########__LL__#_##",
+        "#_########A####N##",
+        "_E____EA_#_####D##",
+        "#_######A#_####_##",
+        "#E######_LA_____R_",
+        "#_######_#_####_##",
+        "#_######_#_####_##",
+        "#_######_#_####_##",
+        "#_######_#_#######",
+        "#_######O#########",
+        "########_#########",
+        "########_#########"
+      ],
+      "solution": [
+        "##########P####W##",
+        "########VALLEY#O##",
+        "#V########A####N##",
+        "HEARTBEAT#N####D##",
+        "#G######A#T####E##",
+        "#E######BLACKBERRY",
+        "#T######L#T####F##",
+        "#A######E#I####U##",
+        "#B######S#O####L##",
+        "#L######P#N#######",
+        "#E######O#########",
+        "########O#########",
+        "########N#########"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "PLANTATION",
+          "clue": "A very large farm where a single crop such as tea is grown.",
+          "row": 0,
+          "col": 10,
+          "length": 10
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "WONDERFUL",
+          "clue": "Extremely good or pleasing.",
+          "row": 0,
+          "col": 15,
+          "length": 9
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "VALLEY",
+          "clue": "Low land between hills or mountains.",
+          "row": 1,
+          "col": 8,
+          "length": 6
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "VEGETABLE",
+          "clue": "A carrot, a bean, or a pea, for example.",
+          "row": 2,
+          "col": 1,
+          "length": 9
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "HEARTBEAT",
+          "clue": "The steady thump you feel in your chest.",
+          "row": 3,
+          "col": 0,
+          "length": 9
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "answer": "TABLESPOON",
+          "clue": "A large kitchen utensil used for serving or measuring.",
+          "row": 3,
+          "col": 8,
+          "length": 10
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "answer": "BLACKBERRY",
+          "clue": "A dark, juicy fruit that grows on thorny brambles.",
+          "row": 5,
+          "col": 8,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "level": 45,
+      "difficulty": "Hard",
+      "rows": 17,
+      "cols": 13,
+      "grid": [
+        "#P_______E###",
+        "###E#########",
+        "###_______OO_",
+        "###R#########",
+        "#D__A_#######",
+        "#R#_#########",
+        "#_#_#########",
+        "#W#_#########",
+        "#_#_###_#####",
+        "#_#_###_#####",
+        "#_#####_#####",
+        "_D_E___R_####",
+        "#_#####_#####",
+        "#_#####_#####",
+        "#######R#####",
+        "#######_#####",
+        "#######_#####"
+      ],
+      "solution": [
+        "#PORCUPINE###",
+        "###E#########",
+        "###COTTONWOOD",
+        "###R#########",
+        "#DREAM#######",
+        "#R#A#########",
+        "#A#T#########",
+        "#W#I#########",
+        "#B#O###S#####",
+        "#R#N###C#####",
+        "#I#####A#####",
+        "ADVENTURE####",
+        "#G#####E#####",
+        "#E#####C#####",
+        "#######R#####",
+        "#######O#####",
+        "#######W#####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "across",
+          "answer": "PORCUPINE",
+          "clue": "A rodent covered in sharp quills.",
+          "row": 0,
+          "col": 1,
+          "length": 9
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "RECREATION",
+          "clue": "Fun activities you do in your free time.",
+          "row": 0,
+          "col": 3,
+          "length": 10
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "COTTONWOOD",
+          "clue": "A poplar tree whose seeds are covered in fluffy white hairs.",
+          "row": 2,
+          "col": 3,
+          "length": 10
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "DREAM",
+          "clue": "A story your mind creates while you are asleep.",
+          "row": 4,
+          "col": 1,
+          "length": 5
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "DRAWBRIDGE",
+          "clue": "A castle entrance that can be raised or lowered over a moat.",
+          "row": 4,
+          "col": 1,
+          "length": 10
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "SCARECROW",
+          "clue": "A straw figure placed in a field to frighten birds away.",
+          "row": 8,
+          "col": 7,
+          "length": 9
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "ADVENTURE",
+          "clue": "An exciting and daring journey or experience.",
+          "row": 11,
+          "col": 0,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "level": 46,
+      "difficulty": "Hard",
+      "rows": 15,
+      "cols": 13,
+      "grid": [
+        "_____A__S_###",
+        "##_##########",
+        "##_N_E____N##",
+        "##V##_#######",
+        "____L_H___###",
+        "##_##_#######",
+        "##S##_#M#####",
+        "##_##_#A#####",
+        "##_##T#_#####",
+        "##_##_#_#####",
+        "####___A___L_",
+        "#######_#####",
+        "#######_#####",
+        "#######_#####",
+        "#######_#####"
+      ],
+      "solution": [
+        "JOURNALIST###",
+        "##N##########",
+        "##INVENTION##",
+        "##V##S#######",
+        "WHEELCHAIR###",
+        "##R##A#######",
+        "##S##L#M#####",
+        "##I##A#A#####",
+        "##T##T#R#####",
+        "##Y##O#M#####",
+        "####TREADMILL",
+        "#######L#####",
+        "#######A#####",
+        "#######D#####",
+        "#######E#####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "across",
+          "answer": "JOURNALIST",
+          "clue": "A person who writes news stories.",
+          "row": 0,
+          "col": 0,
+          "length": 10
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "UNIVERSITY",
+          "clue": "A place of higher learning where students earn degrees.",
+          "row": 0,
+          "col": 2,
+          "length": 10
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "INVENTION",
+          "clue": "A new device or idea that someone creates for the first time.",
+          "row": 2,
+          "col": 2,
+          "length": 9
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "ESCALATOR",
+          "clue": "A moving staircase found in malls and stations.",
+          "row": 2,
+          "col": 5,
+          "length": 9
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "WHEELCHAIR",
+          "clue": "A rolling seat for someone who cannot walk easily.",
+          "row": 4,
+          "col": 0,
+          "length": 10
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "answer": "MARMALADE",
+          "clue": "A citrus jam with pieces of peel, spread on bread.",
+          "row": 6,
+          "col": 7,
+          "length": 9
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "answer": "TREADMILL",
+          "clue": "An exercise machine with a moving belt for running in place.",
+          "row": 10,
+          "col": 4,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "level": 47,
+      "difficulty": "Hard",
+      "rows": 18,
+      "cols": 14,
+      "grid": [
+        "#########G####",
+        "#########_####",
+        "#########_####",
+        "#########_####",
+        "#########_####",
+        "#########_####",
+        "#########I####",
+        "#########_####",
+        "###____ER____#",
+        "#####_########",
+        "#####_____T__E",
+        "#####_########",
+        "###I_______O_#",
+        "#####_########",
+        "Q___KS___#####",
+        "#####I########",
+        "#####_########",
+        "#####___HT____"
+      ],
+      "solution": [
+        "#########G####",
+        "#########Y####",
+        "#########M####",
+        "#########N####",
+        "#########A####",
+        "#########S####",
+        "#########I####",
+        "#########U####",
+        "###BUTTERMILK#",
+        "#####E########",
+        "#####LIMESTONE",
+        "#####E########",
+        "###INVITATION#",
+        "#####I########",
+        "QUICKSAND#####",
+        "#####I########",
+        "#####O########",
+        "#####NIGHTGOWN"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "GYMNASIUM",
+          "clue": "A large indoor hall used for sports and exercise.",
+          "row": 0,
+          "col": 9,
+          "length": 9
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "answer": "BUTTERMILK",
+          "clue": "A tangy dairy liquid often used in biscuits and batter.",
+          "row": 8,
+          "col": 3,
+          "length": 10
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "TELEVISION",
+          "clue": "A screen at home used for watching shows and movies.",
+          "row": 8,
+          "col": 5,
+          "length": 10
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "LIMESTONE",
+          "clue": "A pale rock made mostly of calcium, often used in building.",
+          "row": 10,
+          "col": 5,
+          "length": 9
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "answer": "INVITATION",
+          "clue": "A card or message asking you to come to an event.",
+          "row": 12,
+          "col": 3,
+          "length": 10
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "QUICKSAND",
+          "clue": "Loose, wet ground that things sink into.",
+          "row": 14,
+          "col": 0,
+          "length": 9
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "answer": "NIGHTGOWN",
+          "clue": "A loose garment worn to bed.",
+          "row": 17,
+          "col": 5,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "level": 48,
+      "difficulty": "Hard",
+      "rows": 14,
+      "cols": 12,
+      "grid": [
+        "##########_#",
+        "##########_#",
+        "##########E#",
+        "########_#A#",
+        "#_####___E_Y",
+        "#C##_#A#_#_#",
+        "#_##N#_#_#_#",
+        "#_##_#_#_#_#",
+        "#_##W#_#B#_#",
+        "#D##_#_#_###",
+        "#_##_#_#A###",
+        "__O___UR__##",
+        "#_##_#_#_###",
+        "####_#_#####"
+      ],
+      "solution": [
+        "##########S#",
+        "##########P#",
+        "##########E#",
+        "########S#A#",
+        "#A####BAKERY",
+        "#C##S#A#A#M#",
+        "#C##N#C#T#I#",
+        "#O##O#K#E#N#",
+        "#R##W#G#B#T#",
+        "#D##B#R#O###",
+        "#I##O#O#A###",
+        "KOOKABURRA##",
+        "#N##R#N#D###",
+        "####D#D#####"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "SPEARMINT",
+          "clue": "A fresh herb flavor common in chewing gum.",
+          "row": 0,
+          "col": 10,
+          "length": 9
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "SKATEBOARD",
+          "clue": "A short deck on four wheels used for riding and tricks.",
+          "row": 3,
+          "col": 8,
+          "length": 10
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "answer": "ACCORDION",
+          "clue": "A squeezebox instrument played by pressing keys and pumping bellows.",
+          "row": 4,
+          "col": 1,
+          "length": 9
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "answer": "BAKERY",
+          "clue": "A shop that sells fresh loaves, cakes, and pastries.",
+          "row": 4,
+          "col": 6,
+          "length": 6
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "BACKGROUND",
+          "clue": "The part of a scene that lies behind the main subject.",
+          "row": 4,
+          "col": 6,
+          "length": 10
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "SNOWBOARD",
+          "clue": "A single wide deck ridden down wintry mountain slopes.",
+          "row": 5,
+          "col": 4,
+          "length": 9
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "KOOKABURRA",
+          "clue": "An Australian bird famous for a call that sounds like laughter.",
+          "row": 11,
+          "col": 0,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "level": 49,
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "grid": [
+        "#############H",
+        "#############_",
+        "#############_",
+        "#####_#######_",
+        "#####_#######_",
+        "####_R__S####_",
+        "_#_##_#######G",
+        "_#O##FA_M_____",
+        "_#_##_#######_",
+        "_#_##_########",
+        "U_D__W____####",
+        "_#_##_########",
+        "I#_##_########",
+        "_#I###########",
+        "_#_###########",
+        "##_###########"
+      ],
+      "solution": [
+        "#############H",
+        "#############A",
+        "#############M",
+        "#####C#######B",
+        "#####O#######U",
+        "####GRASS####R",
+        "T#F##N#######G",
+        "U#O##FARMHOUSE",
+        "R#U##L#######R",
+        "Q#N##O########",
+        "UNDERWATER####",
+        "O#A##E########",
+        "I#T##R########",
+        "S#I###########",
+        "E#O###########",
+        "##N###########"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "answer": "HAMBURGER",
+          "clue": "A grilled beef patty served in a bun.",
+          "row": 0,
+          "col": 13,
+          "length": 9
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "CORNFLOWER",
+          "clue": "A wild meadow plant with bright blue petals.",
+          "row": 3,
+          "col": 5,
+          "length": 10
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "GRASS",
+          "clue": "Green plants that commonly cover lawns and fields.",
+          "row": 5,
+          "col": 4,
+          "length": 5
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "TURQUOISE",
+          "clue": "A blue-green color named after a gemstone.",
+          "row": 6,
+          "col": 0,
+          "length": 9
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "FOUNDATION",
+          "clue": "The solid base on which a house is constructed.",
+          "row": 6,
+          "col": 2,
+          "length": 10
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "FARMHOUSE",
+          "clue": "The main home on a piece of agricultural land.",
+          "row": 7,
+          "col": 5,
+          "length": 9
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "answer": "UNDERWATER",
+          "clue": "Beneath the surface of the sea or a pool.",
+          "row": 10,
+          "col": 0,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "level": 50,
+      "difficulty": "Hard",
+      "rows": 13,
+      "cols": 20,
+      "grid": [
+        "T_____A___##########",
+        "#####_##############",
+        "#####_##############",
+        "#####__AST##_#######",
+        "#####_##_##_O___D___",
+        "#####A##_###_#######",
+        "#####_#_____TI__####",
+        "#####T##_###_#######",
+        "#####_##_###_#######",
+        "#####_##R###_#######",
+        "########_###_#######",
+        "########_###T#######",
+        "########_###########"
+      ],
+      "solution": [
+        "TOOTHPASTE##########",
+        "#####O##############",
+        "#####S##############",
+        "#####TOAST##F#######",
+        "#####M##P##TOUCHDOWN",
+        "#####A##A###O#######",
+        "#####S#SCIENTIST####",
+        "#####T##E###P#######",
+        "#####E##C###R#######",
+        "#####R##R###I#######",
+        "########A###N#######",
+        "########F###T#######",
+        "########T###########"
+      ],
+      "words": [
+        {
+          "number": 1,
+          "direction": "across",
+          "answer": "TOOTHPASTE",
+          "clue": "The minty cream you squeeze onto a brush to clean your teeth.",
+          "row": 0,
+          "col": 0,
+          "length": 10
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "answer": "POSTMASTER",
+          "clue": "The person in charge of a mail office.",
+          "row": 0,
+          "col": 5,
+          "length": 10
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "answer": "TOAST",
+          "clue": "Bread browned by heat.",
+          "row": 3,
+          "col": 5,
+          "length": 5
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "answer": "SPACECRAFT",
+          "clue": "A vehicle designed to travel beyond Earth's atmosphere.",
+          "row": 3,
+          "col": 8,
+          "length": 10
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "answer": "FOOTPRINT",
+          "clue": "The mark a shoe leaves in mud or sand.",
+          "row": 3,
+          "col": 12,
+          "length": 9
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "answer": "TOUCHDOWN",
+          "clue": "A six-point score in American football.",
+          "row": 4,
+          "col": 11,
+          "length": 9
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "answer": "SCIENTIST",
+          "clue": "A person who studies the world through experiments.",
+          "row": 6,
+          "col": 7,
+          "length": 9
+        }
+      ]
+    }
+  ]
+}
